@@ -1,7 +1,5 @@
----
-title: "this is my art"
-date: "2016-09-05"
----
+@@ -0,0 +1 @@
+
 # This is my art
 
 <small>Projects | Lectures | Teachings | Designs | Texts | [Curation](curation.md) | [Awards](awards.md) | [Blog](https://readruiz.medium.com/)</small>
