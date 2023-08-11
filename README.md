@@ -1,5 +1,3 @@
-@@ -0,0 +1 @@
-
 # This is my art
 
 <small>Projects | Lectures | Teachings | Designs | Texts | [Curation](curation.md) | [Awards](awards.md) | [Blog](https://readruiz.medium.com/)</small>
