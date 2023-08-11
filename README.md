@@ -1,6 +1,4 @@
-# This is my art
-
-<small>Projects | Lectures | Teachings | Designs | Texts | [Curation](curation.md) | [Awards](awards.md) | [Blog](https://readruiz.medium.com/)</small>
+<small>[Projects](projects.md) | Lectures | Teachings | Designs | Texts | [Curation](curation.md) | [Awards](awards.md) | [Blog](https://readruiz.medium.com/)</small>
 
 Ricardo is a researcher, lecturer and consultant on the intersection of innovation and sociopolitical inclusion. He has 20 years of experience developing projects on digital tools and human rights in the governmental sector, development cooperation, and academia.
 
