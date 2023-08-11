@@ -5,7 +5,9 @@ categories:
   - "projects"
 coverImage: "ip-featured.jpg"
 ---
+# IP:// - Public Interface
 
+![](images/ip-featured.jpg)
 Co-foundation of the collective
 
 - [![](images/ip4.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/ip4.jpg)

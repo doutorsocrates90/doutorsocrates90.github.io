@@ -5,7 +5,8 @@ categories:
   - "lectures"
 coverImage: "ruizideias.jpg"
 ---
-
+#itaú cultural
+![](images/ruizideias.jpg)
 Panel about Free and Tactical Media.  
 [Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012
 

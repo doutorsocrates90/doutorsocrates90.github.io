@@ -5,14 +5,14 @@ categories:
   - "projects"
 coverImage: "labceus2.jpg"
 ---
+#LabCEUs
+![](images/labceus2.jpg)
 
 Co-orientation of Federal University of Pernambuco Extension Program LabCEUS.
 
 - [![](images/26777138753_845ddcecea_o-1024x683.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/26777138753_845ddcecea_o-1024x683.jpg)
     
 - [![](images/29342797183_6f66f72aba_o-1024x579.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/29342797183_6f66f72aba_o-1024x579.jpg)
-    
-- [![](images/labceus2.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/labceus2.jpg)
     
 - [![](images/labceus1.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/labceus1.jpg)
     
