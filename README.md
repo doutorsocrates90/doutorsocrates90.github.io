@@ -6,5 +6,6 @@ Ricardo holds an MA in Local Sustainable Development Management from the Faculty
 
 Ricardo is the Executive Director of the Global Innovation Gathering - a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroots innovation community initiatives worldwide. His experience ranges from being a consultant for IBM Corporate Service Corps International Leadership Training / PYXERA Global; to co-founding and designing at 3Ecologias, an IT consulting firm for the environment, education and culture. He has participated in numerous projects for social inclusion through opens source information technology.
 
+<br>
 FREIRE, Ricardo Ruiz  
 [medium](http://medium.com/@readruiz/) | [linkedin](https://www.linkedin.com/in/ricardoruizfreire/) | [udemy](https://www.udemy.com/user/ricardo-ruiz-freire-2/) | [youtube](https://www.youtube.com/channel/UCiYmPKUDiuqjCEqM_6taKGg)

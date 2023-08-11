@@ -1,15 +1,15 @@
-<small>[Projects](projects.md) | [Lectures](lectures.md) | [Teachings](teachings.md) | [Designs](designs.md) | [Texts](texts.md) | [Curation](curation.md) | [Awards](awards.md) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+<small>Projects | [Lectures](lectures.md) | [Teachings](teachings.md) | [Designs](designs.md) | [Texts](texts.md) | [Curation](curation.md) | [Awards](awards.md) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-Cards Against The Planet
-Careables Latin America
-Contos De Ifá
-Mozilla Reimagine Open
-Digitologias
-LabCEUs
-Urban Thinkers Campus Recife
-Radio Amnésia
-Digital Culture – Ministry Of Culture
-Submidialogia
-MimoSa
-IP:// – Public Interface
-Mídia Tática Brasil
+* [Cards Against The Planet](post/cards-against-the-planet.md)
+* [Careables Latin America](post/careables-latin-america.md)
+* [Contos De Ifá](post/contos-de-ifa.md)
+* [Mozilla Reimagine Open](post/mozilla-reimagine-open-brazil.md)
+* [Digitologias](post/digitologias.md)
+* [LabCEUs](post/labceus.md)
+* [Urban Thinkers Campus Recife](post/urban-thinkers-campus-recife.md)
+* [Radio Amnésia](post/rede-amnesia-de-radios.md)
+* [Digital Culture – Ministry Of Culture](post/digital-culture-ministry-of-culture.md)
+* [Submidialogia](post/submidialogia.md)
+* [MimoSa](post/mimosa.md)
+* [IP:// – Public Interface](post/ip-public-interface.md)
+* [Mídia Tática Brasil](post/midia-tatica-brasil.md)
