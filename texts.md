@@ -1,36 +1,23 @@
----
-title: "How to measure innovation? (online)"
 
+<head>
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
 
----
+<small>[Projects](projects.md) | [Lectures](lectures.md) | [Teachings](teachings.md) | [Designs](designs.md) | [Texts](texts.md) | [Curation](curation.md) | [Awards](awards.md) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-Measuring creative economy organisations´ innovation degree
+[[ _TOC_ ]]
+[[TOC]]
+[TOC]
 
-![images/Como-medir-a-INOVACAO1.png](images/Como-medir-a-INOVACAO1.png)
-
-The course presents tools and concepts to identify and manage the degree of innovation of organizations in the creative economy, but not only. It explains what innovation is, how to measure its work, how policies and investment for innovation work in Brazil, and the relationship between innovation and the creative economy. It also presents a tool to constantly measure innovation in creative economy ventures and monitor each dimension of this measurement.
-
-[Take the course @ Udemy](https://www.udemy.com/course/como-medir-a-inovacao/?referralCode=545D5B6F7471C8422AEF)
----
-title: "Covid-19 Response From Global Makers: The Careables Cases of Global Design and Local Production"
-date: "2021-06-03"
-categories: 
-  - "publications"
----
-
+# Covid-19 Response From Global Makers: The Careables Cases of Global Design and Local Production
 Frontiers Sociology, 18 March 2021 | [https://doi.org/10.3389/fsoc.2021.629587](https://doi.org/10.3389/fsoc.2021.629587)
 
-Makerspaces—informal shared spaces that offer access to technologies, resources and a community of peer learners for making—across the globe initiated a rapid response to the lack of medical hardware supplies during the global pandemic outbreak in early 2020 caused by the Corona virus (COVID-19). As our health systems faced unexperienced pressure, being close to collapsing in some countries, and global supply chains failing to react immediately, makers started to prototype, locally produce and globally share designs of Open Source healthcare products, such as face shields and other medical supplies. Local collaboration with hospitals and healthcare professionals were established. These bottom-up initiatives from maker networks across the globe are showing us how responsible innovation is happening outside the constraints of profit-driven large industries. In this qualitative study we present five cases from a global network of makers that contributed to the production of personal protective equipment (PPE) and healthcare-related products. We draw our cases from the experiences made in _Careables_, a mixed community of people and organizations committed to the co-design and making of open, personalized healthcare for everyone. With the presented cases we reflect on the potential implications for post-pandemic local production of healthcare products and analyze them from a social innovation perspective. These global experiences are valuable indications of transformative innovations that can reduce dependencies from international supply chains and mainstream mass production.
+Makerspaces—informal shared spaces that offer access to technologies, resources and a community of peer learners for making—across the globe initiated a rapid response to the lack of medical hardware supplies during the global pandemic outbreak in early 2020 caused by the Coronavirus (COVID-19). As our health systems faced inexperienced pressure, close to collapsing in some countries, and global supply chains failed to react immediately, makers started to prototype, locally produce and globally share designs of Open Source healthcare products, such as face shields and other medical supplies. Local collaboration with hospitals and healthcare professionals was established. These bottom-up initiatives from maker networks across the globe are showing us how responsible innovation is happening outside the constraints of large profit-driven industries. This qualitative study presents five cases from a global network of makers that contributed to producing personal protective equipment (PPE) and healthcare-related products. We draw our cases from the experiences in _Careables_, a mixed community of people and organisations committed to co-design and making open, personalised healthcare for everyone. With the presented cases, we reflect on the potential implications for post-pandemic local production of healthcare products and analyse them from a social innovation perspective. These global experiences are valuable indications of transformative innovations that can reduce dependencies on international supply chains and mainstream mass production.
 
 [Read the full article](https://www.frontiersin.org/articles/10.3389/fsoc.2021.629587/full)
----
-title: "Grau de inovação de centros culturais com inserção comunitária no estado de Pernambuco"
-date: "2020-05-25"
-categories: 
-  - "publications"
----
 
-Masters dissertation. Honorable Mention for best dissertation of the year - Faculty of Administration Sciences - University of Pernambuco
+# Grau de inovação de centros culturais com inserção comunitária no estado de Pernambuco
+Masters dissertation. Honourable Mention for best dissertation of the year - Faculty of Administration Sciences - University of Pernambuco
 
 August 2018
 
