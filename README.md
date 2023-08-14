@@ -1,5 +1,5 @@
 ---
-title: this is my art ::: FREIRE, Ricardo Ruiz
+title: this is my art - FREIRE, Ricardo Ruiz
 ---
 <head>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
