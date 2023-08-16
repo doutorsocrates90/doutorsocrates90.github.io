@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
-</head>
-
 <small>[Projects](projects.md) | [Lectures](lectures.md) | [Teachings](teachings.md) | [Designs](designs.md) | [Texts](texts.md) | [Curation](curation.md) | [Awards](awards.md) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 Ricardo is a researcher, lecturer and consultant on the intersection of innovation and sociopolitical inclusion. He has 20 years of experience developing projects on digital tools and human rights in the governmental sector, development cooperation, and academia.
