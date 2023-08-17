@@ -95,13 +95,6 @@ A book chapter that beckons entrepreneurship as an instrument that enhances comp
 
 [See publication](http://www.edupe.com.br/produto.php?codigo=79)
 
----
- 
-# Violações do direito à religiosidade na mídia e a omissão do Estado Brasileiro
-
-It is an observation, consolidation and interpretation project on the media´s role in the construction – or deconstruction – of a society´s rights to worship and expression of religions as guaranteed by the Universal Declaration of Human Rights. It seeks to analyse and understand religious intolerance potentiation by the media´s dominant role. Its mission is to produce and disseminate information and opinions and at the same time, carry out formative and informative actions on the subject.
-
-[https://doi.org/10.5281/zenodo.8246600](https://doi.org/10.5281/zenodo.8246600)
 
 ---
 
@@ -114,6 +107,17 @@ Interview with Ricardo Ruiz about 3Ecologias and their work on Contos de Ifá.
 [See publication](http://elib.suub.uni-bremen.de/edocs/00105344-1.pdf)
  
 ---
+ 
+# Violações do direito à religiosidade na mídia e a omissão do Estado Brasileiro
+
+November, 2012 - Observatório de Mídia e Religiosidade / CCCU
+
+It is an observation, consolidation and interpretation project on the media´s role in the construction – or deconstruction – of a society´s rights to worship and expression of religions as guaranteed by the Universal Declaration of Human Rights. It seeks to analyse and understand religious intolerance potentiation by the media´s dominant role. Its mission is to produce and disseminate information and opinions and at the same time, carry out formative and informative actions on the subject.
+
+[https://doi.org/10.5281/zenodo.8246600](https://doi.org/10.5281/zenodo.8246600)
+
+---
+
 
 # Submidialogias - Entre a mão e a contramão
 
@@ -147,9 +151,9 @@ Oct 30, 2009, Furtherfield Magazine
  
 # Futuros Imaginários - das máquinas pensantes à aldeia global
 
-Jan 1, 2009 - Editora Peirópolis
+January 2009 - Editora Peirópolis
 
-Co-translation into Portuguese of Richard Barbrook's Imaginary Futures. In it, the author reflects on technological development, taking into account its political motivations and economic objectives, as well as its social repercussions, and connecting information from the fields of science, technology, economics, politics, history and mass communication. Barbrook challenges new generations to seize the power of the Internet, resist the status quo policy and use the most powerful communication tool of the moment to shape their destiny. His message is that if we don't want the future to be what it used to be, we need to invent our revolutionary future.
+Co-translation into Portuguese of Richard Barbrook's Imaginary Futures. In it, the author reflects on technological development, considering its political motivations and economic objectives, as well as its social repercussions, and connecting information from the fields of science, technology, economics, politics, history and mass communication. Barbrook challenges new generations to seize the power of the Internet, resist the status quo policy and use the most powerful communication tool of the moment to shape their destiny. His message is that if we don't want the future to be what it used to be, we must invent our revolutionary future.
 
 [See publication](https://books.google.com.br/books/about/Futuros_imaginários_Das_máquinas_pensa.html?id=iHKCCwAAQBAJ&source=kp_book_description&redir_esc=y)
  
@@ -157,8 +161,10 @@ Co-translation into Portuguese of Richard Barbrook's Imaginary Futures. In it, t
 
 # Anotações do Balcão do Sr. Didi"
 
+January 2008
+
 in _Apropriações Tecnológicas - Emergência de textos, idéias e imagens do Submidialogia#3_ / EDUFBA
 
 Chapter in a book that aims to promote the study and discussions on theories and practices of Brazilian digital media.  
 
-[See publication](https://books.google.com.br/books/about/Apropriações_tecnológicas.html?id=xmOGPgAACAAJ&source=kp_book_description&redir_esc=y)
+[See publication](https://www.amazon.com.br/Apropria%C3%A7%C3%B5es-Tecnologicas-Emergenciais-Textos-Schuch/dp/8523205284)
