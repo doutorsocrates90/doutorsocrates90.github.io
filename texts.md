@@ -62,7 +62,7 @@ This research aims to identify the degree of innovation of Pernambuco cultural e
   
 **Keywords**: Innovation. Social innovation. Indicators of innovation. Creative economy. Cultural Policies.
 
-[Download the PDF - in Portuguese](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/f866g_freire_ricardo_ruiz_20190415093712850.pdf)[Baixar](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/f866g_freire_ricardo_ruiz_20190415093712850.pdf) -> **change this links!!**
+<a href="disserta.pdf" target="_blank">Download in Portuguese</a>
 
 ---
 
