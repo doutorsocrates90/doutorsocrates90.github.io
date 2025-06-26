@@ -15,4 +15,4 @@ A multiplayer strategy card game presents problems faced by nature resulting fro
 
 Cards Against the Planet is a game about the environment in which players are compelled to tackle global climate change threats.
 
-Know more and download your card deck at [cardsagainsttheplanet.com](https://cardsagainsttheplanet.com)
+Know more and download your card deck at [naturabit.itch.io/cards-against-the-planet](https://naturabit.itch.io/cards-against-the-planet)
