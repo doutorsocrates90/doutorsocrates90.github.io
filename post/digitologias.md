@@ -8,13 +8,13 @@ coverImage: "23972881697_6183a29914_k.jpg"
 
 A series of conferences to debate, collect and manage water and sanitation data on the city of Belo Jardim
 
-- [![](images/digito01-1024x683.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito01.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito01.jpg"><img src="images/digito01-1024x683.jpg" alt="" /></a>
     
-- [![](images/digito02-1024x683.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito02.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito02.jpg"><img src="images/digito02-1024x683.jpg" alt="" /></a>
     
-- [![](images/digito03-1024x576.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito03.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito03.jpg"><img src="images/digito03-1024x576.jpg" alt="" /></a>
     
-- [![](images/digito04-1024x575.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito04.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/digito04.jpg"><img src="images/digito04-1024x575.jpg" alt="" /></a>
     
 
 The purpose of the conferences is to plan, together with agents from different spheres, actions that engage participants in the preparation of proposals that contribute to the territory of Belo Jardim following the United Nations - UN Sustainable Development Goals.

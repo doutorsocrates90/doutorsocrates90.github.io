@@ -8,13 +8,13 @@ coverImage: "wizards-of-OS.jpg"
 
 **mimoSa** - **Urban Intervention and Information Correction Machine**. Panel presenting a residency at Tesla. Berlin, 2006
 
-- [![](images/wizards-of-OS.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/wizards-of-OS.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/wizards-of-OS.jpg"><img src="images/wizards-of-OS.jpg" alt="" /></a>
     
-- [![](images/berlin1-1024x768.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin1-1024x768.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin1-1024x768.jpg"><img src="images/berlin1-1024x768.jpg" alt="" /></a>
     
-- [![](images/berlin2-1024x768.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin2-1024x768.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin2-1024x768.jpg"><img src="images/berlin2-1024x768.jpg" alt="" /></a>
     
-- [![](images/berlin3-1024x768.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin3-1024x768.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin3-1024x768.jpg"><img src="images/berlin3-1024x768.jpg" alt="" /></a>
     
 
 Conclusion of a residency at Tesla by presenting a mapping of Brazilian new media groups, festivals, arts and activism, connecting independent, governmental, community and private initiatives.
