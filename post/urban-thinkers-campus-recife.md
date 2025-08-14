@@ -8,13 +8,13 @@ coverImage: "utc3.jpg"
 
 Executive Direction of Urban Thinkers Campus (UTC) Brazil proposing the theme Inclusive Cities: young people and open technologies in the urban space (2015).
 
-- [![](images/utc4.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc4.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc4.jpg"><img src="images/utc4.jpg" alt="" /></a>
     
-- [![](images/utc-2.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc-2.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc-2.jpg"><img src="images/utc-2.jpg" alt="" /></a>
     
-- [![](images/utc1.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc1.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc1.jpg"><img src="images/utc1.jpg" alt="" /></a>
     
-- [![](images/utc5-menor-1024x683.jpg)](https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc5-menor.jpg)
+- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc5-menor.jpg"><img src="images/utc5-menor-1024x683.jpg" alt="" /></a>
     
 
 For four days, civil society, academia and representatives of the public and private sectors from around the world shared inspiring solutions for social inclusion and the creation of an urban narrative linked to open technologies with a focus on cities as inclusive territories. What is the role of cities as networks of learning spaces, especially for young people?

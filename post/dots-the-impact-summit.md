@@ -8,7 +8,7 @@ coverImage: "dots.jpeg"
 
 Debate on the topic of [Sustainable making](https://www.globalinnovationgathering.org/dots/) in teh city of Nakuru, Kenia.
 
-![](images/dots-1024x578.jpeg)
+<img src="images/dots-1024x578.jpeg" alt="" />
 
 DOTS December 2019
 

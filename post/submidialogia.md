@@ -8,15 +8,15 @@ coverImage: "brunet_10.jpg"
 
 Executive direction of submidialogy conferences serie, held in Campinas (São Paulo), Olinda (Pernambuco), Lençóis, Arraial d'Ajuda (Bahia), Atins (Maranhão) and Paranaguá (Paraná).
 
-- ![](images/brunet_10.jpg)
+- <img src="images/brunet_10.jpg" alt="" />
     
-- ![](images/kb10_04523.jpg)
+- <img src="images/kb10_04523.jpg" alt="" />
     
     Fotos Arquivo Karla Brunet
     
-- ![](images/brunet_6.jpg)
+- <img src="images/brunet_6.jpg" alt="" />
     
-- ![](images/kb10_04550.jpg)
+- <img src="images/kb10_04550.jpg" alt="" />
     
     Fotos Arquivo Karla Brunet
     
