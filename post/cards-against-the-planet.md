@@ -6,11 +6,15 @@ categories:
 coverImage: "WhatsApp-Image-2021-08-02-at-09.31.01.jpeg"
 ---
 
+# Cards Against the Planet
+
+<img src="images/WhatsApp-Image-2021-08-02-at-09.31.01.jpeg" alt="" />
+
 A multiplayer strategy card game presents problems faced by nature resulting from human activity. Together, the players embody the planet and turn cards to mitigate the pollution caused in the air, soil, and oceans.
 
-- <a href="https://thisismy.art.br/wp-content/uploads/sites/11/2021/08/WhatsApp-Image-2021-08-02-at-09.31.02-1.jpeg"><img src="images/WhatsApp-Image-2021-08-02-at-09.31.02-1-1024x682.jpeg" alt="" /></a>
+<img src="images/WhatsApp-Image-2021-08-02-at-09.31.02-1-1024x682.jpeg" alt="" />
     
-- <a href="https://thisismy.art.br/wp-content/uploads/sites/11/2021/08/WhatsApp-Image-2021-08-02-at-09.31.02.jpeg"><img src="images/WhatsApp-Image-2021-08-02-at-09.31.02-1024x686.jpeg" alt="" /></a>
+<img src="images/WhatsApp-Image-2021-08-02-at-09.31.02-1024x686.jpeg" alt="" />
     
 
 Cards Against the Planet is a game about the environment in which players are compelled to tackle global climate change threats.

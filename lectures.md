@@ -19,7 +19,6 @@
 
 [Open Source & the Pandemic: A Dialogues & Debates panel](https://schedule.mozillafestival.org/session/TYN3ZA-1)
 
-2021-03-18, 17:15–18:15, Broadcast Talks
 
 Open-source technology and principles have been a potent force in slowing the spread of a deadly virus.
 
@@ -63,7 +62,7 @@ Co-organisation and co-moderation of a series of remote meetings regarding the C
 
 <img src="images/WhatsApp-Image-2020-05-29-at-12.36.221-1024x649.jpeg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/WhatsApp-Image-2020-05-29-at-12.36.22.jpeg"><img src="images/WhatsApp-Image-2020-05-29-at-12.36.22-1024x639.jpeg" alt="" /></a>
+<a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/WhatsApp-Image-2020-05-29-at-12.36.22.jpeg"><img src="images/WhatsApp-Image-2020-05-29-at-12.36.22-1024x639.jpeg" alt="" /></a>
     
 
 As part of [Careables](http://thisismy.art.br/careables-latin-america/) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
@@ -87,7 +86,7 @@ DOTS brings together a broad range of knowledge-sharing, entrepreneurial and ope
 # re:publica 18
 
 
-coverImage: "republica18.jpg"
+<img src="images/republica18.jpg" alt="" />
 
 
 Moderator on the panel [Youth skills for the future of work(less) on the global south](https://18.re-publica.com/de/session/youth-skills-future-workless-global-south), Berlin, 2018.
@@ -101,11 +100,11 @@ Programming is the new literacy. Learning how to code is now an integral part of
 # Amazônia Interconectada
 
 
-coverImage: "amazon.jpg"
+<img src="images/amazon.jpg" alt="" />
 
 [Presentation](http://culturadigital.br/amazoniainterconectada/programacao/) during the Innovation and Traditional Cultures opening panel.
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/interconectada-1024x678.jpg"><img src="images/interconectada-1024x678.jpg" alt="" /></a>
+<a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/interconectada-1024x678.jpg"><img src="images/interconectada-1024x678.jpg" alt="" /></a>
     
 
 The International Conference promoted by the Federal University of Pará foments discussions about the possibilities of Amazon regional development from a technological perspective but focusing on preserving nature and local cultures.
@@ -126,19 +125,18 @@ New challenges demand new institutions and forms of organisation. How is civil s
 
 # #peacehackcamp
 
-coverImage: "phc.jpeg"
-
+<img src="images/phc.jpeg" alt="" />
 
 
 Different panels presentation at Salento, Colômbia, 2016
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/phc-1024x779.jpg"><img src="images/phc-1024x779.jpg" alt="" /></a>
+<img src="images/phc.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/phc3-1024x683.jpg"><img src="images/phc3-1024x683.jpg" alt="" /></a>
+<img src="images/phc3.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/phc4-1024x576.jpg"><img src="images/phc4-1024x576.jpg" alt="" /></a>
+<img src="images/phc4.jpeg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/phc5-1024x683.jpg"><img src="images/phc5-1024x683.jpg" alt="" /></a>
+<img src="images/phc5.jpg" alt="" />
     
 
 Peace Hack Camps are intensive media literacy and inter-communal peace-building workshops lasting several days. They tap into open source tools and media for their ability to promote collaborative enterprise in learning and innovation, foster mutually beneficial interaction among communities, enable shared ownership and effectively distribute gained knowledge between members of formerly hostile groups.
@@ -149,7 +147,7 @@ Peace Hack Camps are intensive media literacy and inter-communal peace-building 
 
 # Resilient Cities, Smart Citizens
 
-coverImage: "Smart-Citizen_588x656.jpg"
+<img src="images/Smart-Citizen_588x656.jpg" alt="" />
 
 Debate "Fostering Communities to tackle innovation", Rio de Janeiro, 2016.
 
@@ -162,7 +160,8 @@ The event was produced by the Dutch Consulate of Rio de Janeiro, which currently
 # Critical Dialogue Series
 
 
-coverImage: "43-1.jpg"
+<img src="images/43-1.jpg" alt="" />
+
 
 Different URBANISATIONS, Berlin, 2015.
 
@@ -174,7 +173,7 @@ https://vimeo.com/140911684
 
 # re:publica 15
 
-coverImage: "gig-hub.jpg"
+<img src="images/gig-hub.jpg" alt="" />
 
 Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCHITECTURE](https://15.re-publica.com/session/serendipity-city-informal-urban-planning-and-social-architecture), Berlin, 2015
 
@@ -184,28 +183,28 @@ https://www.youtube.com/watch?v=f4D61F\_3ffU
 
 # RedBull Basement Festival
 
-coverImage: "basement.jpg"
+<img src="images/basement.jpg" alt="" />
 
 Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-bull-basement-rola-neste-sabado), São Paulo, 2016
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/basement-red-bull-1024x682.jpg"><img src="images/basement-red-bull-1024x682.jpg" alt="" /></a>
+<img src="images/basement-red-bull-1024x682.jpg" alt="" />
 
 
 ---
 
 # MMKamp
 
-coverImage: "DSC03110.jpeg"
+<img src="images/DSC03110.jpeg"  alt="" />
 
 Lecture and workshop on Free Radio and Arts, Croatia, 2006
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC03347.jpeg"><img src="images/DSC03347-1024x768.jpeg" alt="" /></a>
+<img src="images/DSC03347-1024x768.jpeg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC03289.jpeg"><img src="images/DSC03289-1024x768.jpeg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC03279.jpeg"><img src="images/DSC03279-1024x768.jpeg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC03161.jpeg"><img src="images/DSC03161-1024x768.jpeg" alt="" /></a>
+<img src="images/DSC03289-1024x768.jpeg" alt="" /><
+
+<img src="images/DSC03279-1024x768.jpeg" alt="" />
+
+<img src="images/DSC03161-1024x768.jpeg" alt="" />
     
 
 MMKamp is an international “artist residency” project based on collaboration between non-profit organizations, artists, tactical media activists and ones who don’t know yet what they are and don’t care much. MMKamp concept is an art and new media laboratory, platform for researching, new media experimenting and developing new artistic and communication forms, through self-initiated collaboration among international artists and new media workers.
@@ -216,18 +215,18 @@ Visit project's [archive](https://web.archive.org/web/20100305063510/http://gent
 
 # Wizards of OS
 
-coverImage: "wizards-of-OS.jpg"
+<img src="images/wizards-of-OS.jpg" alt="" />
 
 
 **mimoSa** - **Urban Intervention and Information Correction Machine**. Panel presenting a residency at Tesla. Berlin, 2006
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/wizards-of-OS.jpg"><img src="images/wizards-of-OS.jpg" alt="" /></a>
+<img src="images/wizards-of-OS.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin1-1024x768.jpg"><img src="images/berlin1-1024x768.jpg" alt="" /></a>
+<img src="images/berlin1-1024x768.jpg" alt="" /><
+
+<img src="images/berlin2-1024x768.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin2-1024x768.jpg"><img src="images/berlin2-1024x768.jpg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/berlin3-1024x768.jpg"><img src="images/berlin3-1024x768.jpg" alt="" /></a>
+<img src="images/berlin3-1024x768.jpg" alt="" />
     
 
 Conclusion of a residency at Tesla by presenting a mapping of Brazilian new media groups, festivals, arts and activism, connecting independent, governmental, community and private initiatives.
@@ -238,14 +237,13 @@ Visit [Wizards of OS website](http://www.wizards-of-os.org/programm/specials/mim
 
 # Cybersalon
 
-coverImage: "gil.jpg"
+<img src="images/gil.jpg" alt="" />
 
-Panel Presentation about [Brazilian Open Source Software & Copyleft  
-](http://lewissykes.info/archives/cybersalon/past.html#gilbertogil)London, 2005
+Panel Presentation about [Brazilian Open Source Software & Copyleft](http://lewissykes.info/archives/cybersalon/past.html#gilbertogil) London, 2005
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/gil.jpg"><img src="images/gil.jpg" alt="" /></a>
+<img src="images/gil.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/gil2-1024x768.jpg"><img src="images/gil2-1024x768.jpg" alt="" /></a>
+<img src="images/gil2-1024x768.jpg" alt="" />
     
 
 This Cybersalon discussed the Brazilian government's open source software project and its support for copyleft at the forthcoming WSIS conference on 18-19th November in Tunis, Tunisia. WSIS is the United Nations World Summit on the Information Society
@@ -256,23 +254,15 @@ This Cybersalon discussed the Brazilian government's open source software projec
 
 Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands)
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC01436.jpg"><img src="images/DSC01436-1024x768.jpg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC01463.jpg"><img src="images/DSC01463-1024x768.jpg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC01495.jpg"><img src="images/DSC01495-1024x768.jpg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC01646.jpg"><img src="images/DSC01646-1024x768.jpg" alt="" /></a>
+<img src="images/DSC01436-1024x768.jpg" alt="" />
+<img src="images/DSC01463-1024x768.jpg" alt="" />
+<img src="images/DSC01495-1024x768.jpg" alt="" />
+<img src="images/DSC01646-1024x768.jpg" alt="" />
 
 ---
 
-# Itaú Cultural"
-date: "2019-07-08"
-categories: 
-  - "lectures"
-coverImage: "ruizideias.jpg"
+# Itaú Cultural
 
-itaú cultural
 <img src="images/ruizideias.jpg" alt="" />
 Panel about Free and Tactical Media.  
 [Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012
