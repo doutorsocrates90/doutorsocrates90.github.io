@@ -1,4 +1,4 @@
-<small>[Projects](projects.md) | [Lectures](lectures.md) | [Teachings](teachings.md) | [Designs](designs.md) | [Texts](texts.md) | [Curation](curation.md) | [Awards](awards.md) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+<small>[Projects](projects.html) | [Lectures](lectures.html) | [Teachings](teachings.html) | [Designs](designs.html) | [Texts](texts.html) | [Curation](curation.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 **Mozilla Opens Source Support Award Porgram**  
 _May 2020 - Mozilla Foundation_  
