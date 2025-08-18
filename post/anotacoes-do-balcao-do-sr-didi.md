@@ -5,6 +5,8 @@ categories:
   - "publications"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Aug 23, 2007
 
 in _Apropriações Tecnológicas - Emergência de textos, idéias e imagens do Submidialogia#3_ / EDUFBA

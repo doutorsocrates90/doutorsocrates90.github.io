@@ -6,6 +6,8 @@ categories:
 coverImage: "amnesia-feature.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Co-development of free radios and free web service initiative for indigenous and traditional communities from Brazil's northeast.
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/amnesia1.jpg"><img src="images/amnesia1.jpg" alt="" /></a>

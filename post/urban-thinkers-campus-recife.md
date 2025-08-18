@@ -6,6 +6,8 @@ categories:
 coverImage: "utc3.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Executive Direction of Urban Thinkers Campus (UTC) Brazil proposing the theme Inclusive Cities: young people and open technologies in the urban space (2015).
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/utc4.jpg"><img src="images/utc4.jpg" alt="" /></a>

@@ -5,6 +5,8 @@ categories:
   - "publications"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Masters dissertation. Honorable Mention for best dissertation of the year - Faculty of Administration Sciences - University of Pernambuco
 
 August 2018

@@ -6,6 +6,8 @@ categories:
 coverImage: "phc.jpeg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Different panels presentation at Salento, Colômbia, 2016
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/phc-1024x779.jpg"><img src="images/phc-1024x779.jpg" alt="" /></a>

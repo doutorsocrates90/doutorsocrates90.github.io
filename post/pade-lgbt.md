@@ -6,6 +6,8 @@ categories:
 coverImage: "pade1.png"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Web development and design for the Pade Editorial virtual store.
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/pade4-1024x536.png"><img src="images/pade4-1024x536.png" alt="" /></a>
