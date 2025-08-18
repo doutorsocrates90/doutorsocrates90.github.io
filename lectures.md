@@ -121,8 +121,7 @@ Debate "Fostering Communities to tackle innovation", Rio de Janeiro, 2016. [Resi
 
 ## Critical Dialogue Series
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/140911684?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:60%;height:60%;" title="The New Urban Agenda &#039;on the ground&#039;. #2 Different Urbanisations | Lab Talk | 18/09/15 | Part 2: Keynote Ricardo Ruiz Freire"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<br>
+<iframe src="https://player.vimeo.com/video/140911684?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="The New Urban Agenda &#039;on the ground&#039;. #2 Different Urbanisations | Lab Talk | 18/09/15 | Part 2: Keynote Ricardo Ruiz Freire"></iframe><br>
 
 Different URBANISATIONS, Berlin, 2015. [This dialogue](http://criticalurbanagenda.de/different-urbanisations) focuses on the role and limits of import/export of knowledge, technology and urbanisation patterns between different regions of the world, and questions how 'culturally different' the processes of urbanisation are/should be.
 
@@ -132,7 +131,9 @@ Different URBANISATIONS, Berlin, 2015. [This dialogue](http://criticalurbanagend
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4D61F_3ffU?si=SXVrLhhldXBpNpFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCHITECTURE](https://15.re-publica.com/session/serendipity-city-informal-urban-planning-and-social-architecture), Berlin, 2015
+Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCHITECTURE](https://15.re-publica.com/en/session/serendipity-city-informal-urban-planning-and-social-architecture.html), Berlin, 2015. The urban environment is the expression of modern life. Cities grow fast, dynamically and not always in the way governments plan. In particular in developing countries, formal city planning seems to be in a race with informal urban development, settlements like so called slums that may serve the immediate needs of their inhabitants, but clash with the plans of those in power.
+
+
 
 ---
 
@@ -140,7 +141,7 @@ Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCH
 
 <img src="images/basement-red-bull.jpg" alt="" />
 
-Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-bull-basement-rola-neste-sabado), São Paulo, 2016
+Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-bull-basement-rola-neste-sabado), São Paulo, 2016. Joined the “Cidades Abertas” panel to explore how urban spaces can be reimagined through open-source thinking and collaborative innovation
 
 
 ---
@@ -177,7 +178,7 @@ Panel Presentation about [Brazilian Open Source Software & Copyleft](http://lewi
 ## Alt Law Forum
 <img src="images/DSC01436.jpg" alt="" />
 
-Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands)
+Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands). The Alternative Law Forum (ALF) is a collective of lawyers based in Bengaluru, India, founded in March 2000. It was created to promote an alternative, socially engaged practice of law that addresses issues of social and economic injustice. ALF integrates litigation, critical research, pedagogy, and advocacy, often working with marginalized communities and grassroots organizations. Their work spans areas like gender and sexuality rights, labor and employment, environmental justice, and constitutional law. They also emphasize interdisciplinary approaches and creative methods to make legal knowledge more accessible and impactful
 
 
 ---
@@ -187,5 +188,5 @@ Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OBf52dx8b-g?si=S1kgb3ehM2UaN0E-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Panel about Free and Tactical Media.  
-[Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012
+[Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012. A vibrant forum that celebrates and supports autonomous media and cultural activism across Brazil. Through debates, interviews, and collaborative coverage, the event highlights grassroots initiatives and explores themes like sustainability, digital inclusion, and creative resistance. The festival also showcases a national mapping of over 300 independent media projects, fostering dialogue and visibility for voices often overlooked in mainstream narratives
 
