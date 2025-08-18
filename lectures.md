@@ -2,13 +2,27 @@
 
 ## re:publica 24
 
+<img src="images/rp_24.jpg" alt="" />
+
+Discussion moderation: rp:FAROFA [Where Beach Vibes Meet Democracy Drive](https://24.re-publica.com/de/session/rpfarofa-where-beach-vibes-meet-democracy-drive-rethink-democracy-cooperation-care-cushions.html) rethink Democracy, Cooperation & Care from cushions. Berlin, 2024. FAROFA is a cosy and open space that welcomes everyone. Strike up conversations, relax on cushions while listening to music, and enjoy some snacks. A blend of a picnic and a round table, this is the place to exchange thoughts and experiences about "Caring for Democracy" while having a great time.
+
 ---
 
 ## re:publica 23
 
+<img src="images/rp_23.jpg" alt="" />
+
+
+Panel presentation: [Climate Change - LabStorm](https://re-publica.com/en/node/1811). Berlin, 2023. Celebrating the impacts of the Global South Maker Community to mitigate climate change effects locally! Labstorm invited 30 people of different ages, classes, genders, and ethnicities from Brazil to a citizen laboratory focused on generating citizen innovation prototypes to combat the climate emergency.
+
 ---
 
 ## re:publica 22
+
+<img src="images/rp_22.jpg" alt="" />
+
+Panel presentation: Open Citizen Social Science Meetup: [How to shape an inclusive open citizen social science landscape](https://22.re-publica.com/de/session/open-citizen-social-science-meetup-how-shape-inclusive-open-citizen-social-science.html). Berlin, 2022. We invite all people involved in Citizen Social Science, but also Open Science and Citizen Science for a meetup to exchange perspectives and ideas during re:publica. The intention of this meetup is to share our different entry points into the field and to share experiences in regards to preventing eurcentric and post-colonial nuances in our work.
+
 
 ---
 ## Mozilla Festival 2021
@@ -43,7 +57,7 @@ Debate visits Brazil! The makerspace [Casa Criatura](https://casacriatura.com/) 
 
 ## Health, care and technology: a timeless relationship.
 
-<img src="images/WhatsApp-Image-2020-05-29-at-12.36.221.jpeg" alt="" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iv-3bWFRRZ4?si=sX_Tc-S9ZanE1tO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond. As part of [Careables](http://thisismy.art.br/careables-latin-america/) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
 
