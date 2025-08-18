@@ -1,11 +1,28 @@
 <small>[Projects](projects.html) | [Lectures](lectures.html) | [Teachings](teachings.html) | [Designs](designs.html) | [Texts](texts.html) | [Curation](curation.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-Ricardo is a researcher, lecturer and consultant on the intersection of innovation and sociopolitical inclusion. He has 20 years of experience developing projects on digital tools and human rights in the governmental sector, development cooperation, and academia.
 
-Ricardo holds an MA in Local Sustainable Development Management from the Faculty of Management Sciences of Pernambuco – the University of Pernambuco. He specialises in Hypermedia Design at Anhembi-Morumbi University (2003). He has a certificate in Co-creating Sustainable Cities from the Amsterdam Institute for Advanced Metropolitan Solutions and Health Effects of Climate Change from HarvardX. He also works as a researcher at the Productive Infrastructure and Logistics for Sustainable Local Development Studies Group at the University of Pernambuco.
+Ricardo is a dynamic force at the intersection of innovation and sociopolitical inclusion. With over 25 years of experience, he has led transformative projects that harness digital tools to advance human rights across government, development cooperation, and academia.
 
-Ricardo is the Executive Director of the Global Innovation Gathering - a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroots innovation community initiatives worldwide. His experience ranges from being a consultant for IBM Corporate Service Corps International Leadership Training / PYXERA Global; to co-founding and designing at 3Ecologias, an IT consulting firm for the environment, education and culture. He has participated in numerous projects for social inclusion through open-source information technology.
+**Academic Credentials**  
+- MA in Local Sustainable Development Management – University of Pernambuco  
+- Specialization in Hypermedia Design – Anhembi-Morumbi University  
+- Certified in Co-creating Sustainable Cities – AMS Institute, Amsterdam  
+- Certified in Health Effects of Climate Change – HarvardX  
+
+**Research & Thought Leadership**  
+Ricardo contributes as a researcher at the University of Pernambuco’s Studies Group on Productive Infrastructure and Logistics for Sustainable Local Development. His work bridges theory and practice, shaping inclusive futures through design and technology.
+
+**Global Engagement**  
+As Executive Director of the Global Innovation Gathering, Ricardo leads a vibrant network of innovation hubs, makerspaces, and grassroots initiatives worldwide. His leadership fosters collaboration and community-driven solutions.
+
+**Professional Highlights**  
+- Consultant for IBM Corporate Service Corps / PYXERA Global  
+- Director of 3Ecologias – IT consulting for environment, education, and culture
+- Project Director for Federal University of Pernambuco / Cities Innovation Research Group - InCITI  
+- Project Manager for the Ministry of Culture Brazil - Digital Culture Programme  
 
 <br>
-FREIRE, Ricardo Ruiz  
+FREIRE, Ricardo Ruiz 
+**Researcher | Lecturer | Consultant | Innovator**
+
 [medium](http://medium.com/@readruiz/) | [linkedin](https://www.linkedin.com/in/ricardoruizfreire/) | [udemy](https://www.udemy.com/user/ricardo-ruiz-freire-2/) | [youtube](https://www.youtube.com/channel/UCiYmPKUDiuqjCEqM_6taKGg)
