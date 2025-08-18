@@ -1,17 +1,17 @@
 <small>[Projects](projects.html) | [Lectures](lectures.html) | [Teachings](teachings.html) | [Designs](designs.html) | [Texts](texts.html) | [Curation](curation.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-# re:publica 24
+## re:publica 24
 
 ---
 
-# re:publica 23
+## re:publica 23
 
 ---
 
-# re:publica 22
+## re:publica 22
 
 ---
-# Mozilla Festival 2021
+## Mozilla Festival 2021
 
 
 <img src="images/maxresdefault.jpg" alt="Mozilla" />
@@ -29,7 +29,7 @@ Open-source technology and principles have been a potent force in slowing the sp
 
 ---
 
-# VII FAEL
+## VII FAEL
 
 <img src="images/RicardoNoFAEL-1024x1024-1.png" alt="FAEL" />
 
@@ -43,7 +43,7 @@ https://www.rebel.org.br/fael7/
 
 ---
 
-# CADUS Debate! Making in Times of COVID
+## CADUS Debate! Making in Times of COVID
 
 <iframe width="800" height="420" src="https://app.media.ccc.de/v/cadusdebate-16-making-in-times-of-COVID-19/oembed" frameborder="0" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ Available online: [https://media.ccc.de/v/cadusdebate-16-making-in-times-of-COVI
 
 ---
 
-# Health, care and technology: a timeless relationship.
+## Health, care and technology: a timeless relationship.
 
 <img src="images/WhatsApp-Image-2020-05-29-at-12.36.21.jpeg" alt="procomum" />
 
@@ -71,7 +71,7 @@ Visit the project's webpage.
 
 ---
 
-# DOTS - The Impact Summit
+## DOTS - The Impact Summit
 
 Debate on the topic of [Sustainable making](https://www.globalinnovationgathering.org/dots/) in the city of Nakuru, Kenia.
 
@@ -83,7 +83,7 @@ DOTS brings together a broad range of knowledge-sharing, entrepreneurial and ope
 
 ---
 
-# re:publica 18
+## re:publica 18
 
 
 <img src="images/republica18.jpg" alt="" />
@@ -97,7 +97,7 @@ Programming is the new literacy. Learning how to code is now an integral part of
 
 ---
 
-# Amazônia Interconectada
+## Amazônia Interconectada
 
 
 <img src="images/amazon.jpg" alt="" />
@@ -111,7 +111,7 @@ The International Conference promoted by the Federal University of Pará foments
 
 ---
 
-# re:publica 17
+## re:publica 17
 
 <img src="images/26697104582_55e8c18645_z.jpg" alt="" />
 
@@ -123,7 +123,7 @@ New challenges demand new institutions and forms of organisation. How is civil s
 
 ---
 
-# #peacehackcamp
+## #peacehackcamp
 
 <img src="images/phc.jpeg" alt="" />
 
@@ -145,7 +145,7 @@ Peace Hack Camps are intensive media literacy and inter-communal peace-building 
 
 ---
 
-# Resilient Cities, Smart Citizens
+## Resilient Cities, Smart Citizens
 
 <img src="images/Smart-Citizen_588x656.jpg" alt="" />
 
@@ -157,7 +157,7 @@ The event was produced by the Dutch Consulate of Rio de Janeiro, which currently
 
 ---
 
-# Critical Dialogue Series
+## Critical Dialogue Series
 
 
 <img src="images/43-1.jpg" alt="" />
@@ -171,7 +171,7 @@ https://vimeo.com/140911684
 
 ---
 
-# re:publica 15
+## re:publica 15
 
 <img src="images/gig-hub.jpg" alt="" />
 
@@ -181,7 +181,7 @@ https://www.youtube.com/watch?v=f4D61F\_3ffU
 
 ---
 
-# RedBull Basement Festival
+## RedBull Basement Festival
 
 <img src="images/basement.jpg" alt="" />
 
@@ -192,7 +192,7 @@ Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-b
 
 ---
 
-# MMKamp
+## MMKamp
 
 <img src="images/DSC03110.jpeg"  alt="" />
 
@@ -213,7 +213,7 @@ Visit project's [archive](https://web.archive.org/web/20100305063510/http://gent
 
 ---
 
-# Wizards of OS
+## Wizards of OS
 
 <img src="images/wizards-of-OS.jpg" alt="" />
 
@@ -234,7 +234,7 @@ Visit [Wizards of OS website](http://www.wizards-of-os.org/programm/specials/mim
 
 ---
 
-# Cybersalon
+## Cybersalon
 
 <img src="images/gil.jpg" alt="" />
 
@@ -247,7 +247,7 @@ This Cybersalon discussed the Brazilian government's open source software projec
 
 ---
 
-# Alt Law Forum
+## Alt Law Forum
 
 Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands)
 
@@ -258,7 +258,7 @@ Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica
 
 ---
 
-# Itaú Cultural
+## Itaú Cultural
 
 <img src="images/ruizideias.jpg" alt="" />
 Panel about Free and Tactical Media.  

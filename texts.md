@@ -1,7 +1,7 @@
 
 <small>[Projects](projects.html) | [Lectures](lectures.html) | [Teachings](teachings.html) | [Designs](designs.html) | [Texts](texts.html) | [Curation](curation.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-# Critical Making Open Hardware Programme Report
+## Critical Making Open Hardware Programme Report
 July 2023 - European Commission Report
 
 
@@ -15,7 +15,7 @@ The Critical Making Open Hardware Mentorship Program aimed to support global mak
 
 ---
 
-# Critical Making Practical Guidelines
+## Critical Making Practical Guidelines
 July 2023 - European Commission Report
 
 Critical Making has been exploring the maker movement's potential for social and responsible innovation. By engaging directly with the communities in participatory research processes, the consortium aimed to show how maker spaces and maker practices can offer new opportunities for young makers of all genders to contribute to an open society via open-source innovation. Next to the academic insights, Critical Making also brought forward several very practical findings, mainly targeted towards makers and makerspaces. We call it the “Critical Making Wundertüte” with online and board games, a manifesto, an educational box and much more.
@@ -31,7 +31,7 @@ It includes:
 
 ---
 
-# CoAct Final Report on Communication, Dissemination and Exploitation
+## CoAct Final Report on Communication, Dissemination and Exploitation
 
 December 2022 - European Commission Report
 
@@ -43,7 +43,7 @@ Furthermore, a strategy focused on constant feedback between global and local us
 
 ---
 
-# Covid-19 Response From Global Makers: The Careables Cases of Global Design and Local Production
+## Covid-19 Response From Global Makers: The Careables Cases of Global Design and Local Production
 Frontiers Sociology, 18 March 2021 
 
 Makerspaces—informal shared spaces that offer access to technologies, resources and a community of peer learners for making—across the globe initiated a rapid response to the lack of medical hardware supplies during the global pandemic outbreak in early 2020 caused by the Coronavirus (COVID-19). As our health systems faced inexperienced pressure, close to collapsing in some countries, and global supply chains failed to react immediately, makers started to prototype, locally produce and globally share designs of Open Source healthcare products, such as face shields and other medical supplies. Local collaboration with hospitals and healthcare professionals was established. These bottom-up initiatives from maker networks across the globe are showing us how responsible innovation is happening outside the constraints of large profit-driven industries. This qualitative study presents five cases from a global network of makers that contributed to producing personal protective equipment (PPE) and healthcare-related products. We draw our cases from the experiences in _Careables_, a mixed community of people and organisations committed to co-design and making open, personalised healthcare for everyone. With the presented cases, we reflect on the potential implications for post-pandemic local production of healthcare products and analyse them from a social innovation perspective. These global experiences are valuable indications of transformative innovations that can reduce dependencies on international supply chains and mainstream mass production.
@@ -52,7 +52,7 @@ Makerspaces—informal shared spaces that offer access to technologies, resource
 
 ---
 
-# Grau de inovação de centros culturais com inserção comunitária no estado de Pernambuco
+## Grau de inovação de centros culturais com inserção comunitária no estado de Pernambuco
 Masters dissertation. Honourable Mention for best dissertation of the year - Faculty of Administration Sciences - University of Pernambuco
 
 August 2018
@@ -66,7 +66,7 @@ This research aims to identify the degree of innovation of Pernambuco cultural e
 
 ---
 
-# A dialectic on innovation and sustainability
+## A dialectic on innovation and sustainability
 
 Mar 19, 2019 - International Journal of Innovation and Sustainable Development (IJISD), Vol. 13, No. 3/4, 2019
 
@@ -76,7 +76,7 @@ This paper discusses the concepts of social and technological innovation to anal
 
 ---
 
-# The Critical Making Movement. How Using Critical Thinking in Technological Practice Can Make a Difference.
+## The Critical Making Movement. How Using Critical Thinking in Technological Practice Can Make a Difference.
 
 
 Jan 25, 2019 - 35C3 – Refreshing Memories. Chaos Computer Club e.V. / Ach je Verlag
@@ -87,7 +87,7 @@ This paper summarises the session “The Critical Making Movement: How using cri
 
 ---
  
-# Inovação Social e Desenvolvimento Sustentável: Uma relação tecnológica
+## Inovação Social e Desenvolvimento Sustentável: Uma relação tecnológica
 
 Sep 14, 2017 - Lições de Empreendedorismo / EDUPE
 
@@ -98,7 +98,7 @@ A book chapter that beckons entrepreneurship as an instrument that enhances comp
 
 ---
 
-# Interview with Ricardo Ruiz from 3Ecologias
+## Interview with Ricardo Ruiz from 3Ecologias
 
 Apr 1, 2016 - Gamevironments / Bremen University
 
@@ -108,7 +108,7 @@ Interview with Ricardo Ruiz about 3Ecologias and their work on Contos de Ifá.
  
 ---
  
-# Violações do direito à religiosidade na mídia e a omissão do Estado Brasileiro
+## Violações do direito à religiosidade na mídia e a omissão do Estado Brasileiro
 
 November, 2012 - Observatório de Mídia e Religiosidade / CCCU
 
@@ -119,7 +119,7 @@ It is an observation, consolidation and interpretation project on the media´s r
 ---
 
 
-# Submidialogias - Entre a mão e a contramão
+## Submidialogias - Entre a mão e a contramão
 
 Sep 7, 2012 - Peixe Morto / i-Motirô
 
@@ -129,7 +129,7 @@ Chapter in a book with texts about the history of Brazilian digital culture, med
 
 ---
  
-# Ideias Perigosas: um estudo do cotidiano
+## Ideias Perigosas: um estudo do cotidiano
 
 Aug 9, 2011 - Ideias Perigozas / Ed. Córrego
 
@@ -139,7 +139,7 @@ A book chapter discusses digital education's methodological actions in tradition
 
 ---
 
-# Brazilian Velvet Goldmine
+## Brazilian Velvet Goldmine
 
 Oct 30, 2009, Furtherfield Magazine
 
@@ -149,7 +149,7 @@ Oct 30, 2009, Furtherfield Magazine
 
 ---
  
-# Futuros Imaginários - das máquinas pensantes à aldeia global
+## Futuros Imaginários - das máquinas pensantes à aldeia global
 
 January 2009 - Editora Peirópolis
 
@@ -159,7 +159,7 @@ Co-translation into Portuguese of Richard Barbrook's Imaginary Futures. In it, t
  
 ---
 
-# Anotações do Balcão do Sr. Didi"
+## Anotações do Balcão do Sr. Didi
 
 January 2008
 
