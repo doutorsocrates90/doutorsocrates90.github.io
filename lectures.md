@@ -48,7 +48,7 @@ Academic Fórum of Ludic Studies - Federal University of Rio de Janeiro
 
 ## CADUS Debate! Making in Times of COVID
 
-<iframe width="800" height="420" src="https://app.media.ccc.de/v/cadusdebate-16-making-in-times-of-COVID-19/oembed" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://app.media.ccc.de/v/cadusdebate-16-making-in-times-of-COVID-19/oembed" frameborder="0" allowfullscreen></iframe>
 
 Debate visits Brazil! The makerspace [Casa Criatura](https://casacriatura.com/) in Olinda produced thousands of pieces of PPE (personal protective equipment) by mixing open, globally designed products with local practices, and donating it to local indigenous health authorities, Afro-Brazilian traditional communities and public hospitals. The makerspace also developed an open-source aerosol box with physicists and teachers from reference hospitals in the region, igniting a community of makers and healthcare professionals around it. And most importantly, the _demunis_, the ordinary citizens with community obligations, received support, too—the overarching question accompanying all these activities is how communities can better care for themselves during pandemics.
 
@@ -121,8 +121,8 @@ Debate "Fostering Communities to tackle innovation", Rio de Janeiro, 2016. [Resi
 
 ## Critical Dialogue Series
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/140911684?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The New Urban Agenda &#039;on the ground&#039;. #2 Different Urbanisations | Lab Talk | 18/09/15 | Part 2: Keynote Ricardo Ruiz Freire"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/140911684?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:60%;height:60%;" title="The New Urban Agenda &#039;on the ground&#039;. #2 Different Urbanisations | Lab Talk | 18/09/15 | Part 2: Keynote Ricardo Ruiz Freire"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
 
 Different URBANISATIONS, Berlin, 2015. [This dialogue](http://criticalurbanagenda.de/different-urbanisations) focuses on the role and limits of import/export of knowledge, technology and urbanisation patterns between different regions of the world, and questions how 'culturally different' the processes of urbanisation are/should be.
 
