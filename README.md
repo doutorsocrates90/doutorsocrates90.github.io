@@ -23,7 +23,6 @@ Ricardo contributes as a researcher at the University of Pernambuco’s Studies 
 <br>
 FREIRE, Ricardo Ruiz 
 
-**Researcher | Lecturer | Consultant | Innovator**
+**Researcher <> Lecturer <> Consultant <> Innovator**
 
-
-[medium](http://medium.com/@readruiz/) | [linkedin](https://www.linkedin.com/in/ricardoruizfreire/) | [udemy](https://www.udemy.com/user/ricardo-ruiz-freire-2/) | [youtube](https://www.youtube.com/channel/UCiYmPKUDiuqjCEqM_6taKGg)
+<small>[medium](http://medium.com/@readruiz/) | [linkedin](https://www.linkedin.com/in/ricardoruizfreire/) | [udemy](https://www.udemy.com/user/ricardo-ruiz-freire-2/) | [youtube](https://www.youtube.com/channel/UCiYmPKUDiuqjCEqM_6taKGg)</small>
