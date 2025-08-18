@@ -6,6 +6,8 @@ categories:
 coverImage: "Smart-Citizen_588x656.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Debate "Fostering Communities to tackle innovation", Rio de Janeiro, 2016.
 
 [Resilient Cities, Smart Citizen](https://www.swissnexbrazil.org/event/resilient-cities-smart-citizens/), was a five-day workshop followed by a one-day seminar about enabling citizens to make their cities more resilient to the physical, social, and economic challenges of the 21st century.

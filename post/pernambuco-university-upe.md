@@ -6,6 +6,8 @@ categories:
 coverImage: "upe.jpeg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Visiting Professor - Pernambuco University - UPE
 
 **[A perspectiva econômica do fenômeno do empreendedorismo](//www.slideshare.net/doutorsocrates/a-perspectiva-econmica-do-fenmeno-do-empreendedorismo "A perspectiva econômica do fenômeno do empreendedorismo")** from **[Ricardo Ruiz](https://www.slideshare.net/doutorsocrates)**

@@ -5,6 +5,8 @@ categories:
   - "publications"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Aug 9, 2011 - Ideias Perigozas / Ed. Córrego
 
 Book chapter that discusses the methodological actions of digital education in traditional communities in the country.

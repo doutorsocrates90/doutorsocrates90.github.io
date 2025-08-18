@@ -6,6 +6,8 @@ categories:
 coverImage: "brunet_10.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Executive direction of submidialogy conferences serie, held in Campinas (São Paulo), Olinda (Pernambuco), Lençóis, Arraial d'Ajuda (Bahia), Atins (Maranhão) and Paranaguá (Paraná).
 
 - <img src="images/brunet_10.jpg" alt="" />

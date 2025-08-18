@@ -6,6 +6,8 @@ categories:
 coverImage: "MTB-13.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Co-production of the festival held at Casa das Rosas in 2003 bringing together dozens of groups and thousands of people.
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/MTB-07.jpg"><img src="images/MTB-07.jpg" alt="" /></a>

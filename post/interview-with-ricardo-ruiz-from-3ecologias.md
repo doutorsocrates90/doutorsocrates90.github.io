@@ -5,6 +5,8 @@ categories:
   - "publications"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Apr 1, 2016 - Gamevironments / Bremen University
 
 Interview with Ricardo Ruiz about 3Ecologias and their work on Contos de Ifá.

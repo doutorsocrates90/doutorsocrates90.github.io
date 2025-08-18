@@ -6,6 +6,8 @@ categories:
 coverImage: "Captura-de-tela-2019-07-08-14.28.02.png"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Development of user interface and user experience for donations platform to Vovó Dida Charitable Association
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/Captura-de-tela-2019-07-08-14.28.02-1024x540.png"><img src="images/Captura-de-tela-2019-07-08-14.28.02-1024x540.png" alt="" /></a>

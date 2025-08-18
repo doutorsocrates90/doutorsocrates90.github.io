@@ -6,6 +6,8 @@ categories:
 coverImage: "26697104582_55e8c18645_z.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Debate on the panel [Creating organizations of/for the commons](https://re-publica.com/en/session/creating-organizations-offor-commons), Berlin, 2017.
 
 https://www.youtube.com/watch?v=mzF5KQSTV2A

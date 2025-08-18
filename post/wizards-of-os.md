@@ -6,6 +6,8 @@ categories:
 coverImage: "wizards-of-OS.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 **mimoSa** - **Urban Intervention and Information Correction Machine**. Panel presenting a residency at Tesla. Berlin, 2006
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2019/07/wizards-of-OS.jpg"><img src="images/wizards-of-OS.jpg" alt="" /></a>

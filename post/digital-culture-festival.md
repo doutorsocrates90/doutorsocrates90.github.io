@@ -6,6 +6,8 @@ categories:
 coverImage: "cotidiano-sensitivo.png"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Lecture held during the International Festival of Digital Culture, São Paulo, 2011
 
 https://vimeo.com/40971218

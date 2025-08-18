@@ -6,6 +6,8 @@ categories:
 coverImage: "DSC01646.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands)
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/DSC01436.jpg"><img src="images/DSC01436-1024x768.jpg" alt="" /></a>

@@ -6,6 +6,8 @@ categories:
 coverImage: "contosdeifafeature.jpg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Executive direction of the awarded Game Development Workshops
 
 - <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/contosdeifa01.png"><img src="images/contosdeifa01-1024x552.png" alt="" /></a>

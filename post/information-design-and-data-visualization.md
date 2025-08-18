@@ -6,6 +6,8 @@ categories:
 coverImage: "partner.jpeg"
 ---
 
+<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+
 Associate Professor - Pernambuco Catholic University
 
 Lecture on Journalism Post-Graduate Classes. 2019.
