@@ -1,4 +1,4 @@
-<small>[Projects](projects.html) | [Lectures](lectures.html) | [Teachings](teachings.html) | [Designs](designs.html) | [Texts](texts.html) | [Curation](curation.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 - Terra-Mar: Un continuum des mangroves aux abysses - Planet Ocean Montpellier - [2025](https://terramar.online) 
 - Continuum Arts Festival - Game Exhibition Curation - [2016](http://continuumfestival.com/2016/)
