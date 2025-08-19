@@ -6,7 +6,7 @@ categories:
 coverImage: "WhatsApp-Image-2020-05-29-at-12.36.21.jpeg"
 ---
 
-<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond.
 

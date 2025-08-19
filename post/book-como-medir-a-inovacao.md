@@ -5,7 +5,7 @@ categories:
   - "publications"
 ---
 
-<small>[Projects](../projects.html) | [Lectures](../lectures.html) | [Teachings](../teachings.html) | [Designs](../designs.html) | [Texts](../texts.html) | [Curation](../curation.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 This book presents how it was possible to measure the degree of innovation of Pernambuco cultural entities with community insertion, classified by Law No. 13.018/2014 as Pontos de Cultura. At first, a bibliographical study traces the etymology of innovation and its relationship to sustainability and the Creative Economy, of which the Pontos de Cultura are part. Next, investments in innovation in Brazil from the 1930s to the 2017 Budget Law are analysed. Subsequently, a set of existing innovation measurement tools is presented and, based on these, proposes a tool for measuring the degree of innovation of the entities in question. In the end, the book shows how the entities have a low degree of innovation, mainly because they do not understand the product of their work as tradable or because of the conceptually non-innovative aspect of cultural traditions.
 
