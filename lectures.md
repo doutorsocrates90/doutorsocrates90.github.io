@@ -119,6 +119,14 @@ Debate "Fostering Communities to tackle innovation", Rio de Janeiro, 2016. [Resi
 
 ---
 
+## RedBull Basement Festival
+
+<img src="images/basement-red-bull.jpg" alt="" />
+
+Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-bull-basement-rola-neste-sabado), São Paulo, 2016. Joined the “Cidades Abertas” panel to explore how urban spaces can be reimagined through open-source thinking and collaborative innovation
+
+---
+
 ## Critical Dialogue Series
 
 <iframe src="https://player.vimeo.com/video/140911684?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="The New Urban Agenda &#039;on the ground&#039;. #2 Different Urbanisations | Lab Talk | 18/09/15 | Part 2: Keynote Ricardo Ruiz Freire"></iframe><br>
@@ -132,17 +140,6 @@ Different URBANISATIONS, Berlin, 2015. [This dialogue](http://criticalurbanagend
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4D61F_3ffU?si=SXVrLhhldXBpNpFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCHITECTURE](https://15.re-publica.com/en/session/serendipity-city-informal-urban-planning-and-social-architecture.html), Berlin, 2015. The urban environment is the expression of modern life. Cities grow fast, dynamically and not always in the way governments plan. In particular in developing countries, formal city planning seems to be in a race with informal urban development, settlements like so called slums that may serve the immediate needs of their inhabitants, but clash with the plans of those in power.
-
-
-
----
-
-## RedBull Basement Festival
-
-<img src="images/basement-red-bull.jpg" alt="" />
-
-Panel presentation on [Open Cities](https://www.redbull.com/br-pt/festival-red-bull-basement-rola-neste-sabado), São Paulo, 2016. Joined the “Cidades Abertas” panel to explore how urban spaces can be reimagined through open-source thinking and collaborative innovation
-
 
 ---
 
