@@ -12,13 +12,13 @@ coverImage: "careables-feature.jpg"
 
 Local consultancy for the an international collaboration platform that allows citizens to design and deliver people-centered health products.
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/careables01.jpg"><img src="images/careables01-1024x683.jpg" alt="" /></a>
+<img src="images/careables01.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/careables02.jpg"><img src="images/careables02-1024x683.jpg" alt="" /></a>
+<img src="images/careables02.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/careables03.jpg"><img src="images/careables03-1024x576.jpg" alt="" /></a>
+<img src="images/careables03.jpg" alt="" />
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/careables04.jpg"><img src="images/careables04-1024x576.jpg" alt="" /></a>
+<img src="images/careables04.jpg" alt="" />
     
 
 Careables is a community of manufacturers and users of open source collaborative hardware innovations that can be easily replicated globally via 3D printing and other forms of digital and manual manufacturing.

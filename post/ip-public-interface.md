@@ -10,18 +10,21 @@ coverImage: "ip-featured.jpg"
 
 # IP:// - Public Interface
 
-<img src="images/ip-featured.jpg" alt="" />
-Co-foundation of the collective
+Director and co-founder of IP:// - Interface Pública, the first brazilian HackersPace / MakersPace in Lapa, Rio de Janeiro
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/ip4.jpg"><img src="images/ip4.jpg" alt="" /></a>
+<img src="images/ip-featured.jpg" alt="" />
+
+<img src="images/ip4.jpg" alt="" /></a>
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/ip3.jpg"><img src="images/ip3.jpg" alt="" /></a>
+<img src="images/ip3.jpg" alt="" /></a>
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/ip2.jpg"><img src="images/ip2.jpg" alt="" /></a>
+<img src="images/ip2.jpg" alt="" /></a>
     
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/ip1.jpg"><img src="images/ip1.jpg" alt="" /></a>
+<img src="images/ip1.jpg" alt="" /></a>
     
 
 Meta-collective, a temporary autonomous zone that strengthened non-hierarchical processes and zones of coexistence and collaboration between different collectives, movements and people. Started in 2004 in Lapa, Rio de Janeiro, but moved over time to Morro da Mangueira, Morro do Turano and Morro da Conceição
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzEk-8xR5yE?si=AaPassOOCsigintD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 visit [project's website](https://midiatatica.info/blog/2018/10/16/ip/)

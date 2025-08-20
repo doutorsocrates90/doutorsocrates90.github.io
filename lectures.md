@@ -29,7 +29,7 @@ Panel presentation: Open Citizen Social Science Meetup: [How to shape an inclusi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WdksAr_oVr4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Open-source technology and principles have been a potent force in slowing the spread of a deadly virus. Presenting the Careables experience.
+Open-source technology and principles have been a potent force in slowing the spread of a deadly virus. Presenting the Careables experience. Online, 2021.
 
 [Open Source & the Pandemic: A Dialogues & Debates panel](https://schedule.mozillafestival.org/session/TYN3ZA-1)
 
@@ -40,9 +40,7 @@ Open-source technology and principles have been a potent force in slowing the sp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbN4WKXq8B4?si=fB8mL4xKQuxf5kI1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-November 2020
-
-Academic Fórum of Ludic Studies - Federal University of Rio de Janeiro
+November 2020. Panel presented about Contos de Ifá game during the Academic Fórum of Ludic Studies - Federal University of Rio de Janeiro
 
 ---
 
@@ -50,7 +48,7 @@ Academic Fórum of Ludic Studies - Federal University of Rio de Janeiro
 
 <iframe width="560" height="315" src="https://app.media.ccc.de/v/cadusdebate-16-making-in-times-of-COVID-19/oembed" frameborder="0" allowfullscreen></iframe>
 
-Debate visits Brazil! The makerspace [Casa Criatura](https://casacriatura.com/) in Olinda produced thousands of pieces of PPE (personal protective equipment) by mixing open, globally designed products with local practices, and donating it to local indigenous health authorities, Afro-Brazilian traditional communities and public hospitals. The makerspace also developed an open-source aerosol box with physicists and teachers from reference hospitals in the region, igniting a community of makers and healthcare professionals around it. And most importantly, the _demunis_, the ordinary citizens with community obligations, received support, too—the overarching question accompanying all these activities is how communities can better care for themselves during pandemics.
+Debate about the makerspace [Casa Criatura](https://casacriatura.com/) in Olinda produced thousands of pieces of PPE (personal protective equipment) by mixing open, globally designed products with local practices, and donating it to local indigenous health authorities, Afro-Brazilian traditional communities and public hospitals. The makerspace also developed an open-source aerosol box with physicists and teachers from reference hospitals in the region, igniting a community of makers and healthcare professionals around it. And most importantly, the _demunis_, the ordinary citizens with community obligations, received support, too—the overarching question accompanying all these activities is how communities can better care for themselves during pandemics. Online, 2020.
 
 
 ---
@@ -59,7 +57,7 @@ Debate visits Brazil! The makerspace [Casa Criatura](https://casacriatura.com/) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iv-3bWFRRZ4?si=sX_Tc-S9ZanE1tO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond. As part of [Careables](http://thisismy.art.br/careables-latin-america/) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
+Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond. Online, 2020. As part of [Careables](http://thisismy.art.br/careables-latin-america/) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
 
 
 ---
@@ -89,7 +87,7 @@ Moderator on the panel [Youth skills for the future of work(less) on the global 
 
 <img src="images/amazon.jpg" alt="" />
 
-Presentation during the Innovation and Traditional Cultures opening panel. The International Conference promoted by the Federal University of Pará foments discussions about the possibilities of Amazon regional development from a technological perspective but focusing on preserving nature and local cultures.
+Presentation during the Innovation and Traditional Cultures opening panel. Belém, 2017. The International Conference promoted by the Federal University of Pará foments discussions about the possibilities of Amazon regional development from a technological perspective but focusing on preserving nature and local cultures.
 
 ---
 
@@ -150,6 +148,14 @@ Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCH
 Panel about Free and Tactical Media.  
 [Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012. A vibrant forum that celebrates and supports autonomous media and cultural activism across Brazil. Through debates, interviews, and collaborative coverage, the event highlights grassroots initiatives and explores themes like sustainability, digital inclusion, and creative resistance. The festival also showcases a national mapping of over 300 independent media projects, fostering dialogue and visibility for voices often overlooked in mainstream narratives
 
+
+---
+
+## Digital Culture Festival
+
+<iframe src="https://player.vimeo.com/video/40971218?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Mostra de Experiências - Cotidiano Sensitivo"></iframe>
+
+Lecture held during the International Festival of Digital Culture, São Paulo, 2011. SENSITIVE DAILY (Cotidiano Sensitivo): Project to create live virtual environments from real-time data capture of spaces in communities in the Brazilian northeast through interactive interfaces (hardware and software) that record images and climate / sensitive environmental changes.
 
 ---
 

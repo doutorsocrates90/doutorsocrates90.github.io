@@ -8,19 +8,22 @@ coverImage: "contosdeifafeature.jpg"
 
 <small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
-Executive direction of the awarded Game Development Workshops
+# Contos de Ifá
 
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/contosdeifa01.png"><img src="images/contosdeifa01-1024x552.png" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/contosdeifa02.png"><img src="images/contosdeifa02-1024x552.png" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/contosdeifa03.jpg"><img src="images/contosdeifa03-1024x768.jpg" alt="" /></a>
-    
-- <a href="https://thisismyart.eratudomato.online/wp-content/uploads/sites/11/2020/05/contosdeifa04-scaled-1.jpg"><img src="images/contosdeifa04-1024x768.jpg" alt="" /></a>
+Co-founder and Executive director of the awarded Game Development Workshops
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hcawb3ieJ8c?si=jN8N7CA2gAwQ_OPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
 
 Contos de Ifá is a new media experience: an educational adventure web-game that has African-Brazilian mythology as the plot. The games are built during workshops for public school teachers focused on the use of the game as a pedagogical tool in the classroom, and methodology for the construction, together with the students, of new game-stories for the platform.
 
-https://www.youtube.com/watch?v=hcawb3ieJ8c
+<img src="images/contosdeifa01.png" alt="" />
+    
+<img src="images/contosdeifa02.png" alt="" />
+    
+<img src="images/contosdeifa03.jpg" alt="" />
+    
+<img src="images/contosdeifa04.jpg" alt="" />
+
 
 Visit project's [website](http://contosdeifa.com) and [blog](http://contosdeifa.wordpress.com)
