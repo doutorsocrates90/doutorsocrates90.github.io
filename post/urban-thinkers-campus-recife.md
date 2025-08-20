@@ -10,7 +10,7 @@ coverImage: "utc3.jpg"
 
 # Urban Thinkers Campus Brazil
 
-Executive Direction for the UN Urban Thinkers Campus Brazil, in Recife (2015). The Urban Thinkers Campus is an initiative of the UN-Habitat global urban campaign, conceived as a critical and open space for exchange between people who believe that urbanisation is an opportunity for positive transformation, as well as for sustainable development.
+Executive Director for the UN Urban Thinkers Campus Brazil, in Recife (2015). The Urban Thinkers Campus is an initiative of the UN-Habitat global urban campaign, conceived as a critical and open space for exchange between people who believe that urbanisation is an opportunity for positive transformation, as well as for sustainable development.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbFmUZU9yb4?si=qY4JvISCDw7Ol17a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

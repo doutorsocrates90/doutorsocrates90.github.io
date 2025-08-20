@@ -12,8 +12,7 @@ coverImage: "Captura-de-tela-2019-07-08-15.20.31.png"
 
 Web Development for Livres Filmes
 
-<img src="images/Captura-de-tela-2019-07-08-15.19.39.png" alt="images/Captura-de-tela-2019-07-08-15.19.39.png" />
-
+<img src="images/Captura-de-tela-2019-07-08-15.19.39.png" alt="" />
 
 <img src="images/Captura-de-tela-2019-07-08-15.20.31.png" alt="cinema" />
 

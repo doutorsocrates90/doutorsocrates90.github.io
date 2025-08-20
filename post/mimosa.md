@@ -21,6 +21,6 @@ Project Manager of the Creative Commons Arts Project mimoSa - Supported by Andy 
 <img src="images/mimosa02-1.jpg" alt="" />
     
 
-“mimoSa: Urban Intervention and Information Correctional Machine” believes in the concept that people start to think critically about media when they produce and distribute it themselves. In Brazil, new systems of media production and distribution are crucial to achieving a more just distribution of power and representation. “mimoSa” is a continuous workshop that moves around Brazilian cities collecting people’s stories using recycled and reconstructed technologies. The workshops aim to design a machine capable of altering the Brazilian mediascape.
+*mimoSa: Urban Intervention and Information Correctional Machine* believes in the concept that people start to think critically about media when they produce and distribute it themselves. In Brazil, new systems of media production and distribution are crucial to achieving a more just distribution of power and representation. “mimoSa” is a continuous workshop that moves around Brazilian cities collecting people’s stories using recycled and reconstructed technologies. The workshops aim to design a machine capable of altering the Brazilian mediascape.
 
 visit project's [blog](https://web.archive.org/web/20090329063958/http://turbulence.org/Works/mimoSa/blog/#expand) and [awarded](https://web.archive.org/web/20100616030103/http://turbulence.org/Works/mimoSa/mimosa_ing/) website

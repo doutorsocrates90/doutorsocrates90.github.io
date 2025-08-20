@@ -1,8 +1,7 @@
 <small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
+* [Global Innovation Gathering](post/global-innovation-gathering.html)
 * [Cards Against The Planet](post/cards-against-the-planet.html)
-* [CoAct](https://coactproject.eu)
-* [Critical Making](https://criticalmaking.eu)
 * [Careables Latin America](post/careables-latin-america.html)
 * [Contos De Ifá](post/contos-de-ifa.html)
 * [Mozilla Reimagine Open](post/mozilla-reimagine-open-brazil.html)

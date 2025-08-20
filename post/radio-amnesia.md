@@ -10,7 +10,7 @@ coverImage: "amnesia-feature.jpg"
 
 # Radio Amnésia
 
-Co-development of free radios and free web service initiative for indigenous and traditional communities from Brazil's northeast.
+Coordinator of the free radios and free web service initiative for indigenous and traditional communities from Brazil's northeast.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CXJ5f1A7TQ?si=Alme5txHrprM4VYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
