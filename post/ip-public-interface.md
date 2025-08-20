@@ -14,13 +14,13 @@ Director and co-founder of IP:// - Interface Pública, the first brazilian Hacke
 
 <img src="images/ip-featured.jpg" alt="" />
 
-<img src="images/ip4.jpg" alt="" /></a>
+<img src="images/ip4.jpg" alt="" />
     
-<img src="images/ip3.jpg" alt="" /></a>
+<img src="images/ip3.jpg" alt="" />
     
-<img src="images/ip2.jpg" alt="" /></a>
+<img src="images/ip2.jpg" alt="" />
     
-<img src="images/ip1.jpg" alt="" /></a>
+<img src="images/ip1.jpg" alt="" />
     
 
 Meta-collective, a temporary autonomous zone that strengthened non-hierarchical processes and zones of coexistence and collaboration between different collectives, movements and people. Started in 2004 in Lapa, Rio de Janeiro, but moved over time to Morro da Mangueira, Morro do Turano and Morro da Conceição

@@ -12,13 +12,13 @@ coverImage: "photo5125328884458432563.jpg"
 
 Local production and moderation of a public debate part of Mozilla Internet Health Program
 
-<img src="images/photo5125328884458432543.jpg" alt="" /></a>
+<img src="images/photo5125328884458432543.jpg" alt="" />
     
-<img src="images/photo5125328884458432550.jpg" alt="" /></a>
+<img src="images/photo5125328884458432550.jpg" alt="" />
     
-<img src="images/photo5114254882516347012.jpg" alt="" /></a>
+<img src="images/photo5114254882516347012.jpg" alt="" />
     
-<img src="images/photo5125160367121606710.jpg" alt="" /></a>
+<img src="images/photo5125160367121606710.jpg" alt="" />
     
 
 [Reimagine Open](https://blog.mozilla.org/internetcitizen/2019/03/26/is-the-future-of-the-web-open/) was a Mozilla open question to the community across the globe to imagine better futures for our digital lives. As part of a Global Innovation Gathering - GIG efforts to bring to the table partners from the Global South, Brazilian edition happened together with Cameroon, Rwanda, and India about the state of the web.
