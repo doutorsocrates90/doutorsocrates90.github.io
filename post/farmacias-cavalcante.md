@@ -10,8 +10,6 @@ coverImage: "Captura-de-tela-2019-07-08-15.51.28.png"
 
 # Farmácias Cavalcante
 
-Web Design for drugstore chain e-commerce
-
 <img src="images/Captura-de-tela-2019-07-08-15.51.28.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-15.51.49.png" alt="" />
@@ -21,4 +19,4 @@ Web Design for drugstore chain e-commerce
 <img src="images/Captura-de-tela-2019-07-08-15.52.12.png" alt="" />
     
 
-Visit [https://www.farmaciacavalcante.com.br](https://www.farmaciacavalcante.com.br/)
+A state of Pernambuco drugstore chain e-commerce

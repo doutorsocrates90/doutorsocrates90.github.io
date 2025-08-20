@@ -10,13 +10,9 @@ coverImage: "Captura-de-tela-2019-07-08-14.34.07.png"
 
 # Correio Nagô
 
-Development of web platform for the news channel Correio Nagô
-
 <img src="images/Captura-de-tela-2019-07-08-14.34.07.png" alt="" /></a>
     
 <img src="images/Captura-de-tela-2019-07-08-14.35.39.png" alt="" /></a>
     
 
-Today, Correio Nagô is one of the largest content platforms about Brazil's black community, with correspondents in several states of Brazil and the world.
-
-Visi [https://correionago.com.br/](https://correionago.com.br/)
+Today, Correio Nagô is one of the largest content platforms about Brazil's black community, with correspondents in several states of Brazil and the world. Visi [https://correionago.com.br/](https://correionago.com.br/)

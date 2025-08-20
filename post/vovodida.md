@@ -20,6 +20,4 @@ Development of user interface and user experience for donations platform to Vov�
     
 <img src="images/Captura-de-tela-2019-07-08-14.29.50.png" alt="" />
 
-Vovó Dida Charitable Association develops socio-educational and cultural actions that stimulate love and solidarity through a network of health care and care for the people.
-
-Visit [http://www.vovodida.org.br/](http://www.vovodida.org.br/)
+Institutional channel and donation platform for Vovó Dida Charitable Association, wich develops socio-educational and cultural actions that stimulate love and solidarity through a network of health care and care for the people in the city of Belo Jardim.

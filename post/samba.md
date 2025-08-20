@@ -10,8 +10,6 @@ coverImage: "Captura-de-tela-2019-07-08-14.20.24.png"
 
 # SAMBA
 
-Web interface and user experience design for SAMBA - Municipal Sanitation of Brazil collaborative platform
-
 <img src="images/Captura-de-tela-2019-07-08-14.20.40.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-14.20.24.png" alt="" />
@@ -21,4 +19,4 @@ Web interface and user experience design for SAMBA - Municipal Sanitation of Bra
 <img src="images/Captura-de-tela-2019-07-08-14.22.35-1024x532.png" alt="" />
     
 
-Samba is a tool that proposes simplicity and agility in the elaboration of a deep and representative diagnosis of the current situation of basic sanitation services offered in a city.
+SSAMBA - Municipal Sanitation of Brazil collaborative platform is a tool that proposes simplicity and agility in the elaboration of a deep and representative diagnosis of the current situation of basic sanitation services offered in a city using AI and distributed databases.

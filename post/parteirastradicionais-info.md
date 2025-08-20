@@ -10,8 +10,6 @@ coverImage: "Captura-de-tela-2019-07-08-15.06.23.png"
 
 # Parteiras Tradicionais
 
-Logo Design and Web Design for Parteiras Tradicionais de Camaçari.
-
 <img src="images/Captura-de-tela-2019-07-08-15.08.27.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-15.07.32.png" alt="" />
@@ -21,6 +19,4 @@ Logo Design and Web Design for Parteiras Tradicionais de Camaçari.
 <img src="images/Captura-de-tela-2019-07-08-15.06.23.png" alt="" />
     
 
-It is a project with the focus on midwives from the metropolitan region of Salvador City.
-
-Visit [http://parteirastradicionais.info/](http://parteirastradicionais.info/)
+Web platform to share content and develop a cartography with the focus on midwives from the metropolitan region of Salvador City.

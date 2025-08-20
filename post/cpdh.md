@@ -10,17 +10,14 @@ coverImage: "Captura-de-tela-2019-07-08-15.45.47.png"
 
 # CPDH
 
-WebDesign for Institution's online platform.
-
-<img src="images/Captura-de-tela-2019-07-08-15.45.47.png" alt="" /></a>
+<img src="images/Captura-de-tela-2019-07-08-15.45.47.png" alt="" />
     
-<img src="images/Captura-de-tela-2019-07-08-15.47.52.png" alt="" /></a>
+<img src="images/Captura-de-tela-2019-07-08-15.47.52.png" alt="" />
     
-<img src="images/Captura-de-tela-2019-07-08-15.48.27.png" alt="" /></a>
+<img src="images/Captura-de-tela-2019-07-08-15.48.27.png" alt="" />
     
-<img src="images/Captura-de-tela-2019-07-08-15.47.36.png" alt="" /></a>
+<img src="images/Captura-de-tela-2019-07-08-15.47.36.png" alt="" />
     
-
 CPDH is a non-profit social organization that works towards promoting and defending a culture of human rights and well-living, especially concerning the right to the city and freedom of speech, through processes of training, mobilization and case lawyering offered to groups, communities and social movements that are fighting for such rights.
 
 Visit [http://cpdh.org.br/](http://cpdh.org.br/)

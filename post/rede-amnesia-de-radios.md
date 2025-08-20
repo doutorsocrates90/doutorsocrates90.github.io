@@ -10,8 +10,6 @@ coverImage: "Captura-de-tela-2019-07-08-14.56.13.png"
 
 # Rede Amnesia de Radios
 
-Web Development for the network of Indigenous Radios Amnesia FM
-
 <img src="images/Captura-de-tela-2019-07-08-14.58.58.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-14.58.30.png" alt="" />
@@ -21,6 +19,6 @@ Web Development for the network of Indigenous Radios Amnesia FM
 <img src="images/Captura-de-tela-2019-07-08-14.56.13.png" alt="" />
     
 
-Radio Amnésia was an Indigenous Communities Free FM Radio Network experience for 15 years.
+Radio Amnésia was network of Indigenous Radios both online and FM experience that lasted for 15 years.
 
 
