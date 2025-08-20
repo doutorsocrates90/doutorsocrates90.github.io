@@ -10,8 +10,6 @@ coverImage: "Captura-de-tela-2019-07-08-14.28.02.png"
 
 # Vovó Dida
 
-Development of user interface and user experience for donations platform to Vovó Dida Charitable Association
-
 <img src="images/Captura-de-tela-2019-07-08-14.28.02.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-14.28.32.png" alt="" />
