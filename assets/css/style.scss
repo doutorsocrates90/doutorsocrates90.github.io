@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-img {
-  max-width: 550px !important;
-  max-width: 550px !important;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
@@ -41,3 +36,10 @@ a {
     color: #a61717;
 }
 
+img {
+  max-width: 550px !important;
+  max-height: 550px !important;
+  box-shadow: 10px 10px 13px -1px rgba(0,0,0,0.3);
+  -webkit-box-shadow: 10px 10px 13px -1px rgba(0,0,0,0.3);
+  -moz-box-shadow: 10px 10px 13px -1px rgba(0,0,0,0.3);
+}
