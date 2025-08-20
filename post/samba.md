@@ -19,4 +19,4 @@ coverImage: "Captura-de-tela-2019-07-08-14.20.24.png"
 <img src="images/Captura-de-tela-2019-07-08-14.22.35-1024x532.png" alt="" />
     
 
-SSAMBA - Municipal Sanitation of Brazil collaborative platform is a tool that proposes simplicity and agility in the elaboration of a deep and representative diagnosis of the current situation of basic sanitation services offered in a city using AI and distributed databases.
+SAMBA - Municipal Sanitation of Brazil collaborative platform is a tool that proposes simplicity and agility in the elaboration of a deep and representative diagnosis of the current situation of basic sanitation services offered in a city using AI and distributed databases.
