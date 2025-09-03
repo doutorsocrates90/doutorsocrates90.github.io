@@ -19,7 +19,6 @@ Ricardo is a dynamic force at the intersection of innovation and sociopolitical 
 - Certified in Co-creating Sustainable Cities – AMS Institute, Amsterdam  
 - Certified in Health Effects of Climate Change – HarvardX  
 
-
 <br>
 FREIRE, Ricardo Ruiz 
 
