@@ -1,3 +1,7 @@
+---
+title: Curations
+---
+
 <small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 ## Terra-Mar: Un continuum des mangroves aux abysses 
