@@ -4,6 +4,15 @@ title: Texts
 
 <small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
+## make-a-thek: Circular Makerspace for Craft & Fashion Recommendations
+November 2025 - European Commission Report
+
+This report presents the outcomes of the make-a-thek project’s mapping and community activation activities, examining how makerspaces and maker technologies can support circular fashion and craft ecosystems. It consolidates insights from desktop research, international policy and technology analysis, and community activation sessions conducted across partner countries and online. The findings provide an evidence base for the project’s next phases, informing the design of modular makerspaces in make-a-thek, capacity-building materials, and community engagement strategies.
+
+[https://doi.org/10.5281/zenodo.17513265](https://doi.org/10.5281/zenodo.17513265)
+
+---
+
 ## Critical Making Open Hardware Programme Report
 July 2023 - European Commission Report
 
