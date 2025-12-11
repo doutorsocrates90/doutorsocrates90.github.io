@@ -55,6 +55,17 @@ Furthermore, a strategy focused on constant feedback between global and local us
 
 ---
 
+## Implementation Paper: Digitalisation in Latin America and the Caribbean
+
+March 2022 - BMZ Federal Ministry of Economic Cooperation and Development Germany
+
+This paper aims to answer the question, what role German development cooperation should take in supporting the LAC region's digital transformation and how development cooperation can contribute to the development of inclusive digital societies in the LAC region and in Europe?
+As countries in Europe and the LAC region are currently developing regulatory and other frameworks to secure the future of their digital sovereignty and digital innovation abilities, development cooperation can help build regional and international bridges. Today, new approaches, mechanisms and mindsets are needed for future oriented, innovative development cooperation to be impactful and sustainable. These new approaches need to acknowledge the correlation between the digital transformation, climate change and social justice. The volatility of our systems and societies has been tested by the pandemic and conflicts as well as climate challenges. Building resilient, decentral, secure infrastructures that benefit populations as a whole needs to be a priority, rather than supporting individual projects or companies as has been the case in other regions, such as Africa in the past. This report provides a framework with applicable pathways towards inclusive digital transformation in the LAC region, with a specific focus on Brazil, Colombia, Mexico, Ecuador, and Peru.
+
+[https://doi.org/10.13140/RG.2.2.15831.33444](https://doi.org/10.13140/RG.2.2.15831.33444)
+
+---
+
 ## Covid-19 Response From Global Makers: The Careables Cases of Global Design and Local Production
 Frontiers Sociology, 18 March 2021 
 
