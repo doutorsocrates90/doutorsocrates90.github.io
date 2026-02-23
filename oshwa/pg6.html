@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Digital Pulse &amp; Physical Roots</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&amp;family=Montserrat:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 1280px;
+            height: 720px;
+            background-color: #f2f3f3;
+            font-family: 'Open Sans', sans-serif;
+            overflow: hidden;
+        }
+
+        .slide-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        /* GIG Brand Colors */
+        .bg-gig-teal { background-color: #424851; }
+        .bg-gig-pink { background-color: #e50050; }
+        .bg-gig-white { background-color: #f2f3f3; }
+        
+        .text-gig-teal { color: #424851; }
+        .text-gig-pink { color: #e50050; }
+        .text-gig-white { color: #f2f3f3; }
+
+        .border-gig-pink { border-color: #e50050; }
+        
+        /* Typography */
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        .lowercase-header {
+            text-transform: lowercase;
+            letter-spacing: -0.03em;
+        }
+
+        /* Layout specific */
+        .content-area {
+            flex: 1;
+            display: flex;
+            padding: 0 4rem 2rem 4rem;
+            gap: 4rem;
+        }
+
+        /* Image Grid Column */
+        .visual-column {
+            flex: 0 0 40%;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            justify-content: center;
+        }
+
+        .image-card {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            position: relative;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .image-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(to top, rgba(66, 72, 81, 0.7), transparent);
+        }
+
+        .image-caption {
+            position: absolute;
+            bottom: 1rem;
+            left: 1.5rem;
+            color: white;
+            z-index: 10;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            font-size: 0.9rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        /* Timeline Column */
+        .timeline-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline-line {
+            position: absolute;
+            left: 0;
+            top: 10%;
+            bottom: 10%;
+            width: 3px;
+            background-color: #e5e7eb;
+            border-radius: 3px;
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2.5rem;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-icon-wrapper {
+            position: absolute;
+            left: -2rem; /* Aligns with line */
+            transform: translateX(-50%);
+            width: 3rem;
+            height: 3rem;
+            background-color: white;
+            border: 3px solid #e50050;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .timeline-content {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 0 12px 12px 12px;
+            border-left: 4px solid #e50050;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            margin-left: 1.5rem;
+            flex: 1;
+            transition: transform 0.2s ease;
+        }
+
+        .timeline-content:hover {
+            transform: translateX(5px);
+        }
+
+        .bg-pattern {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            width: 300px;
+            height: 300px;
+            opacity: 0.05;
+            background-image: radial-gradient(#424851 1px, transparent 1px);
+            background-size: 20px 20px;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+    </style>
+</head>
+<body>
+<div class="slide-container">
+<!-- Header -->
+<header class="pt-8 px-16 pb-4 flex justify-between items-end border-b border-gray-300 mx-16 mb-6 z-10">
+<div>
+<h1 class="text-5xl font-bold text-gig-teal lowercase-header mb-1">the digital pulse &amp; physical roots</h1>
+<p class="text-xl text-gray-600 font-light">social infrastructure &amp; maintenance</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="w-8 h-8 bg-gig-pink rounded-full flex items-center justify-center">
+<i class="fas fa-share-nodes text-white text-sm"></i>
+</div>
+<span class="text-2xl font-bold text-gig-teal lowercase-header">gig</span>
+</div>
+</header>
+<!-- Main Content -->
+<div class="content-area z-10">
+<!-- Left Column: Visuals -->
+<div class="visual-column">
+<!-- Physical Image -->
+<div class="image-card h-64 transform -rotate-1 hover:rotate-0 transition duration-300" style='background-image: url("https://www.genspark.ai/image_placeholder.png");'>
+<p class="image-caption"><i class="fas fa-users mr-2"></i>GIG Week Berlin</p>
+</div>
+<!-- Digital Image -->
+<div class="image-card h-56 transform translate-x-4 hover:translate-x-0 transition duration-300" style='background-image: url("https://page.gensparksite.com/slides_images/dbf411c6ae0827dd3a32c49495651da5.webp");'>
+<p class="image-caption"><i class="fas fa-laptop mr-2"></i>Community Calls</p>
+</div>
+</div>
+<!-- Right Column: Timeline -->
+<div class="timeline-column">
+<div class="timeline-line"></div>
+<!-- Item 1: Physical -->
+<div class="timeline-item">
+<div class="timeline-icon-wrapper">
+<i class="fas fa-handshake text-gig-teal text-lg"></i>
+</div>
+<div class="timeline-content">
+<h3 class="text-xl font-bold text-gig-teal lowercase-header mb-1">physical roots</h3>
+<p class="text-sm font-semibold text-gig-pink uppercase tracking-wide mb-2">Annual GIG Week</p>
+<p class="text-gray-600 leading-relaxed text-sm">
+                            A physical residency and collaboration with re:publica in Berlin. Makers gather to build, prototype, and bond in person, creating the foundation for future work.
+                        </p>
+</div>
+</div>
+<!-- Item 2: Digital -->
+<div class="timeline-item">
+<div class="timeline-icon-wrapper">
+<i class="fas fa-signal text-gig-teal text-lg"></i>
+</div>
+<div class="timeline-content">
+<h3 class="text-xl font-bold text-gig-teal lowercase-header mb-1">digital pulse</h3>
+<p class="text-sm font-semibold text-gig-pink uppercase tracking-wide mb-2">Community Calls</p>
+<p class="text-gray-600 leading-relaxed text-sm">
+                            Recurring digital meetups ensuring trans-local collaboration. These calls keep the network active, allowing for continuous knowledge exchange between physical events.
+                        </p>
+</div>
+</div>
+<!-- Item 3: Trust -->
+<div class="timeline-item">
+<div class="timeline-icon-wrapper">
+<i class="fas fa-heart text-gig-teal text-lg"></i>
+</div>
+<div class="timeline-content bg-gig-teal text-white border-gig-pink">
+<h3 class="text-xl font-bold text-white lowercase-header mb-1">the foundation: trust</h3>
+<p class="text-sm font-semibold text-gig-pink uppercase tracking-wide mb-2">Prerequisite for Exchange</p>
+<p class="text-gray-200 leading-relaxed text-sm italic">
+                            "High-trust relationships are the prerequisite for complex knowledge exchange."
+                        </p>
+</div>
+</div>
+</div>
+</div>
+<!-- Background Pattern -->
+<div class="bg-pattern"></div>
+<!-- Footer -->
+<footer class="absolute bottom-0 w-full h-12 bg-gig-teal flex items-center px-16 justify-between text-white/80 text-xs z-20">
+<p>global innovation gathering</p>
+<p>distributed roots, global fruits</p>
+</footer>
+</div>
+</body>
+</html>

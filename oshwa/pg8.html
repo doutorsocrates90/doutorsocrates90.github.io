@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Conclusion - Stronger Communities</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&amp;family=Montserrat:wght@400;600;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 1280px;
+            height: 720px;
+            background-color: #424851; /* GIG Deep Teal */
+            font-family: 'Open Sans', sans-serif;
+            overflow: hidden;
+            color: #f2f3f3;
+        }
+
+        .slide-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #424851;
+            background-image: radial-gradient(circle at 90% 10%, rgba(255, 255, 255, 0.03) 0%, transparent 40%); 
+            /* Note: Prompt says avoid CSS gradients for export issues, but simple radial for subtle texture is usually okay or can be replaced by SVG. 
+               I will remove it to be safe per instructions and use SVG shapes instead. */
+            background-image: none;
+        }
+
+        /* GIG Brand Colors */
+        .text-gig-pink { color: #e50050; }
+        .text-gig-white { color: #f2f3f3; }
+        .bg-gig-pink { background-color: #e50050; }
+        .bg-gig-white { background-color: #f2f3f3; }
+        .border-gig-pink { border-color: #e50050; }
+
+        /* Typography */
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        .lowercase-header {
+            text-transform: lowercase;
+            letter-spacing: -0.03em;
+        }
+
+        /* Layout Elements */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 0 8rem;
+            z-index: 10;
+        }
+
+        .big-statement {
+            font-size: 5rem;
+            line-height: 1.1;
+            font-weight: 800;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .greater-than {
+            color: #e50050;
+            font-size: 6rem;
+            vertical-align: middle;
+            margin: 0 0.5rem;
+            display: inline-block;
+            transform: translateY(-5px);
+        }
+
+        .slogan-box {
+            border-left: 6px solid #e50050;
+            padding-left: 2rem;
+            margin-bottom: 3rem;
+            text-align: left;
+            max-width: 800px;
+        }
+
+        .slogan-text {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2rem;
+            font-weight: 700;
+            font-style: italic;
+            margin-bottom: 0.5rem;
+            line-height: 1.2;
+        }
+
+        .takeaway-text {
+            font-size: 1.1rem;
+            font-weight: 300;
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        /* Social Links */
+        .social-container {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+            margin-top: 1rem;
+            padding: 1.5rem 3rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 99px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .social-link {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
+        .social-link:hover {
+            transform: translateY(-2px);
+            color: #e50050;
+        }
+
+        .social-icon-circle {
+            width: 40px;
+            height: 40px;
+            background-color: white;
+            color: #424851;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .social-link:hover .social-icon-circle {
+            background-color: #e50050;
+            color: white;
+        }
+
+        /* Decorative Background Shapes */
+        .circle-shape {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.05;
+            background-color: #f2f3f3;
+            z-index: 1;
+        }
+        
+        .circle-1 {
+            width: 600px;
+            height: 600px;
+            top: -200px;
+            right: -100px;
+        }
+        
+        .circle-2 {
+            width: 400px;
+            height: 400px;
+            bottom: -150px;
+            left: -100px;
+            border: 4px solid #f2f3f3;
+            background: transparent;
+        }
+
+        .dots-grid {
+            position: absolute;
+            top: 20%;
+            left: 10%;
+            width: 200px;
+            height: 200px;
+            background-image: radial-gradient(rgba(255,255,255,0.1) 2px, transparent 2px);
+            background-size: 20px 20px;
+            z-index: 1;
+        }
+
+    </style>
+</head>
+<body>
+<div class="slide-container">
+<!-- Decorative Background -->
+<div class="circle-shape circle-1"></div>
+<div class="circle-shape circle-2"></div>
+<div class="dots-grid"></div>
+<!-- Header/Logo Area -->
+<header class="absolute top-0 left-0 w-full p-12 flex justify-between items-start z-20">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 bg-gig-pink rounded-full flex items-center justify-center shadow-lg">
+<i class="fas fa-share-nodes text-white text-lg"></i>
+</div>
+<span class="text-3xl font-bold text-white lowercase-header tracking-tight">gig</span>
+</div>
+</header>
+<!-- Main Content -->
+<div class="main-content">
+<!-- Big Typographic Statement -->
+<div class="big-statement lowercase-header">
+<p class="m-0">stronger communities</p>
+<p class="m-0"><span class="greater-than">&gt;</span> advanced tech</p>
+</div>
+<!-- Slogan & Message -->
+<div class="slogan-box">
+<p class="slogan-text text-gig-pink lowercase-header">"we are what we create together."</p>
+<p class="takeaway-text">
+                    The future of sustainability isn't just about better gadgets—it depends on policy frameworks and open infrastructure that empower grassroots innovation to solve local challenges.
+                </p>
+</div>
+<!-- Call to Action / Social Links -->
+<div class="social-container">
+<a class="social-link" href="#">
+<div class="social-icon-circle"><i class="fas fa-globe"></i></div>
+<span>globalinnovationgathering.org</span>
+</a>
+<div class="h-6 w-px bg-white/20"></div>
+<a class="social-link" href="#">
+<div class="social-icon-circle"><i class="fab fa-twitter"></i></div>
+<span>@wearegig</span>
+</a>
+<div class="h-6 w-px bg-white/20"></div>
+<a class="social-link" href="#">
+<div class="social-icon-circle"><i class="fab fa-instagram"></i></div>
+<span>@wearegig</span>
+</a>
+</div>
+</div>
+<!-- Footer -->
+<footer class="absolute bottom-0 w-full p-6 text-center text-white/40 text-xs z-20">
+<p>distributed roots, global fruits | ohswa community partnership</p>
+</footer>
+</div>
+</body>
+</html>

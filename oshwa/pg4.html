@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Resilience Travels Through Networks</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&amp;family=Montserrat:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 1280px;
+            height: 720px;
+            background-color: #f2f3f3;
+            font-family: 'Open Sans', sans-serif;
+            overflow: hidden;
+        }
+
+        .slide-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        /* GIG Brand Colors */
+        .bg-gig-teal { background-color: #424851; }
+        .bg-gig-pink { background-color: #e50050; }
+        .bg-gig-white { background-color: #f2f3f3; }
+        
+        .text-gig-teal { color: #424851; }
+        .text-gig-pink { color: #e50050; }
+        .text-gig-white { color: #f2f3f3; }
+
+        .border-gig-pink { border-color: #e50050; }
+        
+        /* Typography */
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        .lowercase-header {
+            text-transform: lowercase;
+            letter-spacing: -0.03em;
+        }
+
+        /* Split layout specific */
+        .split-container {
+            flex: 1;
+            display: flex;
+            position: relative;
+            height: calc(100% - 140px); /* Adjust based on header/footer */
+        }
+
+        .split-half {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .split-image-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            z-index: 1;
+            transition: transform 0.5s ease;
+        }
+
+        .split-half:hover .split-image-bg {
+            transform: scale(1.05);
+        }
+
+        .split-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(66, 72, 81, 0.85); /* Teal overlay */
+            z-index: 2;
+            transition: background-color 0.3s ease;
+        }
+        
+        .split-half:first-child .split-overlay {
+            background-color: rgba(66, 72, 81, 0.9);
+        }
+        
+        .split-half:last-child .split-overlay {
+            background-color: rgba(229, 0, 80, 0.85); /* Pink overlay */
+        }
+
+        .split-content {
+            position: relative;
+            z-index: 10;
+            padding: 3rem;
+            color: white;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        /* Connecting Arrow */
+        .connection-arrow {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 20;
+            background: white;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            color: #424851;
+            font-size: 2rem;
+        }
+
+        .location-badge {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(255,255,255,0.2);
+            backdrop-filter: blur(4px);
+            padding: 0.5rem 1rem;
+            border-radius: 99px;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.4);
+        }
+
+        .key-lesson-box {
+            position: absolute;
+            bottom: 3rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: white;
+            padding: 1.5rem 2.5rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            z-index: 30;
+            width: 60%;
+            text-align: center;
+            border-bottom: 4px solid #e50050;
+        }
+
+    </style>
+</head>
+<body>
+<div class="slide-container">
+<!-- Header -->
+<header class="pt-8 px-16 pb-4 flex justify-between items-end border-b border-gray-300 mx-16 mb-4 z-40 bg-gig-white">
+<div>
+<h1 class="text-4xl font-bold text-gig-teal lowercase-header mb-1">resilience travels through networks</h1>
+<p class="text-lg text-gray-600 font-light">case study: labstorm &amp; south-to-south exchange</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="w-8 h-8 bg-gig-pink rounded-full flex items-center justify-center">
+<i class="fas fa-share-nodes text-white text-sm"></i>
+</div>
+<span class="text-2xl font-bold text-gig-teal lowercase-header">gig</span>
+</div>
+</header>
+<!-- Main Content: Split Screen -->
+<div class="split-container">
+<!-- Left Side: Origin (Brazil) -->
+<div class="split-half">
+<div class="split-image-bg" style="background-image: url('https://www.genspark.ai/image_placeholder.png');"></div>
+<div class="split-overlay"></div>
+<div class="split-content text-right pr-16 pl-24">
+<div class="flex justify-end">
+<span class="location-badge">
+<i class="fas fa-map-marker-alt mr-2"></i> Origin: Brazil
+                        </span>
+</div>
+<h3 class="text-3xl font-bold mb-4 lowercase-header">labstorm prototype</h3>
+<p class="text-lg font-light leading-relaxed mb-6 opacity-90">
+                        Developed to assist communities during climate disasters, focusing on rapid deployment and local material availability.
+                    </p>
+<div class="mt-auto">
+<i class="fas fa-tools text-4xl opacity-50"></i>
+</div>
+</div>
+</div>
+<!-- Right Side: Adaptation (Philippines) -->
+<div class="split-half">
+<div class="split-image-bg" style="background-image: url('https://www.genspark.ai/image_placeholder.png');"></div>
+<div class="split-overlay"></div>
+<div class="split-content pl-16 pr-24">
+<div class="flex justify-start">
+<span class="location-badge">
+<i class="fas fa-map-marker-alt mr-2"></i> Adaptation: Philippines
+                        </span>
+</div>
+<h3 class="text-3xl font-bold mb-4 lowercase-header">localized deployment</h3>
+<p class="text-lg font-light leading-relaxed mb-6 opacity-90">
+                        Successfully transferred and adapted to local island contexts, modifying designs for tropical storm resilience.
+                    </p>
+<div class="mt-auto text-right">
+<i class="fas fa-users-cog text-4xl opacity-50"></i>
+</div>
+</div>
+</div>
+<!-- Connecting Arrow -->
+<div class="connection-arrow">
+<i class="fas fa-arrow-right"></i>
+</div>
+<!-- Key Lesson Overlay -->
+<div class="key-lesson-box">
+<p class="text-xs font-bold text-gig-pink uppercase tracking-widest mb-2">Key Lesson</p>
+<p class="text-xl font-medium text-gig-teal italic">
+                    "Resilience strategies travel best through <span class="font-bold">community-to-community exchange</span>, not top-down mandates."
+                </p>
+</div>
+</div>
+<!-- Footer -->
+<footer class="absolute bottom-0 w-full h-12 bg-gig-teal flex items-center px-16 justify-between text-white/80 text-xs z-50">
+<p>global innovation gathering</p>
+<p>distributed roots, global fruits</p>
+</footer>
+</div>
+</body>
+</html>

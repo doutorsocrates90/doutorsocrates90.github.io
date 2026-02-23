@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Indigenous &amp; Community Design</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&amp;family=Montserrat:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 1280px;
+            height: 720px;
+            background-color: #f2f3f3;
+            font-family: 'Open Sans', sans-serif;
+            overflow: hidden;
+        }
+
+        .slide-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        /* GIG Brand Colors */
+        .bg-gig-teal { background-color: #424851; }
+        .bg-gig-pink { background-color: #e50050; }
+        .bg-gig-white { background-color: #f2f3f3; }
+        
+        .text-gig-teal { color: #424851; }
+        .text-gig-pink { color: #e50050; }
+        .text-gig-white { color: #f2f3f3; }
+
+        .border-gig-pink { border-color: #e50050; }
+        
+        /* Typography */
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        .lowercase-header {
+            text-transform: lowercase;
+            letter-spacing: -0.03em;
+        }
+
+        /* Dual Feature Layout */
+        .content-area {
+            flex: 1;
+            display: flex;
+            padding: 0 4rem 3rem 4rem;
+            gap: 2rem;
+            position: relative;
+        }
+
+        .feature-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease;
+            background: white;
+            position: relative;
+        }
+
+        .feature-column:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        .feature-image {
+            height: 50%;
+            width: 100%;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .feature-content {
+            padding: 2rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .feature-tag {
+            position: absolute;
+            top: 1.5rem;
+            left: 1.5rem;
+            background: rgba(255,255,255,0.95);
+            color: #424851;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+        }
+
+        .feature-tag i {
+            margin-right: 0.5rem;
+            color: #e50050;
+        }
+
+        .divider {
+            width: 4rem;
+            height: 4px;
+            background-color: #e50050;
+            margin-bottom: 1.5rem;
+        }
+
+        /* Central Badge */
+        .central-badge {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #424851;
+            color: white;
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            z-index: 20;
+            box-shadow: 0 0 0 8px #f2f3f3;
+        }
+
+        .highlight-text {
+            background-color: #fff0f5;
+            padding: 0.1em 0.3em;
+            border-radius: 4px;
+            color: #e50050;
+            font-weight: 600;
+        }
+
+    </style>
+</head>
+<body>
+<div class="slide-container">
+<!-- Header -->
+<header class="pt-8 px-16 pb-4 flex justify-between items-end border-b border-gray-300 mx-16 mb-6">
+<div>
+<h1 class="text-5xl font-bold text-gig-teal lowercase-header mb-1">indigenous &amp; community design</h1>
+<p class="text-xl text-gray-600 font-light">bridging ancestral wisdom with digital fabrication</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="w-8 h-8 bg-gig-pink rounded-full flex items-center justify-center">
+<i class="fas fa-share-nodes text-white text-sm"></i>
+</div>
+<span class="text-2xl font-bold text-gig-teal lowercase-header">gig</span>
+</div>
+</header>
+<!-- Main Content -->
+<div class="content-area">
+<!-- Feature 1: OAXIN -->
+<div class="feature-column">
+<div class="feature-image" style='background-image: url("https://page.gensparksite.com/slides_images/336314a4a9a8a091168d977615c29ad1.webp");'>
+<div class="feature-tag">
+<i class="fas fa-map-marker-alt"></i> Oaxaca, Mexico
+                    </div>
+</div>
+<div class="feature-content">
+<h3 class="text-3xl font-bold text-gig-teal lowercase-header mb-2">oaxin</h3>
+<div class="divider"></div>
+<p class="text-gray-600 leading-relaxed mb-4 text-sm font-medium uppercase tracking-wider text-gig-pink">Ancestral Knowledge × Modern Tech</p>
+<p class="text-gray-700 leading-relaxed">
+                        A space where traditional craftsmanship meets <span class="highlight-text">modern fabrication tools</span>. Local artisans collaborate with makers to preserve cultural heritage while innovating new production methods using 3D printing and CNC milling.
+                    </p>
+</div>
+</div>
+<!-- Central Icon Badge -->
+<div class="central-badge">
+<i class="fas fa-exchange-alt"></i>
+</div>
+<!-- Feature 2: Cirandar -->
+<div class="feature-column">
+<div class="feature-image" style='background-image: url("https://page.gensparksite.com/slides_images/9aac850844ef2238cca95521ac7612ef.webp");'>
+<div class="feature-tag">
+<i class="fas fa-map-marker-alt"></i> Olinda, Brazil
+                    </div>
+</div>
+<div class="feature-content">
+<h3 class="text-3xl font-bold text-gig-teal lowercase-header mb-2">cirandar</h3>
+<div class="divider"></div>
+<p class="text-gray-600 leading-relaxed mb-4 text-sm font-medium uppercase tracking-wider text-gig-pink">Circular Design &amp; Waste Transformation</p>
+<p class="text-gray-700 leading-relaxed">
+                        Turning plastic waste into local resources through <span class="highlight-text">community-driven design</span>. This hub empowers local residents to redefine value by transforming refuse into useful products, fostering both economic and environmental resilience.
+                    </p>
+</div>
+</div>
+</div>
+<!-- Footer -->
+<footer class="absolute bottom-0 w-full h-12 bg-gig-teal flex items-center px-16 justify-between text-white/80 text-xs z-10">
+<p>global innovation gathering</p>
+<p>distributed roots, global fruits</p>
+</footer>
+</div>
+</body>
+</html>
