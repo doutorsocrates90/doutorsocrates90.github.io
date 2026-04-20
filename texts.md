@@ -75,7 +75,7 @@ Makerspaces—informal shared spaces that offer access to technologies, resource
 
 ---
 
-# Como medir a inovação?: Mensurando a inovação em negócios e serviços da economia criativa
+## Como medir a inovação?: Mensurando a inovação em negócios e serviços da economia criativa
 Book - Portuguese Edition
 
 October, 2021
