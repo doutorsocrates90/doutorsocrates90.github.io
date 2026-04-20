@@ -4,6 +4,14 @@ title: Lectures
 
 <small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
+## ECA Digital - O que mudou na proteção de crianças e adolescentes?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cfEkyOXkqSI?si=JwJHfJ8rlBdWLGEl&amp;start=1413" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Talk at the panel “ECA Digital: desvendando a Lei 15.211/2025 e os novos marcos da proteção em ambientes hiperconectados,” organized by the State Secretariat for Citizenship and the Rights of Persons with Disabilities of Alagoas (Secdef) at the Federal University of Alagoas, as part of the Maio Laranja 2026 programme. The event brought together specialists, public officials, students, and members of the protection network to reflect on how digital environments are reshaping the rights and safety of children and adolescents.
+
+---
+
 ## re:publica 24
 
 <img src="images/rp_24.jpg" alt="" />

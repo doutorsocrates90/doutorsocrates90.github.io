@@ -75,6 +75,20 @@ Makerspaces—informal shared spaces that offer access to technologies, resource
 
 ---
 
+# Como medir a inovação?: Mensurando a inovação em negócios e serviços da economia criativa
+Book - Portuguese Edition
+
+October, 2021
+
+This book presents how it was possible to measure the degree of innovation of cultural organizations in the state of Pernambuco that are embedded in their communities and classified by Law No. 13.018/2014 as Pontos de Cultura (Culture Points). First, a bibliographic study traces the etymology of innovation and its relationship to sustainability and the Creative Economy, of which Pontos de Cultura are considered a part. Next, investments in innovation in Brazil are analyzed from the 1930s up to the 2017 Budget Law. Subsequently, a set of existing innovation measurement tools is presented and, based on these, a tool is proposed to measure the degree of innovation of the organizations in question. An online questionnaire followed by semi-structured interviews conducted with 33 organizations in the state is analyzed using the tool known as the Innovation Radar. In the end, it is observed that these organizations have a low degree of innovation, mainly because they do not view the product of their work as marketable or because of the conceptually non-innovative nature of cultural traditions.
+
+  
+**Keywords**: Innovation. Social innovation. Indicators of innovation. Creative economy. Cultural Policies.
+
+<a href="https://www.amazon.com.br/Como-medir-inovação-Mensurando-negócios-ebook/dp/B09JV1CWY6" target="_blank">Get it on Amazon</a>
+
+---
+
 ## Grau de inovação de centros culturais com inserção comunitária no estado de Pernambuco
 Masters dissertation. Honourable Mention for best dissertation of the year - Faculty of Administration Sciences - University of Pernambuco
 
