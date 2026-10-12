@@ -6,10 +6,6 @@ categories:
 coverImage: "WhatsApp-Image-2021-08-02-at-09.31.01.jpeg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Cards Against the Planet
-
 Project Manager for the multiplayer strategy card game presents problems faced by nature resulting from human activity. Together, the players embody the planet and turn cards to mitigate the pollution caused in the air, soil, and oceans.
 
 <img src="images/WhatsApp-Image-2021-08-02-at-09.31.01.jpeg" alt="" />

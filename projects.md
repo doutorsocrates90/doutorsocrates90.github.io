@@ -1,20 +1,23 @@
 ---
 title: Projects
+kicker: "Programmes, platforms and public initiatives"
+lede: "Digital culture, open hardware, citizen science and community innovation, from Brazil to Berlin."
+cards: true
 ---
 
-<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-* [Global Innovation Gathering](post/global-innovation-gathering.html)
-* [Cards Against The Planet](post/cards-against-the-planet.html)
-* [Careables Latin America](post/careables-latin-america.html)
-* [Contos De Ifá](post/contos-de-ifa.html)
-* [Mozilla Reimagine Open](post/mozilla-reimagine-open-brazil.html)
-* [Digitologias](post/digitologias.html)
-* [LabCEUs](post/labceus.html)
-* [Urban Thinkers Campus Recife](post/urban-thinkers-campus-recife.html)
-* [Radio Amnésia](post/rede-amnesia-de-radios.html)
-* [Digital Culture – Ministry Of Culture](post/digital-culture-ministry-of-culture.html)
-* [Submidialogia](post/submidialogia.html)
-* [MimoSa](post/mimosa.html)
-* [IP:// – Public Interface](post/ip-public-interface.html)
-* [Mídia Tática Brasil](post/midia-tatica-brasil.html)
+<div class="grid">
+{% include post-card.html slug="global-innovation-gathering" %}
+{% include post-card.html slug="cards-against-the-planet" %}
+{% include post-card.html slug="careables-latin-america" %}
+{% include post-card.html slug="contos-de-ifa" %}
+{% include post-card.html slug="mozilla-reimagine-open-brazil" %}
+{% include post-card.html slug="digitologias" %}
+{% include post-card.html slug="labceus" %}
+{% include post-card.html slug="urban-thinkers-campus-recife" %}
+{% include post-card.html slug="rede-amnesia-de-radios" %}
+{% include post-card.html slug="digital-culture-ministry-of-culture" %}
+{% include post-card.html slug="submidialogia" %}
+{% include post-card.html slug="mimosa" %}
+{% include post-card.html slug="ip-public-interface" %}
+{% include post-card.html slug="midia-tatica-brasil" %}
+</div>

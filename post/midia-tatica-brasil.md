@@ -6,11 +6,6 @@ categories:
 coverImage: "MTB-13.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-
-# MTB - Midia Tatica Brasil
-
 Executive production for the festival held at Casa das Rosas in 2003 bringing together dozens of groups and thousands of people.
 
 <img src="images/MTB-07.jpg" alt="" />

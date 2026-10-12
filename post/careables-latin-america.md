@@ -6,10 +6,6 @@ categories:
 coverImage: "careables-feature.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Careables
-
 Local consultancy for the an international collaboration platform that allows citizens to design and deliver people-centered health products.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x_duDPdcKMk?si=QOaG7_KNsi2jUueG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="OER Webinar">
+<rect width="1200" height="750" fill="#3b3a8f"/>
+<circle cx="1050" cy="120" r="260" fill="#f2b8c6" opacity=".18"/>
+<path d="M760 300 C 860 270, 940 280, 1000 330 C 1060 280, 1140 270, 1240 300 V 560 C 1140 530, 1060 540, 1000 590 C 940 540, 860 530, 760 560 Z" fill="#f2b8c6" transform="translate(-100,-20)"/>
+<text x="80" y="140" font-family="Georgia, serif" font-size="30" letter-spacing="6" fill="#f2b8c6">OPEN EDUCATION</text>
+<text x="80" y="250" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#f3f1ff">OER</text>
+<text x="80" y="345" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#f3f1ff">Webinar</text>
+</svg>

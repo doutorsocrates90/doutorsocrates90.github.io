@@ -6,10 +6,6 @@ categories:
 coverImage: "5185980421_879a764690_b.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Digital Culture - Ministry of Culture
-
 Co-coordination for implantation of Pontos de Cultura - Digital Culture Literacy program in the Ministry of Culture of Brazil, from 2004 to 2007.
 
 <img src="5185980421_879a764690_b.jpg" alt="" />

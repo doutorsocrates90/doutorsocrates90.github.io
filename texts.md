@@ -1,8 +1,18 @@
 ---
 title: Texts
+kicker: "Books, reports and papers"
+lede: "Research reports for the European Commission and BMZ, academic papers, and books on innovation, making and digital cultures."
+entries: true
 ---
 
-<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
+## How to Measure Innovation? (book)
+April 2026 - Kindle Edition, English
+
+A book on social and technological innovation and a ready-to-use diagnostic tool for organisations where creativity, community and social value are the main outputs, built on the Innovation Radar methodology and field research.
+
+[Read more](/post/how-to-measure-innovation-book.html) · [Amazon](https://www.amazon.com/dp/B0GYJXTRCS)
+
+---
 
 ## make-a-thek: Circular Makerspace for Craft & Fashion Recommendations
 November 2025 - European Commission Report
@@ -15,7 +25,6 @@ This report presents the outcomes of the make-a-thek project’s mapping and com
 
 ## Critical Making Open Hardware Programme Report
 July 2023 - European Commission Report
-
 
 The Critical Making Open Hardware Mentorship Program aimed to support global makers and innovators in shaping a sustainable future of making. Over nine months, 18 mentees received guidance and input from our esteemed teachers on critical principles of the sustainable making framework for their projects: Make Things That Make Sense, Share How You Make, Include Ecosystem Services, Integrate Local Knowledge, and Build for Continuity. This report is twofold:
 
@@ -115,7 +124,6 @@ This paper discusses the concepts of social and technological innovation to anal
 
 ## The Critical Making Movement. How Using Critical Thinking in Technological Practice Can Make a Difference.
 
-
 Jan 25, 2019 - 35C3 – Refreshing Memories. Chaos Computer Club e.V. / Ach je Verlag
 
 This paper summarises the session “The Critical Making Movement: How using critical thinking in technological practice can make a Difference” held at the 35th Chaos Communication Congress between 27-30. December 2018 in Leipzig, Germany. It begins with a short history of the maker movement, summarises current societal impacts achieved in makerspaces and criticism directed towards maker culture. The paper then offers critical thinking to rethink professional practices conducted in makerspaces to achieve a more reflective approach and utilise the resources available in makerspaces for a society-oriented and citizen-driven course. The origins of such critical-making practices are touched upon, which lie in critical technical training, critical design and critical engineering. All 3 - briefly summarised in this paper - influence current critical-making streams in academia and citizen-driven projects. The paper also offers insight into current examples of academic syllabuses, research and citizens’ bottom-up projects. Two cases are further elaborated to inspire more grassroots critical-making research: EngineeringGood, Hack-a-Toy workshops in Singapore, and LabCOCO with Contos de Ifa in Brazil. ISBN 978-3-947720-31-6
@@ -131,7 +139,6 @@ Sep 14, 2017 - Lições de Empreendedorismo / EDUPE
 A book chapter that beckons entrepreneurship as an instrument that enhances competencies, arousing the interest of reading by different audiences: be they academics or professionals from other branches and market segments, aiming, initially, to talk about the relationship between entrepreneurship and the market. ISBN: 978-85-7856-212-0
 
 [See publication](http://www.edupe.com.br/produto.php?codigo=79)
-
 
 ---
 
@@ -154,7 +161,6 @@ It is an observation, consolidation and interpretation project on the media´s r
 [https://doi.org/10.5281/zenodo.8246600](https://doi.org/10.5281/zenodo.8246600)
 
 ---
-
 
 ## Submidialogias - Entre a mão e a contramão
 

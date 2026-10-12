@@ -6,8 +6,6 @@ categories:
 coverImage: "facal-campus.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
 FACAL - Limoeiro Management Sciences College
 
 **[Empreendedorismo Social](//www.slideshare.net/doutorsocrates/empreendedorismo-social-162805635 "Empreendedorismo Social")** from **[Ricardo Ruiz](https://www.slideshare.net/doutorsocrates)**

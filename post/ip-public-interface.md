@@ -6,10 +6,6 @@ categories:
 coverImage: "ip-featured.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# IP:// - Public Interface
-
 Director and co-founder of IP:// - Interface Pública, the first brazilian HackersPace / MakersPace in Lapa, Rio de Janeiro
 
 <img src="images/ip-featured.jpg" alt="" />

@@ -1,8 +1,8 @@
 ---
 title: Lectures
+kicker: "Talks, panels and keynotes"
+lede: "From re:publica in Berlin to community stages in the Brazilian Northeast."
 ---
-
-<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 ## ECA Digital - O que mudou na proteção de crianças e adolescentes?
 
@@ -24,7 +24,6 @@ Discussion moderation: rp:FAROFA [Where Beach Vibes Meet Democracy Drive](https:
 
 <img src="images/rp_23.jpg" alt="" />
 
-
 Panel presentation: [Climate Change - LabStorm](https://re-publica.com/en/node/1811). Berlin, 2023. Celebrating the impacts of the Global South Maker Community to mitigate climate change effects locally! Labstorm invited 30 people of different ages, classes, genders, and ethnicities from Brazil to a citizen laboratory focused on generating citizen innovation prototypes to combat the climate emergency.
 
 ---
@@ -35,7 +34,6 @@ Panel presentation: [Climate Change - LabStorm](https://re-publica.com/en/node/1
 
 Panel presentation: Open Citizen Social Science Meetup: [How to shape an inclusive open citizen social science landscape](https://22.re-publica.com/de/session/open-citizen-social-science-meetup-how-shape-inclusive-open-citizen-social-science.html). Berlin, 2022. We invite all people involved in Citizen Social Science, but also Open Science and Citizen Science for a meetup to exchange perspectives and ideas during re:publica. The intention of this meetup is to share our different entry points into the field and to share experiences in regards to preventing eurcentric and post-colonial nuances in our work.
 
-
 ---
 ## Mozilla Festival 2021
 
@@ -44,7 +42,6 @@ Panel presentation: Open Citizen Social Science Meetup: [How to shape an inclusi
 Open-source technology and principles have been a potent force in slowing the spread of a deadly virus. Presenting the Careables experience. Online, 2021.
 
 [Open Source & the Pandemic: A Dialogues & Debates panel](https://schedule.mozillafestival.org/session/TYN3ZA-1)
-
 
 ---
 
@@ -62,15 +59,13 @@ November 2020. Panel presented about Contos de Ifá game during the Academic Fó
 
 Debate about the makerspace [Casa Criatura](https://casacriatura.com/) in Olinda produced thousands of pieces of PPE (personal protective equipment) by mixing open, globally designed products with local practices, and donating it to local indigenous health authorities, Afro-Brazilian traditional communities and public hospitals. The makerspace also developed an open-source aerosol box with physicists and teachers from reference hospitals in the region, igniting a community of makers and healthcare professionals around it. And most importantly, the _demunis_, the ordinary citizens with community obligations, received support, too—the overarching question accompanying all these activities is how communities can better care for themselves during pandemics. Online, 2020.
 
-
 ---
 
 ## Health, care and technology: a timeless relationship.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iv-3bWFRRZ4?si=sX_Tc-S9ZanE1tO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond. Online, 2020. As part of [Careables](http://thisismy.art.br/careables-latin-america/) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
-
+Co-organisation and co-moderation of a series of remote meetings regarding the Covid-19 Pandemic and beyond. Online, 2020. As part of [Careables](/post/careables-latin-america.html) project, "We want to learn and further develop from the experience of responding to the pandemic that connected agents from the public, private sectors and civil society. We want to explore the times and their related actions and combine the past, the present and the future in a digitalised living space."
 
 ---
 
@@ -90,12 +85,9 @@ Programming is the new literacy. Learning how to code is now an integral part of
 
 Moderator on the panel [Youth skills for the future of work(less) on the global south](https://18.re-publica.com/de/session/youth-skills-future-workless-global-south), Berlin, 2018.
 
-
-
 ---
 
 ## Amazônia Interconectada
-
 
 <img src="images/amazon.jpg" alt="" />
 
@@ -160,7 +152,6 @@ Panel presentation [SERENDIPITY CITY – INFORMAL URBAN PLANNING AND SOCIAL ARCH
 Panel about Free and Tactical Media.  
 [Onda Cidadã Festival](https://www.itaucultural.org.br/o-que-os-motiva-cobertura-colaborativa-do-3o-forum-onda-cidada-2012?p=2), São Paulo, 2012. A vibrant forum that celebrates and supports autonomous media and cultural activism across Brazil. Through debates, interviews, and collaborative coverage, the event highlights grassroots initiatives and explores themes like sustainability, digital inclusion, and creative resistance. The festival also showcases a national mapping of over 300 independent media projects, fostering dialogue and visibility for voices often overlooked in mainstream narratives
 
-
 ---
 
 ## Digital Culture Festival
@@ -185,7 +176,6 @@ Visit project's [archive](https://web.archive.org/web/20100305063510/http://gent
 
 <img src="images/berlin1.jpg" alt="" />
 
-
 **mimoSa** - **Urban Intervention and Information Correction Machine**. Panel presenting a residency at Tesla Museum. Berlin, 2006. Conclusion of a residency at Tesla Museum by presenting a mapping of Brazilian new media groups, festivals, arts and activism, connecting independent, governmental, community and private initiatives.
 
 Visit [Wizards of OS website](http://www.wizards-of-os.org/programm/specials/mimosa.html)
@@ -203,6 +193,5 @@ Panel Presentation about [Brazilian Open Source Software & Copyleft](http://lewi
 ## Alt Law Forum
 <img src="images/DSC01436.jpg" alt="" />
 
-Participant to present [Midia Tatica Brasil](http://thisismy.art.br/midia-tatica-brasil/) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands). The Alternative Law Forum (ALF) is a collective of lawyers based in Bengaluru, India, founded in March 2000. It was created to promote an alternative, socially engaged practice of law that addresses issues of social and economic injustice. ALF integrates litigation, critical research, pedagogy, and advocacy, often working with marginalized communities and grassroots organizations. Their work spans areas like gender and sexuality rights, labor and employment, environmental justice, and constitutional law. They also emphasize interdisciplinary approaches and creative methods to make legal knowledge more accessible and impactful
-
+Participant to present [Midia Tatica Brasil](/post/midia-tatica-brasil.html) in Bangalore, India, 2004, a partnership between Sarai (India) and Waag Society (Netherlands). The Alternative Law Forum (ALF) is a collective of lawyers based in Bengaluru, India, founded in March 2000. It was created to promote an alternative, socially engaged practice of law that addresses issues of social and economic injustice. ALF integrates litigation, critical research, pedagogy, and advocacy, often working with marginalized communities and grassroots organizations. Their work spans areas like gender and sexuality rights, labor and employment, environmental justice, and constitutional law. They also emphasize interdisciplinary approaches and creative methods to make legal knowledge more accessible and impactful
 

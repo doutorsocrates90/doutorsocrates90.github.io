@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Snakebite Innovation Prize">
+<rect width="1200" height="750" fill="#14585a"/>
+<circle cx="1050" cy="120" r="260" fill="#e9b44c" opacity=".18"/>
+<path d="M80 560 C 260 380, 360 700, 520 520 S 800 330, 960 470 S 1100 600, 1140 520" fill="none" stroke="#e9b44c" stroke-width="46" stroke-linecap="round"/><circle cx="1140" cy="520" r="14" fill="#1d1a17"/>
+<text x="80" y="140" font-family="Georgia, serif" font-size="30" letter-spacing="6" fill="#e9b44c">TECHNICAL ASSESSMENT</text>
+<text x="80" y="250" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#f3ece1">Snakebite</text>
+<text x="80" y="345" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#f3ece1">Innovation Prize</text>
+</svg>

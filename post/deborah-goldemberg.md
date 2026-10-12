@@ -6,10 +6,6 @@ categories:
 coverImage: "Captura-de-tela-2019-07-08-14.11.45.png"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Deborah Goldemberg
-
 Development of web platform for  Deborah Goldemberg.
 
 <img src="images/Captura-de-tela-2019-07-08-14.11.45.png" alt="" />

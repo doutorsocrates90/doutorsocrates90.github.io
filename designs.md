@@ -1,26 +1,29 @@
 ---
 title: Designs
+kicker: "Identities, websites and platforms"
+lede: "Visual identity, web platforms and digital products designed with organisations, artists and communities."
+cards: true
 ---
 
-<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-- [Terra Mar](http://terramar.online/)
-- [Global Innovation Gathering](http://globalinnovationgathering.org/)
-- [Casa Criatura](https://casacriatura.com)
-- [CoAct](post/coact.html)
-- [Deborah Goldemberg](post/deborah-goldemberg.html)
-- [Arquivos Táticos](post/arquivos-taticos.html)
-- [Tapioca](post/tapioca.html)
-- [Centro Popular de Direitos Humanos](post/cpdh.html)
-- [Instituto Beraca](post/instituto-beraca.html)
-- [Padê Editorial](post/pade-lgbt.html)
-- [Instituto Conceição Moura](post/instituto-conceicao-moura.html)
-- [Livres Filmes](post/livres-filmes.html)
-- [Saneamento Básico Brasil](post/samba.html)
-- [Naté! Beauty](post/nate-beauty.html)
-- [Correio Nagô](post/correio-nago.html)
-- [Subgrave Nordestino](post/subgrave-nordestino.html)
-- [Parteiras Tradicionais](post/parteirastradicionais-info.html)
-- [Rede Amnesia de Radios](post/rede-amnesia-de-radios.html)
-- [Farmácias Cavalcante](post/farmacias-cavalcante.html)
-- [Instituto Vovó Dida](post/vovodida.html)
+<div class="grid">
+{% include card.html href="http://terramar.online/" title="Terra Mar" external=true text="Website" %}
+{% include card.html href="http://globalinnovationgathering.org/" title="Global Innovation Gathering" external=true text="Website" %}
+{% include card.html href="https://casacriatura.com" title="Casa Criatura" external=true text="Website" %}
+{% include post-card.html slug="coact" %}
+{% include post-card.html slug="deborah-goldemberg" %}
+{% include post-card.html slug="arquivos-taticos" %}
+{% include post-card.html slug="tapioca" %}
+{% include post-card.html slug="cpdh" %}
+{% include post-card.html slug="instituto-beraca" %}
+{% include post-card.html slug="pade-lgbt" %}
+{% include post-card.html slug="instituto-conceicao-moura" %}
+{% include post-card.html slug="livres-filmes" %}
+{% include post-card.html slug="samba" %}
+{% include post-card.html slug="nate-beauty" %}
+{% include post-card.html slug="correio-nago" %}
+{% include post-card.html slug="subgrave-nordestino" %}
+{% include post-card.html slug="parteirastradicionais-info" %}
+{% include post-card.html slug="rede-amnesia-de-radios" %}
+{% include post-card.html slug="farmacias-cavalcante" %}
+{% include post-card.html slug="vovodida" %}
+</div>

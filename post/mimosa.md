@@ -6,10 +6,6 @@ categories:
 coverImage: "mimosa_salvador2.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# mimoSa
-
 Project Manager of the Creative Commons Arts Project mimoSa - Supported by Andy Warhol Foundation for the Visual Arts
 
 <img src="images/mimosa03.jpg" alt="" />

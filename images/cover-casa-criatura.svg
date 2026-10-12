@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Casa Criatura">
+<rect width="1200" height="750" fill="#b23a1e"/>
+<circle cx="1050" cy="120" r="260" fill="#f6c9a8" opacity=".18"/>
+<path d="M760 560 V360 L930 220 L1100 360 V560 Z" fill="#f6c9a8"/><rect x="900" y="430" width="60" height="130" fill="#b23a1e"/><circle cx="1010" cy="340" r="22" fill="#b23a1e"/>
+<text x="80" y="140" font-family="Georgia, serif" font-size="30" letter-spacing="6" fill="#f6c9a8">STRATEGY &amp; INNOVATION</text>
+<text x="80" y="250" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#fff3ea">Casa</text>
+<text x="80" y="345" font-family="Georgia, serif" font-weight="700" font-size="84" fill="#fff3ea">Criatura</text>
+</svg>

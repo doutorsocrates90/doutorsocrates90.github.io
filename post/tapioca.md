@@ -6,10 +6,6 @@ categories:
 coverImage: "Captura-de-tela-2019-07-08-14.49.00.png"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# TAPIOCA
-
 <img src="images/Captura-de-tela-2019-07-08-14.48.31.png" alt="" />
     
 <img src="images/Captura-de-tela-2019-07-08-14.49.00.png" alt="" />

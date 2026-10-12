@@ -6,10 +6,6 @@ categories:
 coverImage: "coact3-e1590160572431.png"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# CoAct Europe
-
 <img src="images/coact1.png" alt="" />
     
 <img src="images/coact2-e1590160536255.png" alt="" />

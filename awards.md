@@ -1,12 +1,12 @@
 ---
 title: Awards
+kicker: "Recognition"
+lede: "Prizes and honours for open-source, cultural and academic work."
 ---
-
-<small>[Texts](texts.html) | [Lectures](lectures.html) | [Projects](projects.html) | [Curations](curation.html) | [Designs](designs.html) | [Teachings](teachings.html) | [Awards](awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
 
 **Mozilla Opens Source Support Award Porgram**  
 _May 2020 - Mozilla Foundation_  
-The Mozilla Open Source Support (MOSS) awards program, created in 2015, broadens access, increases security, and empowers users by providing catalytic funding to open source technologists. Awarded for [Careables](http://thisismy.art.br/careables-latin-america/) Olinda project.
+The Mozilla Open Source Support (MOSS) awards program, created in 2015, broadens access, increases security, and empowers users by providing catalytic funding to open source technologists. Awarded for [Careables](/post/careables-latin-america.html) Olinda project.
 
 **Honourable Mention Best Master's Thesis FCAP / UPE 2019**  
 _Dec 2019 - University of Pernambuco_  
@@ -18,4 +18,4 @@ Award for the activities as a digital literacy activist on Free Software and Com
 
 **Turbulence.org Award**  
 _Aug 2005 New - Radio and Performing Arts, Inc./ Andy Warhol Foundation_  
-Award for the Creative Commons art project to build mobile media artefacts known as [mimoSa](http://thisismy.art.br/mimosa/).
+Award for the Creative Commons art project to build mobile media artefacts known as [mimoSa](/post/mimosa.html).

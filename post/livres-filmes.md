@@ -6,10 +6,6 @@ categories:
 coverImage: "Captura-de-tela-2019-07-08-15.20.31.png"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Livres Filmes
-
 <img src="images/Captura-de-tela-2019-07-08-15.19.39.png" alt="" />
 
 <img src="images/Captura-de-tela-2019-07-08-15.20.31.png" alt="cinema" />

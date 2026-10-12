@@ -6,10 +6,6 @@ categories:
 coverImage: "subgrave-nordestino-–-contra-hegemonia-e-decolonialidade-na-musica-eletronica-do-nordeste-brasileiro.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# SubGrave Nordestino
-
 <img src="images/subgrave-nordestino-–-contra-hegemonia-e-decolonialidade-na-musica-eletronica-do-nordeste-brasileiro.jpg" alt="" />
     
 <img src="images/Bahia-Eletronica-–-subgrave-nordestino.png" alt="" />

@@ -5,10 +5,6 @@ categories:
   - "design"
 coverImage: "pade1.png"
 ---
-
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Padê Editorial
     
 <img src="images/pade1.png" alt="" />
 

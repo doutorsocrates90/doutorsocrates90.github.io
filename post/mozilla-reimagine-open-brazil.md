@@ -6,10 +6,6 @@ categories:
 coverImage: "photo5125328884458432563.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# Mozilla Re-imagine Open
-
 Local production and moderation of a public debate part of Mozilla Internet Health Program
 
 <img src="images/photo5125328884458432543.jpg" alt="" />

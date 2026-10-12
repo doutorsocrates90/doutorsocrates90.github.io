@@ -6,10 +6,6 @@ categories:
 coverImage: "labceus2.jpg"
 ---
 
-<small>[Texts](../texts.html) | [Lectures](../lectures.html) | [Projects](../projects.html) | [Curations](../curation.html) | [Designs](../designs.html) | [Teachings](../teachings.html) | [Awards](../awards.html) | <a href="https://readruiz.medium.com/" target="_blank">Blog</a></small>
-
-# LabCEUs
-
 <img src="images/labceus2.jpg" alt="" />
 
 Project Management of Federal University of Pernambuco Extension Program LabCEUS.
