@@ -46,8 +46,18 @@ body_class: home
     <div class="pillar"><h3>Design &amp; build</h3><p>Digital platforms, open hardware programmes, management systems and visual identities for organisations and communities.</p></div>
     <div class="pillar"><h3>Teach &amp; advise</h3><p>Courses, webinars and consulting on open education, innovation and cultural management.</p></div>
   </div>
-  <p>My identity is shaped by Brazil's Northeast, a region rich in Afro-Indigenous heritage, resilience and creativity, and that shapes my commitment to plural narratives and equitable design.</p>
-  <p>One of my current challenges is advocating for responsible AI systems that are transparent, culturally aware and co-designed with the communities they affect: pushing back against bias, amplifying underrepresented voices and making sure AI reflects the diversity of human experience, not only dominant paradigms. Cultural representation in AI is not just a technical issue; it is a matter of justice, memory and imagination.</p>
+  <p>Organisations call me when good ideas need to become working systems: a strategy the board can follow, a management platform a small team will actually use, a funding pipeline, a way to prove impact, or a training programme that spreads the knowledge.</p>
+  <p>I bring 25 years of delivery across public, non-profit and academic settings: a federal digital-culture programme that supported more than 1,000 cultural centres in Brazil, a national innovation lab with 43 researchers and 30 community action projects, EU-funded citizen-science work that reached 1.6 million people, and open-hardware programmes recognised with a Mozilla award.</p>
+  <h3>Where I can help</h3>
+  <ul>
+    <li><strong>Strategy and management</strong> for cultural and civil-society organisations</li>
+    <li><strong>Innovation measurement</strong> and impact frameworks that funders understand</li>
+    <li><strong>Open-source systems</strong> and digital platforms, from Odoo to web portals</li>
+    <li><strong>Fundraising and proposal writing</strong>, including EU and international programmes</li>
+    <li><strong>Open education</strong> and capacity building for teams and networks</li>
+    <li><strong>Responsible, culturally aware AI</strong>, co-designed with the communities it affects</li>
+  </ul>
+  <p><a class="btn" href="https://www.linkedin.com/in/ricardoruizfreire/" target="_blank" rel="noopener">Let's talk ↗</a> <a class="btn ghost" href="/consulting.html">See recent consulting</a></p>
 </section>
 
 <section class="section">

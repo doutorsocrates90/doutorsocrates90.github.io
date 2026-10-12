@@ -9,7 +9,7 @@ cards: true
 
 <div class="grid">
 {% include post-card.html slug="labhacker-odoo-implementation" tag="Open-source systems" text="Odoo implementation in Portuguese, custom modules, manual and fundraising consulting." meta="Oct 2026 – Jan 2027 · Maceió" %}
-{% include post-card.html slug="snakebite-prize-assessor" tag="Review" text="Independent technical assessor for a £6.25M challenge prize on snakebite care." meta="2026 · Wellcome / ChallengeWorks" %}
+{% include post-card.html slug="global-innovation-gathering" tag="Leadership" text="International Executive Director of a global network of grassroots innovation hubs and makerspaces." meta="2017 – present · Berlin" %}
 {% include post-card.html slug="casa-criatura-consulting" tag="Strategy" text="Strategic plan, product axes and management tools for a maker laboratory." meta="2020 – 2022 · Olinda" %}
 </div>
 
@@ -17,7 +17,7 @@ cards: true
 
 <div class="grid two">
 {% include card.html href="/post/careables-latin-america.html" tag="Health & making" title="Careables Latin America" text="Local consultancy for the international platform for co-designing and producing open-source health products." meta="2020" img="careables-feature.jpg" %}
-{% include card.html href="/post/global-innovation-gathering.html" tag="Network" title="Global Innovation Gathering" text="International Executive Director of a global network of grassroots innovation hubs and makerspaces." meta="2017 – present" img="gig-hub.jpg" %}
+{% include post-card.html slug="snakebite-prize-assessor" tag="Review" text="Independent technical assessor for a £6.25M challenge prize on snakebite care." meta="2026 · Wellcome / ChallengeWorks" %}
 </div>
 
 <ul class="plain">
