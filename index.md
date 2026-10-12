@@ -7,7 +7,7 @@ body_class: home
 <section class="hero">
   <div>
     <p class="kicker">Designer · Manager · Researcher · Cultural strategist</p>
-    <h1>Technology, human rights and <em>inclusion</em>, designed with communities.</h1>
+    <h1>Technology, innovation management and <em>inclusion</em>, designed with communities.</h1>
     <p class="lede">I am a Brazilian designer, manager, researcher and cultural strategist. For over 25 years, across government, development cooperation and academia, I have designed digital ecosystems that empower communities and uphold dignity.</p>
     <p>
       <a class="btn" href="/consulting.html">Consulting</a>
