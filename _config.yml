@@ -21,7 +21,7 @@ defaults:
 
 # Show the three drafted consulting offers on the Consulting pages
 # (set to true after the offers have been validated).
-show_offers: false
+show_offers: true
 
 # Privacy-friendly analytics. Leave id empty to disable.
 # provider: goatcounter (id = your code, e.g. "ricardo") | plausible (id = domain) | ga4 (id = G-XXXXXXX)
