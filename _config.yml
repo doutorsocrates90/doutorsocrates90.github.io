@@ -26,8 +26,8 @@ show_offers: false
 # Privacy-friendly analytics. Leave id empty to disable.
 # provider: goatcounter (id = your code, e.g. "ricardo") | plausible (id = domain) | ga4 (id = G-XXXXXXX)
 analytics:
-  provider: ""
-  id: ""
+  provider: goatcounter
+  id: thisismyart
 
 exclude:
   - LICENSE
