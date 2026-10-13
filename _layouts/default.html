@@ -34,10 +34,25 @@
   <meta property="og:locale" content="{% if lang == 'pt' %}pt_BR{% else %}en_US{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.png">
+  {%- if lang == "en" and alt %}
+  <script id="lang-redirect">
+  /* First visit with a Portuguese default browser language: show the Portuguese version.
+     A choice made with the EN/PT switch is remembered and always wins. */
+  (function () {
+    try {
+      if (localStorage.getItem('lang_pref')) return;
+      var l = (navigator.languages && navigator.languages[0]) || navigator.language || '';
+      if (!/^pt(-|_|$)/i.test(l)) return;
+      var a = document.querySelector('link[rel="alternate"][hreflang="pt"]');
+      if (a && a.href) location.replace(new URL(a.href).pathname + location.search + location.hash);
+    } catch (e) {}
+  })();
+  </script>
+  {%- endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&display=swap">
-  <link rel="stylesheet" href="/assets/css/site.css?v=6">
+  <link rel="stylesheet" href="/assets/css/site.css?v=7">
   {%- if is_home %}
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":"Ricardo Ruiz Freire","url":"{{ site.url }}","image":"{{ site.url }}/images/avatar.jpg","jobTitle":"{% if lang == 'pt' %}Gestor, designer, pesquisador e estrategista de negócios; Diretor Executivo do Global Innovation Gathering{% else %}Manager, designer, researcher and business strategist; Executive Director, Global Innovation Gathering{% endif %}","worksFor":{"@type":"Organization","name":"Global Innovation Gathering e.V."},"address":{"@type":"PostalAddress","addressLocality":"Maceió","addressCountry":"BR"},"knowsLanguage":["pt","en","es"],"sameAs":["https://www.linkedin.com/in/ricardoruizfreire/","https://readruiz.medium.com/","https://www.udemy.com/user/ricardo-ruiz-freire-2/"]}
@@ -106,6 +121,12 @@
   function place(e){var t=e.currentTarget;t.classList.remove('tip-left','tip-right');var r=t.getBoundingClientRect(),w=230,c=r.left+r.width/2;
   if(c-w/2<8)t.classList.add('tip-left');else if(c+w/2>window.innerWidth-8)t.classList.add('tip-right');}
   l.forEach(function(el){el.addEventListener('mouseenter',place);el.addEventListener('focus',place);});})();
+  </script>
+  <script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('.lang-switch');
+    if (a) { try { localStorage.setItem('lang_pref', a.getAttribute('hreflang')); } catch (_) {} }
+  });
   </script>
 </body>
 </html>
