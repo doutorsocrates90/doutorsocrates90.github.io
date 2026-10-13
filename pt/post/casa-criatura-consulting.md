@@ -29,7 +29,7 @@ A Casa Criatura é um laboratório de criação e inovação no Sítio Históric
 - Ferramentas de gestão: sprints Scrum, Trello e Slack para tarefas, documentos compartilhados e um modelo simples de controle financeiro
 - Apontamentos de marketing e vendas, além de tabela de riscos e mitigação e indicadores para avaliar cada produto (itens fabricados, doados e vendidos; retorno do público; receita por linha)
 
-**Planejamento 2021 a 2022.** Um segundo ciclo que refinou o propósito, a missão e a visão em torno de arranjos produtivos locais e de uma cadeia criativa que responde a necessidades reais, e preparou documentos de projeto para parceiros e financiadores.
+**Planejamento 2021 a 2026.** Um segundo ciclo que refinou o propósito, a missão e a visão em torno de arranjos produtivos locais e de uma cadeia criativa que responde a necessidades reais, e preparou documentos de projeto para parceiros e financiadores.
 
 **Presença digital.** Escopo de uma loja on-line e de um repositório de produtos de código aberto, com visualizador 3D interativo, para que os projetos pudessem ser compartilhados, rastreados e vendidos.
 

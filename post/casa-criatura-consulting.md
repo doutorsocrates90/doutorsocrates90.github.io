@@ -29,7 +29,7 @@ Casa Criatura is a creation and innovation laboratory in Olinda's historic site:
 - Management tooling: Scrum sprints, Trello and Slack for tasks, shared documents, and a simple financial control model
 - Marketing and sales notes, plus a risk and mitigation table and indicators to evaluate each product (items made, donated and sold; audience feedback; revenue per line)
 
-**Planning 2021 to 2022.** A second cycle that refined the purpose, mission and vision around local productive arrangements and a creative chain that answers real needs, and prepared project documents for partners and funders.
+**Planning 2021 to 2026.** A second cycle that refined the purpose, mission and vision around local productive arrangements and a creative chain that answers real needs, and prepared project documents for partners and funders.
 
 **Digital presence.** Scoping of an online shop and an open-source repository of downloadable products with an interactive 3D viewer, so that designs could be shared, tracked and sold.
 
