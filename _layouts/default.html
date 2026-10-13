@@ -37,7 +37,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&display=swap">
-  <link rel="stylesheet" href="/assets/css/site.css?v=4">
+  <link rel="stylesheet" href="/assets/css/site.css?v=5">
   {%- if is_home %}
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":"Ricardo Ruiz Freire","url":"{{ site.url }}","image":"{{ site.url }}/images/avatar.jpg","jobTitle":"{% if lang == 'pt' %}Consultor em gestão da inovação e Diretor Executivo do Global Innovation Gathering{% else %}Innovation management consultant and Executive Director, Global Innovation Gathering{% endif %}","worksFor":{"@type":"Organization","name":"Global Innovation Gathering e.V."},"address":{"@type":"PostalAddress","addressLocality":"Maceió","addressCountry":"BR"},"knowsLanguage":["pt","en","es"],"sameAs":["https://www.linkedin.com/in/ricardoruizfreire/","https://readruiz.medium.com/","https://www.udemy.com/user/ricardo-ruiz-freire-2/"]}
@@ -99,5 +99,11 @@
       </p>
     </div>
   </footer>
+  <script>
+  (function(){var l=document.querySelectorAll('.logos li[data-name]');if(!l.length)return;
+  function place(e){var t=e.currentTarget;t.classList.remove('tip-left','tip-right');var r=t.getBoundingClientRect(),w=230,c=r.left+r.width/2;
+  if(c-w/2<8)t.classList.add('tip-left');else if(c+w/2>window.innerWidth-8)t.classList.add('tip-right');}
+  l.forEach(function(el){el.addEventListener('mouseenter',place);el.addEventListener('focus',place);});})();
+  </script>
 </body>
 </html>
