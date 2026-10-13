@@ -7,9 +7,9 @@ ref: home
 
 <section class="hero">
   <div>
-    <p class="kicker">Designer · Manager · Researcher · Cultural strategist</p>
+    <p class="kicker">Manager · Designer · Researcher · Business strategist</p>
     <h1>Technology, innovation management and <em>inclusion</em>, designed with communities.</h1>
-    <p class="lede">I am a Brazilian designer, manager, researcher and cultural strategist. For over 25 years, across government, development cooperation and academia, I have designed digital ecosystems that empower communities and uphold dignity.</p>
+    <p class="lede">Manager, designer, researcher and business strategist. For over 25 years, across government, development cooperation and academia, I have designed digital ecosystems that empower communities and uphold dignity.</p>
     <p>
       <a class="btn" href="/contact.html" data-cta="hero-contact">Work with me</a>
       <a class="btn ghost" href="/consulting.html">See consulting</a>
