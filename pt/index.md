@@ -9,7 +9,7 @@ ref: home
   <div>
     <p class="kicker">Gestor · Designer · Pesquisador · Estrategista de negócios</p>
     <h1>Tecnologia, gestão da inovação e <em>inclusão</em>, desenhadas com as comunidades.</h1>
-    <p class="lede">Gestor, designer, pesquisador e estrategista de negócios. Há mais de 25 anos, entre governo, cooperação para o desenvolvimento e academia, desenho ecossistemas digitais que fortalecem comunidades e preservam a dignidade.</p>
+    <p class="lede">Gestor, designer, pesquisador e estrategista de negócios. Há mais de 25 anos, entre governo, cooperação internacional, empresas e academia, desenho ecossistemas digitais que fortalecem comunidades e preservam a dignidade.</p>
     <p>
       <a class="btn" href="/pt/contato.html" data-cta="hero-contact">Fale comigo</a>
       <a class="btn ghost" href="/pt/consultoria.html">Ver consultoria</a>
