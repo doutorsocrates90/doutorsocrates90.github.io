@@ -8,7 +8,7 @@ en:
   switch_aria: Ler em português
   switch_short: PT
   blog: Blog
-  footer_role: Researcher · Lecturer · Consultant · Innovator
+  footer_role: Manager · Designer · Researcher · Business strategist
   footer_contact: Contact
   nav:
     - { ref: consulting, label: Consulting, href: /consulting.html }
@@ -29,7 +29,7 @@ pt:
   switch_aria: Read in English
   switch_short: EN
   blog: Blog
-  footer_role: Pesquisador · Palestrante · Consultor · Inovador
+  footer_role: Gestor · Designer · Pesquisador · Estrategista de negócios
   footer_contact: Contato
   nav:
     - { ref: consulting, label: Consultoria, href: /pt/consultoria.html }
