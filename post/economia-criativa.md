@@ -4,6 +4,7 @@ date: "2020-05-24"
 categories: 
   - "teaching"
 coverImage: "ufob.jpg"
+ref: economia-criativa
 ---
 
 Visiting Professor at Federal University of Bahia West - UFOB

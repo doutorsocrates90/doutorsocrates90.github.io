@@ -7,6 +7,7 @@ categories:
   - "texts"
 coverImage: "book-how-to-measure-innovation.jpg"
 description: "How to Measure Innovation? by Ricardo Ruiz Freire: an English-language book on social and technological innovation and a diagnostic tool based on the Innovation Radar."
+ref: how-to-measure-innovation-book
 ---
 
 <img class="cover" src="/images/book-how-to-measure-innovation.jpg" alt="Cover of How to Measure Innovation?">

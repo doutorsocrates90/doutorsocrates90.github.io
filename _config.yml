@@ -1,8 +1,9 @@
 title: this is my art
 tagline: Researcher · Lecturer · Consultant · Innovator
-description: Portfolio of Ricardo Ruiz Freire, a Brazilian designer, manager, researcher and cultural strategist working at the intersection of technology, human rights and sociopolitical inclusion.
+description: "Ricardo Ruiz Freire: consulting in innovation management, open-source systems and funding for cultural and civil-society organisations. Brazil and worldwide."
 url: https://thisismy.art.br
 lang: en
+email: doutorsocrates@icloud.com
 
 markdown: kramdown
 
@@ -11,6 +12,22 @@ defaults:
       path: ""
     values:
       layout: default
+      lang: en
+  - scope:
+      path: "pt"
+    values:
+      layout: default
+      lang: pt
+
+# Show the three drafted consulting offers on the Consulting pages
+# (set to true after the offers have been validated).
+show_offers: false
+
+# Privacy-friendly analytics. Leave id empty to disable.
+# provider: goatcounter (id = your code, e.g. "ricardo") | plausible (id = domain) | ga4 (id = G-XXXXXXX)
+analytics:
+  provider: ""
+  id: ""
 
 exclude:
   - LICENSE

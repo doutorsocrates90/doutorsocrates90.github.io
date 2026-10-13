@@ -4,6 +4,7 @@ date: "2020-05-22"
 categories: 
   - "projects"
 coverImage: "amnesia-feature.jpg"
+ref: radio-amnesia
 ---
 
 Coordinator of the free radios and free web service initiative for indigenous and traditional communities from Brazil's northeast.
@@ -12,11 +13,11 @@ Coordinator of the free radios and free web service initiative for indigenous an
 
 Amnesia was a collaborative network of free FM radios, web sites and itinerant radio experiences that believe in access to information production and dissemination as a tool to conquer the basic rights of life in society, especially for indigenous communities and traditional peoples.
 
-<img src="images/amnesia1.jpg" alt="" />
+<img src="images/amnesia1.jpg" alt="Radio Amnésia – 1" />
     
-<img src="images/amnesia2.jpg" alt="" />
+<img src="images/amnesia2.jpg" alt="Radio Amnésia – 2" />
     
-<img src="images/amnesia3.jpg" alt="" />
+<img src="images/amnesia3.jpg" alt="Radio Amnésia – 3" />
     
-<img src="images/amnesia4.jpg" alt="" />
+<img src="images/amnesia4.jpg" alt="Radio Amnésia – 4" />
     

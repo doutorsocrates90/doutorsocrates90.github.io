@@ -4,6 +4,7 @@ date: "2020-05-22"
 categories: 
   - "projects"
 coverImage: "utc3.jpg"
+ref: urban-thinkers-campus-recife
 ---
 
 Executive Director for the UN Urban Thinkers Campus Brazil, in Recife (2015). The Urban Thinkers Campus is an initiative of the UN-Habitat global urban campaign, conceived as a critical and open space for exchange between people who believe that urbanisation is an opportunity for positive transformation, as well as for sustainable development.
@@ -12,13 +13,13 @@ Executive Director for the UN Urban Thinkers Campus Brazil, in Recife (2015). Th
 
 Still, it is a forum designed to simulate solutions for the urban future and build consensus among the partners involved with the challenges of urbanisation.
 
-<img src="images/utc4.jpg" alt="" />
+<img src="images/utc4.jpg" alt="Urban Thinkers Campus Recife – 1" />
     
-<img src="images/utc-2.jpg" alt="" />
+<img src="images/utc-2.jpg" alt="Urban Thinkers Campus Recife – 2" />
     
-<img src="images/utc1.jpg" alt="" />
+<img src="images/utc1.jpg" alt="Urban Thinkers Campus Recife – 3" />
     
-<img src="images/utc5-menor.jpg" alt="" />
+<img src="images/utc5-menor.jpg" alt="Urban Thinkers Campus Recife – 4" />
 
 For four days, civil society, academia and representatives of the public and private sectors from around the world shared inspiring solutions for social inclusion and the creation of an urban narrative linked to open technologies with a focus on cities as inclusive territories. What is the role of cities as networks of learning spaces, especially for young people?
 

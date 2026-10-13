@@ -3,6 +3,7 @@ title: Projects
 kicker: "Programmes, platforms and public initiatives"
 lede: "Digital culture, open hardware, citizen science and community innovation, from Brazil to Berlin."
 cards: true
+ref: projects
 ---
 
 <div class="grid">

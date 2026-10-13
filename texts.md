@@ -3,6 +3,7 @@ title: Texts
 kicker: "Books, reports and papers"
 lede: "Research reports for the European Commission and BMZ, academic papers, and books on innovation, making and digital cultures."
 entries: true
+ref: texts
 ---
 
 ## How to Measure Innovation? (book)

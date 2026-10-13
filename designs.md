@@ -3,6 +3,7 @@ title: Designs
 kicker: "Identities, websites and platforms"
 lede: "Visual identity, web platforms and digital products designed with organisations, artists and communities."
 cards: true
+ref: designs
 ---
 
 <div class="grid">

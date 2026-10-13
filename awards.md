@@ -2,6 +2,7 @@
 title: Awards
 kicker: "Recognition"
 lede: "Prizes and honours for open-source, cultural and academic work."
+ref: awards
 ---
 
 **Mozilla Opens Source Support Award Porgram**  

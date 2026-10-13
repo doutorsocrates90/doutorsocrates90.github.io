@@ -1,11 +1,16 @@
 ---
 title: Consulting
 kicker: "Advisory, review and implementation"
-lede: "Management, innovation and open-technology consulting for cultural organisations, civil society, funders and public programmes."
+lede: "Innovation management, open-source systems and funding strategy for cultural organisations, civil society, funders and public programmes."
 cards: true
+ref: consulting
 ---
 
-## Current and recent
+{% if site.show_offers %}{% include offers-en.html %}{% endif %}
+
+{% include process-en.html %}
+
+## Selected work
 
 <div class="grid">
 {% include post-card.html slug="labhacker-odoo-implementation" tag="Open-source systems" text="Odoo implementation in Portuguese, custom modules, manual and fundraising consulting." meta="Oct 2026 – Jan 2027 · Maceió" %}
@@ -28,4 +33,7 @@ cards: true
 <li><strong>3Ecologias</strong>, Co-founder and CEO: IT consultancy for environment, education and culture (2007–2018).</li>
 </ul>
 
-<p><a class="btn" href="https://www.linkedin.com/in/ricardoruizfreire/" target="_blank" rel="noopener">Work with me ↗</a></p>
+<div class="cta-band">
+  <p>Tell me about your organisation and the challenge. I will reply with next steps.</p>
+  <a class="btn" href="/contact.html" data-cta="consulting-band">Work with me</a>
+</div>

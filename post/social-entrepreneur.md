@@ -4,6 +4,7 @@ date: "2020-05-24"
 categories: 
   - "teaching"
 coverImage: "facal-campus.jpg"
+ref: social-entrepreneur
 ---
 
 FACAL - Limoeiro Management Sciences College

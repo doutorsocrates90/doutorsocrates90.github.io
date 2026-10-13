@@ -4,19 +4,20 @@ date: "2004-05-25"
 categories: 
   - "projects"
 coverImage: "ip-featured.jpg"
+ref: ip-public-interface
 ---
 
 Director and co-founder of IP:// - Interface Pública, the first brazilian HackersPace / MakersPace in Lapa, Rio de Janeiro
 
-<img src="images/ip-featured.jpg" alt="" />
+<img src="images/ip-featured.jpg" alt="IP:// - Public Interface – 1" />
 
-<img src="images/ip4.jpg" alt="" />
+<img src="images/ip4.jpg" alt="IP:// - Public Interface – 2" />
     
-<img src="images/ip3.jpg" alt="" />
+<img src="images/ip3.jpg" alt="IP:// - Public Interface – 3" />
     
-<img src="images/ip2.jpg" alt="" />
+<img src="images/ip2.jpg" alt="IP:// - Public Interface – 4" />
     
-<img src="images/ip1.jpg" alt="" />
+<img src="images/ip1.jpg" alt="IP:// - Public Interface – 5" />
     
 
 Meta-collective, a temporary autonomous zone that strengthened non-hierarchical processes and zones of coexistence and collaboration between different collectives, movements and people. Started in 2004 in Lapa, Rio de Janeiro, but moved over time to Morro da Mangueira, Morro do Turano and Morro da Conceição

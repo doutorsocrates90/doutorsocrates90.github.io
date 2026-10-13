@@ -4,6 +4,7 @@ date: "2020-05-23"
 categories: 
   - "projects"
 coverImage: "23972881697_6183a29914_k.jpg"
+ref: digitologias
 ---
 
 A series of conferences to debate, collect and manage water and sanitation data on the city of Belo Jardim
@@ -13,12 +14,12 @@ A series of conferences to debate, collect and manage water and sanitation data 
 
 The purpose of the conferences is to plan, together with agents from different spheres, actions that engage participants in the preparation of proposals that contribute to the territory of Belo Jardim following the United Nations - UN Sustainable Development Goals.
 
-<img src="images/digito01.jpg" alt="" />
+<img src="images/digito01.jpg" alt="Digitologias – 1" />
     
-<img src="images/digito02.jpg" alt="" />
+<img src="images/digito02.jpg" alt="Digitologias – 2" />
     
-<img src="images/digito03.jpg" alt="" />
+<img src="images/digito03.jpg" alt="Digitologias – 3" />
     
-<img src="images/digito04.jpg" alt="" />
+<img src="images/digito04.jpg" alt="Digitologias – 4" />
 
 Visit project's [website](https://medium.com/@digitologias), [flickr](https://www.flickr.com/photos/140819741@N06) and [youtube](https://www.youtube.com/channel/UCF6a-D0vzUUT9r6U9vKLjkw)

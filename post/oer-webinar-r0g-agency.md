@@ -7,6 +7,7 @@ categories:
   - "teaching"
 coverImage: "cover-oer.svg"
 description: "Course on Open Educational Resources prepared for r0g agency, Berlin: concepts, tools, project planning, copyright and open licensing."
+ref: oer-webinar-r0g-agency
 ---
 
 <dl class="facts">

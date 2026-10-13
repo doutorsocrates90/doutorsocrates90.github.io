@@ -4,6 +4,7 @@ date: "2020-05-24"
 categories: 
   - "teaching"
 coverImage: "partner.jpeg"
+ref: information-design-and-data-visualization
 ---
 
 Associate Professor - Pernambuco Catholic University

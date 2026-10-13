@@ -7,6 +7,7 @@ categories:
   - "consulting"
 coverImage: "cover-casa-criatura.svg"
 description: "Management and innovation consulting for Casa Criatura, a maker laboratory in Olinda, Brazil: strategic plan, product axes, financial and process management, sales and risk frameworks."
+ref: casa-criatura-consulting
 ---
 
 <dl class="facts">

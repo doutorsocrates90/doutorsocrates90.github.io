@@ -2,6 +2,7 @@
 title: Curations
 kicker: "Exhibitions and festivals"
 lede: "Art, technology and territory: exhibitions curated in Brazil, France and beyond."
+ref: curation
 ---
 
 ## Terra-Mar: Un continuum des mangroves aux abysses 

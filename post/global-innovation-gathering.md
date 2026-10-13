@@ -1,6 +1,7 @@
 ---
 title: "Global Innovation Gathering - GIG"
 coverImage: "gig-hub.jpg"
+ref: global-innovation-gathering
 ---
 
 Global Innovation Gathering (GIG) is a worldwide network of innovation hubs, makerspaces, hackerspaces, and grassroots tech communities. It champions open, inclusive, and sustainable innovation—especially from the Global South—by fostering collaboration, knowledge exchange, and community-driven solutions. GIG supports projects in areas like open health, citizen social science, and digital rights, and regularly convenes global events to spark dialogue and creativity.

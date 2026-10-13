@@ -7,6 +7,7 @@ categories:
   - "consulting"
 coverImage: "cover-snakebite.svg"
 description: "Technical assessor for the Wellcome Snakebite Innovation Prize: independent review of Launch and Growth track entries against impact, innovation, implementation, end-user understanding and team capability."
+ref: snakebite-prize-assessor
 ---
 
 <dl class="facts">

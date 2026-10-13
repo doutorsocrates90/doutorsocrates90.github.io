@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- for p in site.pages -%}
+  {%- if p.name contains ".md" or p.name contains ".html" -%}
+  {%- unless p.url == "/404.html" or p.url contains "/assets/" or p.name == "README.md" or p.sitemap == false -%}
+  {%- assign loc = p.url | replace: "index.html", "" -%}
+  {%- assign other = "pt" -%}{%- if p.lang == "pt" -%}{%- assign other = "en" -%}{%- endif -%}
+  {%- assign alt = nil -%}
+  {%- if p.ref -%}{%- assign alt = site.pages | where: "ref", p.ref | where: "lang", other | first -%}{%- endif %}
+  <url>
+    <loc>{{ loc | absolute_url }}</loc>
+    {%- if alt %}
+    <xhtml:link rel="alternate" hreflang="{{ other }}" href="{{ alt.url | replace: 'index.html', '' | absolute_url }}"/>
+    {%- endif %}
+  </url>
+  {%- endunless -%}
+  {%- endif -%}
+{%- endfor %}
+</urlset>

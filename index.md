@@ -2,6 +2,7 @@
 title: Ricardo Ruiz Freire
 layout_kind: home
 body_class: home
+ref: home
 ---
 
 <section class="hero">
@@ -10,8 +11,8 @@ body_class: home
     <h1>Technology, innovation management and <em>inclusion</em>, designed with communities.</h1>
     <p class="lede">I am a Brazilian designer, manager, researcher and cultural strategist. For over 25 years, across government, development cooperation and academia, I have designed digital ecosystems that empower communities and uphold dignity.</p>
     <p>
-      <a class="btn" href="/consulting.html">Consulting</a>
-      <a class="btn ghost" href="/projects.html">Projects</a>
+      <a class="btn" href="/contact.html" data-cta="hero-contact">Work with me</a>
+      <a class="btn ghost" href="/consulting.html">See consulting</a>
       <a class="btn ghost" href="https://www.linkedin.com/in/ricardoruizfreire/" target="_blank" rel="noopener">LinkedIn ↗</a>
     </p>
   </div>
@@ -25,6 +26,8 @@ body_class: home
     </ul>
   </aside>
 </section>
+
+{% include proof-en.html %}
 
 <section class="section">
   <div class="section-head"><h2>New work</h2><a href="/consulting.html">All consulting →</a></div>
@@ -57,7 +60,10 @@ body_class: home
     <li><strong>Open education</strong> and capacity building for teams and networks</li>
     <li><strong>Responsible, culturally aware AI</strong>, co-designed with the communities it affects</li>
   </ul>
-  <p><a class="btn" href="https://www.linkedin.com/in/ricardoruizfreire/" target="_blank" rel="noopener">Let's talk ↗</a> <a class="btn ghost" href="/consulting.html">See recent consulting</a></p>
+  <div class="cta-band">
+    <p>Have a challenge in mind? Tell me about your organisation.</p>
+    <a class="btn" href="/contact.html" data-cta="home-band">Work with me</a>
+  </div>
 </section>
 
 <section class="section">

@@ -2,7 +2,7 @@
   Card for an item. Params: href, title, text, img (file in /images, optional), fit (contain), pos (object-position), bg (card background), tag (optional), meta (optional), external (true to open in new tab)
 {%- endcomment -%}
 <a class="card" href="{{ include.href }}"{% if include.external %} target="_blank" rel="noopener"{% endif %}>
-  <span class="card-media{% unless include.img %} no-img{% endunless %}{% if include.fit == 'contain' %} contain{% endif %}"{% if include.bg %} style="background:{{ include.bg }}"{% endif %}>{% if include.img %}<img src="/images/{{ include.img }}" alt="" loading="lazy"{% if include.pos %} style="object-position:{{ include.pos }}"{% endif %} onerror="this.parentNode.classList.add('no-img');this.remove()">{% endif %}</span>
+  <span class="card-media{% unless include.img %} no-img{% endunless %}{% if include.fit == 'contain' %} contain{% endif %}"{% if include.bg %} style="background:{{ include.bg }}"{% endif %}>{% if include.img %}<img src="/images/{% unless include.img contains '.svg' %}t/{% endunless %}{{ include.img }}" alt="" loading="lazy" decoding="async"{% if include.pos %} style="object-position:{{ include.pos }}"{% endif %} onerror="if(!this.dataset.f){this.dataset.f=1;this.src='/images/{{ include.img }}'}else{this.parentNode.classList.add('no-img');this.remove()}">{% endif %}</span>
   <span class="card-body">
     {% if include.tag %}<span class="tag">{{ include.tag }}</span>{% endif %}
     <span class="card-title">{{ include.title }}</span>

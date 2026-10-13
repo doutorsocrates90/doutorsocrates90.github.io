@@ -4,6 +4,7 @@ date: "2020-05-24"
 categories: 
   - "teaching"
 coverImage: "upe.jpeg"
+ref: pernambuco-university-upe
 ---
 
 Visiting Professor - Pernambuco University - UPE

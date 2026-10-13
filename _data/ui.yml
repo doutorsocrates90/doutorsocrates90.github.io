@@ -1,0 +1,42 @@
+en:
+  skip: Skip to content
+  menu: Menu
+  cta: Work with me
+  cta_href: /contact.html
+  home_href: /
+  switch_label: Português
+  switch_aria: Ler em português
+  switch_short: PT
+  blog: Blog
+  footer_role: Researcher · Lecturer · Consultant · Innovator
+  footer_contact: Contact
+  nav:
+    - { ref: consulting, label: Consulting, href: /consulting.html }
+    - { ref: projects, label: Projects, href: /projects.html }
+    - { ref: teachings, label: Teaching, href: /teachings.html }
+    - { ref: texts, label: Texts, href: /texts.html }
+    - { ref: lectures, label: Lectures, href: /lectures.html }
+    - { ref: curation, label: Curations, href: /curation.html }
+    - { ref: designs, label: Designs, href: /designs.html }
+    - { ref: awards, label: Awards, href: /awards.html }
+pt:
+  skip: Ir para o conteúdo
+  menu: Menu
+  cta: Fale comigo
+  cta_href: /pt/contato.html
+  home_href: /pt/
+  switch_label: English
+  switch_aria: Read in English
+  switch_short: EN
+  blog: Blog
+  footer_role: Pesquisador · Palestrante · Consultor · Inovador
+  footer_contact: Contato
+  nav:
+    - { ref: consulting, label: Consultoria, href: /pt/consultoria.html }
+    - { ref: projects, label: Projetos, href: /pt/projetos.html }
+    - { ref: teachings, label: Ensino, href: /pt/ensino.html }
+    - { ref: texts, label: Textos, href: /pt/textos.html }
+    - { ref: lectures, label: Palestras, href: /pt/palestras.html }
+    - { ref: curation, label: Curadorias, href: /pt/curadorias.html }
+    - { ref: designs, label: Designs, href: /pt/designs.html }
+    - { ref: awards, label: Prêmios, href: /pt/premios.html }

@@ -4,6 +4,7 @@ date: "2020-05-24"
 categories: 
   - "projects"
 coverImage: "careables-feature.jpg"
+ref: careables-latin-america
 ---
 
 Local consultancy for the an international collaboration platform that allows citizens to design and deliver people-centered health products.
@@ -12,15 +13,15 @@ Local consultancy for the an international collaboration platform that allows ci
     
 Careables is a community of manufacturers and users of open source collaborative hardware innovations that can be easily replicated globally via 3D printing and other forms of digital and manual manufacturing.
 
-<img src="images/careables01.jpg" alt="" />
+<img src="images/careables01.jpg" alt="Careables Latin America – 1" />
     
-<img src="images/careables02.jpg" alt="" />
+<img src="images/careables02.jpg" alt="Careables Latin America – 2" />
 
 The purpose of this platform is to engage, unite and connect communities interested in the field of open source healthcare solutions. Engagement focuses on local levels and existing global activities.
 
-<img src="images/careables03.jpg" alt="" />
+<img src="images/careables03.jpg" alt="Careables Latin America – 3" />
     
-<img src="images/careables04.jpg" alt="" />
+<img src="images/careables04.jpg" alt="Careables Latin America – 4" />
 
 Different products have been built for the [Covid-19 pandemic](https://medium.com/@readruiz/the-first-month-of-a-maker-lab-against-covid-19-in-northeastern-brazil-121d161be705).
 

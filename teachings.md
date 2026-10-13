@@ -3,6 +3,7 @@ title: Teaching
 kicker: "Courses, classes and workshops"
 lede: "Open education, innovation measurement, information design and creative economy, for universities, agencies and online learners."
 cards: true
+ref: teachings
 ---
 
 <div class="grid">

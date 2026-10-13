@@ -3,7 +3,8 @@ title: "How to measure innovation? (online)"
 date: "2021-07-10"
 categories: 
   - "teaching"
-coverImage: "Como-medir-a-INOVACAO1.png"
+coverImage: "Como-medir-a-INOVACAO1.jpg"
+ref: como-medir-a-inovacao-online
 ---
 
 Measuring creative economy organizations´ innovation degree

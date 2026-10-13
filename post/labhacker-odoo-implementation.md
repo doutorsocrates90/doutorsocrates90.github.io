@@ -7,6 +7,7 @@ categories:
   - "consulting"
 coverImage: "cover-labhacker.svg"
 description: "Odoo implementation consulting for LabHacker, the Brazilian Laboratory of Digital Culture in Maceió: open-source ERP, custom modules for minutes, approvals, expenses, contracts and fundraising."
+ref: labhacker-odoo-implementation
 ---
 
 <dl class="facts">
