@@ -1,7 +1,7 @@
 ---
 title: Consulting
 kicker: "Advisory, review and implementation"
-lede: "Innovation management, open-source systems and funding strategy for cultural organisations, civil society, funders and public programmes."
+lede: "Innovation management, your own open-source ERP and funding strategy for creative-economy organisations, civil society, funders and public programmes."
 cards: true
 ref: consulting
 ---
@@ -13,7 +13,7 @@ ref: consulting
 ## Selected work
 
 <div class="grid">
-{% include post-card.html slug="labhacker-odoo-implementation" tag="Open-source systems" text="Odoo implementation in Portuguese, custom modules, manual and fundraising consulting." meta="Oct 2026 – Jan 2027 · Maceió" %}
+{% include post-card.html slug="labhacker-odoo-implementation" tag="Own ERP" text="An open-source ERP in Portuguese, custom modules, manual and fundraising consulting." meta="Oct 2026 – Jan 2027 · Maceió" %}
 {% include post-card.html slug="global-innovation-gathering" tag="Leadership" text="International Executive Director of a global network of grassroots innovation hubs and makerspaces." meta="2017 – present · Berlin" %}
 {% include post-card.html slug="casa-criatura-consulting" tag="Strategy" text="Strategic plan, product axes and management tools for a maker laboratory." meta="2020 – 2022 · Olinda" %}
 </div>

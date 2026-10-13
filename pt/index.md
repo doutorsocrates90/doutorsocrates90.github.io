@@ -32,7 +32,7 @@ ref: home
 <section class="section">
   <div class="section-head"><h2>Trabalhos recentes</h2><a href="/pt/consultoria.html">Toda a consultoria →</a></div>
   <div class="grid">
-    {% include post-card.html slug="labhacker-odoo-implementation" tag="Consultoria" text="Sistema de gestão de código aberto com Odoo para um laboratório de cultura digital em Maceió." %}
+    {% include post-card.html slug="labhacker-odoo-implementation" tag="Consultoria" text="Um ERP próprio, de código aberto, para um laboratório de cultura digital em Maceió." %}
     {% include post-card.html slug="snakebite-prize-assessor" tag="Avaliação" text="Avaliador técnico do Wellcome Snakebite Innovation Prize." %}
     {% include post-card.html slug="casa-criatura-consulting" tag="Consultoria" text="Estratégia, produtos e ferramentas de gestão para um laboratório maker em Olinda." %}
     {% include post-card.html slug="how-to-measure-innovation-book" tag="Livro" text="How to Measure Innovation? Um diagnóstico da inovação social e tecnológica." %}
@@ -53,9 +53,9 @@ ref: home
   <p>Trago 25 anos de entrega em contextos públicos, sem fins lucrativos e acadêmicos: um programa federal de cultura digital que apoiou mais de mil centros culturais no Brasil, um laboratório nacional de inovação com 43 pesquisadores e 30 projetos de ação comunitária, trabalho de ciência cidadã financiado pela UE que alcançou 1,6 milhão de pessoas e programas de hardware aberto reconhecidos com um prêmio da Mozilla.</p>
   <h3>Onde posso ajudar</h3>
   <ul>
-    <li><strong>Estratégia e gestão</strong> para organizações culturais e da sociedade civil</li>
+    <li><strong>Estratégia e gestão</strong> para organizações da economia criativa e da sociedade civil</li>
     <li><strong>Mensuração da inovação</strong> e marcos de impacto que financiadores entendem</li>
-    <li><strong>Sistemas de código aberto</strong> e plataformas digitais, do Odoo a portais web</li>
+    <li><strong>Seu próprio ERP</strong> e plataformas digitais, em software livre e no seu servidor</li>
     <li><strong>Captação de recursos e redação de propostas</strong>, inclusive para programas da UE e internacionais</li>
     <li><strong>Educação aberta</strong> e capacitação para equipes e redes</li>
     <li><strong>IA responsável e culturalmente consciente</strong>, desenhada com as comunidades afetadas</li>

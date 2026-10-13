@@ -32,7 +32,7 @@ ref: home
 <section class="section">
   <div class="section-head"><h2>New work</h2><a href="/consulting.html">All consulting →</a></div>
   <div class="grid">
-    {% include post-card.html slug="labhacker-odoo-implementation" tag="Consulting" text="Open-source management system with Odoo for a digital-culture laboratory in Maceió." %}
+    {% include post-card.html slug="labhacker-odoo-implementation" tag="Consulting" text="An own, open-source ERP for a digital-culture laboratory in Maceió." %}
     {% include post-card.html slug="snakebite-prize-assessor" tag="Review" text="Technical assessor for the Wellcome Snakebite Innovation Prize." %}
     {% include post-card.html slug="casa-criatura-consulting" tag="Consulting" text="Strategy, products and management tools for a maker laboratory in Olinda." %}
     {% include post-card.html slug="how-to-measure-innovation-book" tag="Book" text="How to Measure Innovation? A diagnostic for social and technological innovation." %}
@@ -53,9 +53,9 @@ ref: home
   <p>I bring 25 years of delivery across public, non-profit and academic settings: a federal digital-culture programme that supported more than 1,000 cultural centres in Brazil, a national innovation lab with 43 researchers and 30 community action projects, EU-funded citizen-science work that reached 1.6 million people, and open-hardware programmes recognised with a Mozilla award.</p>
   <h3>Where I can help</h3>
   <ul>
-    <li><strong>Strategy and management</strong> for cultural and civil-society organisations</li>
+    <li><strong>Strategy and management</strong> for creative-economy and civil-society organisations</li>
     <li><strong>Innovation measurement</strong> and impact frameworks that funders understand</li>
-    <li><strong>Open-source systems</strong> and digital platforms, from Odoo to web portals</li>
+    <li><strong>Your own ERP</strong> and digital platforms, on open-source software and your own server</li>
     <li><strong>Fundraising and proposal writing</strong>, including EU and international programmes</li>
     <li><strong>Open education</strong> and capacity building for teams and networks</li>
     <li><strong>Responsible, culturally aware AI</strong>, co-designed with the communities it affects</li>

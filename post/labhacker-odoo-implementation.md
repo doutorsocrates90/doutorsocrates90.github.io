@@ -1,7 +1,7 @@
 ---
-title: "LabHacker Maceió: free-software management system with Odoo"
+title: "LabHacker Maceió: an own, open-source ERP"
 kicker: "Consulting · October 2026 – January 2027"
-lede: "Implementation of a Portuguese-language, open-source management system for a Brazilian digital-culture laboratory, plus fundraising consulting."
+lede: "Implementation of an own, Portuguese-language, open-source ERP for a Brazilian digital-culture laboratory, plus fundraising consulting."
 date: "2026-10-01"
 categories:
   - "consulting"
@@ -12,14 +12,14 @@ ref: labhacker-odoo-implementation
 
 <dl class="facts">
   <div><span class="k">Client</span><span class="v">LabHacker, Maceió (AL)</span></div>
-  <div><span class="k">Service</span><span class="v">Odoo implementation + fundraising consulting</span></div>
+  <div><span class="k">Service</span><span class="v">Own ERP implementation + fundraising consulting</span></div>
   <div><span class="k">Period</span><span class="v">Oct 2026 – Jan 2027</span></div>
   <div><span class="k">Stack</span><span class="v">Odoo 19 Community · OCA · PostgreSQL · Docker</span></div>
 </dl>
 
 LabHacker is the Brazilian Laboratory of Digital Culture, a civil-society organisation working in digital culture. Its team runs projects, events, courses and a shop, and needed one place for minutes, approvals, reimbursements, contracts and fundraising, without paying per-user licences or depending on a proprietary vendor.
 
-My proposal was a **free-software management system in Portuguese**, built on Odoo Community and the Odoo Community Association (OCA) modules, with custom development only where nothing existed.
+My proposal was an **ERP of the organisation's own, in Portuguese, on free software and its own server**, built on Odoo Community and the Odoo Community Association (OCA) modules, with custom development only where nothing existed.
 
 ## What the engagement covers
 

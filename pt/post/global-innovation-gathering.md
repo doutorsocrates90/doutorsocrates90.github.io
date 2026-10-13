@@ -10,4 +10,6 @@ O Global Innovation Gathering (GIG) é uma rede mundial de hubs de inovação, m
 
 Exerço a liderança como Diretor Executivo Internacional da organização, com sede em Berlim: oriento a direção estratégica da rede, amplifico a inovação de base e conecto agentes de mudança de diferentes áreas e geografias, com forte foco em inclusão sociopolítica e colaboração em código aberto na missão do GIG.
 
+Também projetei e construí o ERP próprio e de código aberto do GIG, sistema usado na sua gestão interna.
+
 Saiba mais [sobre o GIG.](https://globalinnovationgathering.org)

@@ -1,7 +1,7 @@
 ---
-title: "LabHacker Maceió: sistema de gestão livre com Odoo"
+title: "LabHacker Maceió: um ERP próprio e de código aberto"
 kicker: "Consultoria · outubro de 2026 – janeiro de 2027"
-lede: "Implantação de um sistema de gestão de código aberto, em português, para um laboratório brasileiro de cultura digital, com consultoria em captação de recursos."
+lede: "Implantação de um ERP próprio, de código aberto e em português, para um laboratório brasileiro de cultura digital, com consultoria em captação de recursos."
 date: "2026-10-01"
 categories:
   - "consulting"
@@ -12,14 +12,14 @@ ref: labhacker-odoo-implementation
 
 <dl class="facts">
   <div><span class="k">Cliente</span><span class="v">LabHacker, Maceió (AL)</span></div>
-  <div><span class="k">Serviço</span><span class="v">Implantação Odoo + consultoria em captação</span></div>
+  <div><span class="k">Serviço</span><span class="v">Implantação de ERP próprio + consultoria em captação</span></div>
   <div><span class="k">Período</span><span class="v">Out 2026 – Jan 2027</span></div>
   <div><span class="k">Tecnologia</span><span class="v">Odoo 19 Community · OCA · PostgreSQL · Docker</span></div>
 </dl>
 
 O LabHacker é o Laboratório Brasileiro de Cultura Digital, organização da sociedade civil que atua em cultura digital. A equipe toca projetos, eventos, cursos e uma loja, e precisava de um lugar único para atas, aprovações, reembolsos, contratos e captação de recursos, sem pagar licenças por usuário nem depender de um fornecedor proprietário.
 
-Minha proposta foi um **sistema de gestão livre, em português**, construído sobre o Odoo Community e os módulos da Odoo Community Association (OCA), com desenvolvimento sob medida apenas onde não havia solução pronta.
+Minha proposta foi um **ERP próprio da organização, em português, em software livre e no seu próprio servidor**, construído sobre o Odoo Community e os módulos da Odoo Community Association (OCA), com desenvolvimento sob medida apenas onde não havia solução pronta.
 
 ## O que a consultoria cobre
 

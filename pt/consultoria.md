@@ -1,7 +1,7 @@
 ---
 title: Consultoria
 kicker: "Assessoria, avaliação e implantação"
-lede: "Gestão da inovação, sistemas de código aberto e estratégia de captação para organizações culturais, da sociedade civil, financiadores e programas públicos."
+lede: "Gestão da inovação, ERP próprio de código aberto e estratégia de captação para organizações da economia criativa, da sociedade civil, financiadores e programas públicos."
 cards: true
 ref: consulting
 ---
@@ -13,7 +13,7 @@ ref: consulting
 ## Trabalhos selecionados
 
 <div class="grid">
-{% include post-card.html slug="labhacker-odoo-implementation" tag="Sistemas de código aberto" text="Implantação do Odoo em português, módulos sob medida, manual e consultoria em captação." meta="Out 2026 – Jan 2027 · Maceió" %}
+{% include post-card.html slug="labhacker-odoo-implementation" tag="ERP próprio" text="ERP de código aberto em português, módulos sob medida, manual e consultoria em captação." meta="Out 2026 – Jan 2027 · Maceió" %}
 {% include post-card.html slug="global-innovation-gathering" tag="Liderança" text="Diretor Executivo Internacional de uma rede global de hubs de inovação de base e makerspaces." meta="2017 – hoje · Berlim" %}
 {% include post-card.html slug="casa-criatura-consulting" tag="Estratégia" text="Plano estratégico, eixos de produtos e ferramentas de gestão para um laboratório maker." meta="2020 – 2022 · Olinda" %}
 </div>

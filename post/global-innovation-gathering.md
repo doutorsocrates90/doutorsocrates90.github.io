@@ -10,4 +10,6 @@ Global Innovation Gathering (GIG) is a worldwide network of innovation hubs, mak
 
 Play a key leadership role as International Executive Director of the organization based in Berlin, guiding the network’s strategic direction, amplifying grassroots innovation, and connecting changemakers across disciplines and geographies, bringing a strong focus on sociopolitical inclusion and open-source collaboration to GIG’s mission
 
+I also designed and built GIG's own open-source ERP, the system used for its internal management.
+
 Learn more [about GIG.](https://globalinnovationgathering.org)

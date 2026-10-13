@@ -10,7 +10,7 @@
 {%- assign page_title = page.title | default: site.title -%}
 {%- assign desc = page.description | default: page.lede | default: site.description -%}
 {%- if lang == "pt" and page.description == nil and page.lede == nil -%}
-  {%- assign desc = "Ricardo Ruiz Freire: consultoria em gestão da inovação, sistemas de código aberto e captação de recursos para organizações culturais e da sociedade civil." -%}
+  {%- assign desc = "Ricardo Ruiz Freire: consultoria em gestão da inovação, ERP próprio de código aberto e captação de recursos para organizações da economia criativa e da sociedade civil." -%}
 {%- endif -%}
 {%- if page.coverImage -%}{%- assign og_img = "/images/" | append: page.coverImage -%}{%- else -%}{%- assign og_img = "/images/social-card.jpg" -%}{%- endif -%}
 {%- assign canon = page.url | replace: "index.html", "" -%}
@@ -37,7 +37,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&display=swap">
-  <link rel="stylesheet" href="/assets/css/site.css?v=3">
+  <link rel="stylesheet" href="/assets/css/site.css?v=4">
   {%- if is_home %}
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":"Ricardo Ruiz Freire","url":"{{ site.url }}","image":"{{ site.url }}/images/avatar.jpg","jobTitle":"{% if lang == 'pt' %}Consultor em gestão da inovação e Diretor Executivo do Global Innovation Gathering{% else %}Innovation management consultant and Executive Director, Global Innovation Gathering{% endif %}","worksFor":{"@type":"Organization","name":"Global Innovation Gathering e.V."},"address":{"@type":"PostalAddress","addressLocality":"Maceió","addressCountry":"BR"},"knowsLanguage":["pt","en","es"],"sameAs":["https://www.linkedin.com/in/ricardoruizfreire/","https://readruiz.medium.com/","https://www.udemy.com/user/ricardo-ruiz-freire-2/"]}
