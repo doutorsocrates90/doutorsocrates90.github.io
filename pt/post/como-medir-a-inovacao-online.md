@@ -13,4 +13,4 @@ O curso apresenta ferramentas e conceitos para identificar e gerenciar o grau de
 
 <a class="btn" href="https://www.udemy.com/course/como-medir-a-inovacao/?referralCode=545D5B6F7471C8422AEF" target="_blank" rel="noopener" data-cta="course-udemy">Curso na Udemy ↗</a>
 <a class="btn ghost" href="https://classroom.google.com/c/MTI5NDg4MTA0NzY4?cjc=mpumnau" target="_blank" rel="noopener" data-cta="course-classroom">Entrar no Google Classroom ↗</a>
-<a class="btn ghost" href="/pt/post/how-to-measure-innovation-book.html">O livro (em inglês)</a>
+<a class="btn ghost" href="/pt/post/como-medir-a-inovacao-livro.html">O livro</a>

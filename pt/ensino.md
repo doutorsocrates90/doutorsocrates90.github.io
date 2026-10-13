@@ -10,7 +10,6 @@ ref: teachings
 {% include post-card.html slug="oer-webinar-r0g-agency" tag="Webinar · 2026" text="Duas sessões ao vivo sobre como criar, licenciar e compartilhar recursos educacionais abertos." %}
 {% include post-card.html slug="como-medir-a-inovacao-online" tag="Curso on-line" text="Ferramentas para identificar e gerenciar o grau de inovação de organizações da economia criativa, na Udemy e no Google Classroom." %}
 {% include post-card.html slug="como-medir-a-inovacao-livro" tag="Livro" text="O livro em português que dá base ao curso: mensurando a inovação na economia criativa." fit="contain" bg="#efe7da" %}
-{% include post-card.html slug="how-to-measure-innovation-book" tag="Livro em inglês" text="A edição em inglês e a ferramenta de diagnóstico por trás do curso." fit="contain" bg="#efe7da" %}
 {% include post-card.html slug="information-design-and-data-visualization" tag="Universidade" %}
 {% include post-card.html slug="economia-criativa" tag="Universidade" %}
 {% include post-card.html slug="social-entrepreneur" tag="Universidade" %}

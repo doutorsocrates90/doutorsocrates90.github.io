@@ -36,7 +36,6 @@ ref: home
     {% include post-card.html slug="snakebite-prize-assessor" tag="Avaliação" text="Avaliador técnico do Wellcome Snakebite Innovation Prize." %}
     {% include post-card.html slug="casa-criatura-consulting" tag="Consultoria" text="Estratégia, produtos e ferramentas de gestão para um estúdio de arquitetura e design em Olinda." %}
     {% include post-card.html slug="como-medir-a-inovacao-livro" tag="Livro" text="Como medir a inovação? Mensurando a inovação em negócios e serviços da economia criativa." fit="contain" bg="#efe7da" %}
-    {% include post-card.html slug="how-to-measure-innovation-book" tag="Livro em inglês" text="How to Measure Innovation? Um diagnóstico da inovação social e tecnológica." fit="contain" bg="#efe7da" %}
     {% include post-card.html slug="oer-webinar-r0g-agency" tag="Ensino" text="Webinar sobre Recursos Educacionais Abertos preparado para a r0g agency, Berlim." %}
     {% include post-card.html slug="como-medir-a-inovacao-online" tag="Curso" text="Como medir a inovação: curso on-line na Udemy e no Google Classroom." %}
   </div>

@@ -27,4 +27,3 @@ Um questionário on-line seguido de entrevistas semiestruturadas com 33 organiza
 
 <a class="btn" href="https://www.amazon.com.br/dp/B09JV1CWY6" target="_blank" rel="noopener" data-cta="book-pt-amazon">Comprar na Amazon ↗</a>
 <a class="btn ghost" href="/pt/post/como-medir-a-inovacao-online.html">Fazer o curso on-line</a>
-<a class="btn ghost" href="/pt/post/how-to-measure-innovation-book.html">Versão em inglês</a>

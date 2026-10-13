@@ -6,15 +6,6 @@ entries: true
 ref: texts
 ---
 
-## Como medir a inovação? (livro em inglês)
-Abril de 2026 - Edição Kindle, em inglês
-
-Livro sobre inovação social e tecnológica e uma ferramenta de diagnóstico pronta para uso por organizações em que criatividade, comunidade e valor social são os principais resultados, construída sobre a metodologia do Radar da Inovação e pesquisa de campo.
-
-[Saiba mais](/pt/post/how-to-measure-innovation-book.html) · [Amazon](https://www.amazon.com/dp/B0GYJXTRCS)
-
----
-
 ## make-a-thek: Circular Makerspace for Craft & Fashion Recommendations
 Novembro de 2025 - Relatório para a Comissão Europeia (em inglês)
 
