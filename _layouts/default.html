@@ -37,7 +37,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&display=swap">
-  <link rel="stylesheet" href="/assets/css/site.css?v=5">
+  <link rel="stylesheet" href="/assets/css/site.css?v=6">
   {%- if is_home %}
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":"Ricardo Ruiz Freire","url":"{{ site.url }}","image":"{{ site.url }}/images/avatar.jpg","jobTitle":"{% if lang == 'pt' %}Gestor, designer, pesquisador e estrategista de negócios; Diretor Executivo do Global Innovation Gathering{% else %}Manager, designer, researcher and business strategist; Executive Director, Global Innovation Gathering{% endif %}","worksFor":{"@type":"Organization","name":"Global Innovation Gathering e.V."},"address":{"@type":"PostalAddress","addressLocality":"Maceió","addressCountry":"BR"},"knowsLanguage":["pt","en","es"],"sameAs":["https://www.linkedin.com/in/ricardoruizfreire/","https://readruiz.medium.com/","https://www.udemy.com/user/ricardo-ruiz-freire-2/"]}
@@ -45,7 +45,7 @@
   {%- endif %}
   {% include analytics.html %}
 </head>
-<body class="{{ page.body_class }}">
+<body id="top" class="{{ page.body_class }}">
   <a class="skip" href="#main">{{ ui.skip }}</a>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -84,6 +84,8 @@
       </article>
     {% endif %}
   </main>
+
+  <div class="wrap to-top-wrap"><a class="to-top" href="#top" data-cta="to-top"><span aria-hidden="true">↑</span> {% if lang == 'pt' %}Voltar ao topo{% else %}Back to top{% endif %}</a></div>
 
   <footer class="site-footer">
     <div class="wrap footer-inner">

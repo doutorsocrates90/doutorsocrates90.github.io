@@ -1,12 +1,12 @@
 ---
 title: "Casa Criatura: management and innovation consulting"
 kicker: "Consulting · 2020 – 2026"
-lede: "Strategic planning, product design and management tools for a maker laboratory and creative-economy collective in the historic centre of Olinda."
+lede: "Strategic planning, product design and management tools for an architecture and design studio in the historic centre of Olinda."
 date: "2020-06-01"
 categories:
   - "consulting"
 coverImage: "cover-casa-criatura.svg"
-description: "Management and innovation consulting for Casa Criatura, a maker laboratory in Olinda, Brazil: strategic plan, product axes, financial and process management, sales and risk frameworks."
+description: "Management and innovation consulting for Casa Criatura, an architecture and design studio in Olinda, Brazil: strategic plan, product axes, financial and process management, sales and risk frameworks."
 ref: casa-criatura-consulting
 ---
 

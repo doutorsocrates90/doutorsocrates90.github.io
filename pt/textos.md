@@ -95,7 +95,7 @@ Este livro apresenta como foi possível mensurar o grau de inovação de organiz
 
 **Palavras-chave**: Inovação. Inovação social. Indicadores de inovação. Economia criativa. Políticas culturais.
 
-<a href="https://www.amazon.com.br/Como-medir-inovação-Mensurando-negócios-ebook/dp/B09JV1CWY6" target="_blank">Compre na Amazon</a>
+[Saiba mais](/pt/post/como-medir-a-inovacao-livro.html) · <a href="https://www.amazon.com.br/dp/B09JV1CWY6" target="_blank" rel="noopener">Compre na Amazon</a>
 
 ---
 

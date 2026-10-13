@@ -95,7 +95,7 @@ This book presents how it was possible to measure the degree of innovation of cu
   
 **Keywords**: Innovation. Social innovation. Indicators of innovation. Creative economy. Cultural Policies.
 
-<a href="https://www.amazon.com.br/Como-medir-inovação-Mensurando-negócios-ebook/dp/B09JV1CWY6" target="_blank">Get it on Amazon</a>
+[Read more](/post/como-medir-a-inovacao-livro.html) · <a href="https://www.amazon.com.br/dp/B09JV1CWY6" target="_blank" rel="noopener">Get it on Amazon</a>
 
 ---
 

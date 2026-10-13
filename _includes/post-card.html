@@ -2,5 +2,5 @@
 {%- if page.lang == "pt" -%}{%- assign prefix = "pt/post/" -%}{%- endif -%}
 {%- assign target = prefix | append: include.slug | append: ".md" -%}
 {%- for p in site.pages -%}{%- if p.path == target -%}
-{% include card.html href=p.url title=p.title text=include.text tag=include.tag meta=include.meta img=p.coverImage %}
+{% include card.html href=p.url title=p.title text=include.text tag=include.tag meta=include.meta img=p.coverImage fit=include.fit pos=include.pos bg=include.bg %}
 {%- endif -%}{%- endfor -%}

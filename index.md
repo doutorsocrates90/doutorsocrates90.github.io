@@ -34,8 +34,8 @@ ref: home
   <div class="grid">
     {% include post-card.html slug="labhacker-odoo-implementation" tag="Consulting" text="An own, open-source ERP for a digital-culture laboratory in Maceió." %}
     {% include post-card.html slug="snakebite-prize-assessor" tag="Review" text="Technical assessor for the Wellcome Snakebite Innovation Prize." %}
-    {% include post-card.html slug="casa-criatura-consulting" tag="Consulting" text="Strategy, products and management tools for a maker laboratory in Olinda." %}
-    {% include post-card.html slug="how-to-measure-innovation-book" tag="Book" text="How to Measure Innovation? A diagnostic for social and technological innovation." %}
+    {% include post-card.html slug="casa-criatura-consulting" tag="Consulting" text="Strategy, products and management tools for an architecture and design studio in Olinda." %}
+    {% include post-card.html slug="how-to-measure-innovation-book" tag="Book" text="How to Measure Innovation? A diagnostic for social and technological innovation." fit="contain" bg="#efe7da" %}
     {% include post-card.html slug="oer-webinar-r0g-agency" tag="Teaching" text="Open Educational Resources webinar prepared for r0g agency, Berlin." %}
     {% include post-card.html slug="como-medir-a-inovacao-online" tag="Course" text="Como medir a inovação: online course on Udemy and Google Classroom." %}
   </div>
@@ -46,11 +46,11 @@ ref: home
   <div class="pillars">
     <div class="pillar"><h3>Lead networks</h3><p>As Executive Director of GIG I lead a global network of grassroots innovation hubs, makerspaces and changemakers, many rooted in the Global South.</p></div>
     <div class="pillar"><h3>Research &amp; measure</h3><p>Innovation metrics, citizen social science and policy research for the European Commission, BMZ/GIZ and universities.</p></div>
-    <div class="pillar"><h3>Design &amp; build</h3><p>Digital platforms, open hardware programmes, management systems and visual identities for organisations and communities.</p></div>
+    <div class="pillar"><h3>Design &amp; build</h3><p>Digital platforms, open hardware programmes and management systems for organisations and communities.</p></div>
     <div class="pillar"><h3>Teach &amp; advise</h3><p>Courses, webinars and consulting on open education, innovation and cultural management.</p></div>
   </div>
   <p>Organisations call me when good ideas need to become working systems: a strategy the board can follow, a management platform a small team will actually use, a funding pipeline, a way to prove impact, or a training programme that spreads the knowledge.</p>
-  <p>I bring 25 years of delivery across public, non-profit and academic settings: a federal digital-culture programme that supported more than 1,000 cultural centres in Brazil, a national innovation lab with 43 researchers and 30 community action projects, EU-funded citizen-science work that reached 1.6 million people, and open-hardware programmes recognised with a Mozilla award.</p>
+  <p>I bring 25 years of delivery across public, private, non-profit and academic settings: a federal digital-culture programme that supported more than 1,000 cultural centres in Brazil, a national innovation lab with 43 researchers and 30 community action projects, EU-funded citizen-science work that reached 1.6 million people, and open-hardware programmes recognised with a Mozilla award.</p>
   <h3>Where I can help</h3>
   <ul>
     <li><strong>Strategy and management</strong> for creative-economy and civil-society organisations</li>

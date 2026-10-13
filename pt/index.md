@@ -34,8 +34,9 @@ ref: home
   <div class="grid">
     {% include post-card.html slug="labhacker-odoo-implementation" tag="Consultoria" text="Um ERP próprio, de código aberto, para um laboratório de cultura digital em Maceió." %}
     {% include post-card.html slug="snakebite-prize-assessor" tag="Avaliação" text="Avaliador técnico do Wellcome Snakebite Innovation Prize." %}
-    {% include post-card.html slug="casa-criatura-consulting" tag="Consultoria" text="Estratégia, produtos e ferramentas de gestão para um laboratório maker em Olinda." %}
-    {% include post-card.html slug="how-to-measure-innovation-book" tag="Livro" text="How to Measure Innovation? Um diagnóstico da inovação social e tecnológica." %}
+    {% include post-card.html slug="casa-criatura-consulting" tag="Consultoria" text="Estratégia, produtos e ferramentas de gestão para um estúdio de arquitetura e design em Olinda." %}
+    {% include post-card.html slug="como-medir-a-inovacao-livro" tag="Livro" text="Como medir a inovação? Mensurando a inovação em negócios e serviços da economia criativa." fit="contain" bg="#efe7da" %}
+    {% include post-card.html slug="how-to-measure-innovation-book" tag="Livro em inglês" text="How to Measure Innovation? Um diagnóstico da inovação social e tecnológica." fit="contain" bg="#efe7da" %}
     {% include post-card.html slug="oer-webinar-r0g-agency" tag="Ensino" text="Webinar sobre Recursos Educacionais Abertos preparado para a r0g agency, Berlim." %}
     {% include post-card.html slug="como-medir-a-inovacao-online" tag="Curso" text="Como medir a inovação: curso on-line na Udemy e no Google Classroom." %}
   </div>
@@ -46,11 +47,11 @@ ref: home
   <div class="pillars">
     <div class="pillar"><h3>Liderar redes</h3><p>Como Diretor Executivo do GIG, lidero uma rede global de hubs de inovação de base, makerspaces e agentes de mudança, muitos enraizados no Sul Global.</p></div>
     <div class="pillar"><h3>Pesquisar e medir</h3><p>Métricas de inovação, ciência social cidadã e pesquisa em políticas públicas para a Comissão Europeia, o BMZ/GIZ e universidades.</p></div>
-    <div class="pillar"><h3>Desenhar e construir</h3><p>Plataformas digitais, programas de hardware aberto, sistemas de gestão e identidades visuais para organizações e comunidades.</p></div>
+    <div class="pillar"><h3>Desenhar e construir</h3><p>Plataformas digitais, programas de hardware aberto e sistemas de gestão para organizações e comunidades.</p></div>
     <div class="pillar"><h3>Ensinar e aconselhar</h3><p>Cursos, webinars e consultoria em educação aberta, inovação e gestão cultural.</p></div>
   </div>
   <p>As organizações me procuram quando boas ideias precisam virar sistemas que funcionam: uma estratégia que a diretoria consegue seguir, uma plataforma de gestão que uma equipe pequena realmente usa, um funil de captação, uma forma de comprovar impacto ou um programa de formação que multiplica o conhecimento.</p>
-  <p>Trago 25 anos de entrega em contextos públicos, sem fins lucrativos e acadêmicos: um programa federal de cultura digital que apoiou mais de mil centros culturais no Brasil, um laboratório nacional de inovação com 43 pesquisadores e 30 projetos de ação comunitária, trabalho de ciência cidadã financiado pela UE que alcançou 1,6 milhão de pessoas e programas de hardware aberto reconhecidos com um prêmio da Mozilla.</p>
+  <p>Trago 25 anos de entrega em contextos públicos, privados, sem fins lucrativos e acadêmicos: um programa federal de cultura digital que apoiou mais de mil centros culturais no Brasil, um laboratório nacional de inovação com 43 pesquisadores e 30 projetos de ação comunitária, trabalho de ciência cidadã financiado pela UE que alcançou 1,6 milhão de pessoas e programas de hardware aberto reconhecidos com um prêmio da Mozilla.</p>
   <h3>Onde posso ajudar</h3>
   <ul>
     <li><strong>Estratégia e gestão</strong> para organizações da economia criativa e da sociedade civil</li>
