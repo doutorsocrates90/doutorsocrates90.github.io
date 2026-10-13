@@ -15,7 +15,7 @@ ref: consulting
 <div class="grid">
 {% include post-card.html slug="labhacker-odoo-implementation" tag="ERP próprio" text="ERP de código aberto em português, módulos sob medida, manual e consultoria em captação." meta="Out 2026 – Jan 2027 · Maceió" %}
 {% include post-card.html slug="global-innovation-gathering" tag="Liderança" text="Diretor Executivo Internacional de uma rede global de hubs de inovação de base e makerspaces." meta="2017 – hoje · Berlim" %}
-{% include post-card.html slug="casa-criatura-consulting" tag="Estratégia" text="Plano estratégico, eixos de produtos e ferramentas de gestão para um laboratório maker." meta="2020 – 2022 · Olinda" %}
+{% include post-card.html slug="casa-criatura-consulting" tag="Estratégia" text="Plano estratégico, eixos de produtos e ferramentas de gestão para um laboratório maker." meta="2020 – 2026 · Olinda" %}
 </div>
 
 ## Trabalhos anteriores

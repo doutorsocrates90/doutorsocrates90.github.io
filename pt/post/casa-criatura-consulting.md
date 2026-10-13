@@ -1,6 +1,6 @@
 ---
 title: "Casa Criatura: consultoria em gestão e inovação"
-kicker: "Consultoria · 2020 – 2022"
+kicker: "Consultoria · 2020 – 2026"
 lede: "Planejamento estratégico, desenho de produtos e ferramentas de gestão para um laboratório maker e coletivo de economia criativa no centro histórico de Olinda."
 date: "2020-06-01"
 categories:
@@ -13,7 +13,7 @@ ref: casa-criatura-consulting
 <dl class="facts">
   <div><span class="k">Cliente</span><span class="v">Casa Criatura, Olinda (PE)</span></div>
   <div><span class="k">Serviço</span><span class="v">Consultoria em gestão e inovação</span></div>
-  <div><span class="k">Período</span><span class="v">2020 – 2022</span></div>
+  <div><span class="k">Período</span><span class="v">2020 – 2026</span></div>
   <div><span class="k">Foco</span><span class="v">Estratégia, produtos, ferramentas</span></div>
 </dl>
 

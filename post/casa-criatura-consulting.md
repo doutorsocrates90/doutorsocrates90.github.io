@@ -1,6 +1,6 @@
 ---
 title: "Casa Criatura: management and innovation consulting"
-kicker: "Consulting · 2020 – 2022"
+kicker: "Consulting · 2020 – 2026"
 lede: "Strategic planning, product design and management tools for a maker laboratory and creative-economy collective in the historic centre of Olinda."
 date: "2020-06-01"
 categories:
@@ -13,7 +13,7 @@ ref: casa-criatura-consulting
 <dl class="facts">
   <div><span class="k">Client</span><span class="v">Casa Criatura, Olinda (PE)</span></div>
   <div><span class="k">Service</span><span class="v">Management &amp; innovation consulting</span></div>
-  <div><span class="k">Period</span><span class="v">2020 – 2022</span></div>
+  <div><span class="k">Period</span><span class="v">2020 – 2026</span></div>
   <div><span class="k">Focus</span><span class="v">Strategy, products, tools</span></div>
 </dl>
 
