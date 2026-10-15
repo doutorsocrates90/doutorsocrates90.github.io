@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thisismy.art.br/sitemap.xml
+Sitemap: https://thisismy.art.br/socratesapps/sitemap.xml
