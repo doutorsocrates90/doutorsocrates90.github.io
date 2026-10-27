@@ -38,3 +38,4 @@ footer{background:var(--navy);color:#94a3b8;padding:30px 0;margin-top:30px;font-
 dl.meta{display:grid;grid-template-columns:150px 1fr;gap:6px 14px;margin:0}dl.meta dt{color:var(--muted)}dl.meta dd{margin:0}
 .note{color:var(--muted);font-size:14px}
 @media (max-width:560px){dl.meta{grid-template-columns:1fr}.btn.ghost{margin:8px 0 0}}
+.buy .btn.ghost{margin:0}
